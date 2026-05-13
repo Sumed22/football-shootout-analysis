@@ -172,5 +172,5 @@ report/Penalty_Sequence_Analysis.pdf
 ## Author
 
 **Sumed Seeyakmani Kuson**  
-B.Sc. Mechanical Engineering  
+B.Sc. Data Science  
 TU Dortmund University
