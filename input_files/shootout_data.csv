@@ -1,0 +1,1624 @@
+uri,competition,competition_ID,date,homeTeam,awayTeam,homeShotFirst,goal_scored,is_aph_competition
+1,AFC Champions League Quali.,afc-champions-league-qual,2/6/2010,Singapore Armed Forces FC,Muangthong United,1,YYYNYYYYNN,0
+2,AFC Champions League Quali.,afc-champions-league-qual,2/12/2011,Sriwijaya FC,Muangthong United,1,YYYYYYYYNNNNYYYYYN,0
+3,AFC Champions League Quali.,afc-champions-league-qual,2/13/2013,Buriram United,Brisbane Roar,0,NYNYNY,0
+4,Africa Cup,afrika-cup,1/23/1992,Ivory Coast,Cameroon,1,YNYYNNYN,1
+5,Africa Cup,afrika-cup,1/26/1992,Ivory Coast,Ghana,1,YYYYYYYNNYYYYYYYYYYYYYYN,1
+6,Africa Cup,afrika-cup,4/6/1994,Nigeria,Ivory Coast,1,YYNYYNYNY,1
+7,Africa Cup,afrika-cup,1/28/1996,Tunisia,Gabon,1,YNYNYYY,1
+8,Africa Cup,afrika-cup,2/21/1998,Burkina Faso,Tunisia,1,YYYYYYNNYYNNYYYYYYYN,1
+9,Africa Cup,afrika-cup,2/21/1998,Ivory Coast,Egypt,1,YYYYNYYYYY,1
+10,Africa Cup,afrika-cup,2/27/1998,Burkina Faso,Congo DR,0,YNYYYNY,1
+11,Africa Cup,afrika-cup,2/13/2000,Nigeria,Cameroon,1,YYYYNYNNYY,1
+12,Africa Cup,afrika-cup,2/10/2002,Cameroon,Senegal,1,NYYYYNYNNN,1
+13,Africa Cup,afrika-cup,2/11/2004,Tunisia,Nigeria,1,YYYNYYYYY,1
+14,Africa Cup,afrika-cup,2/4/2006,Cameroon,Ivory Coast,1,YYYYYYYYYYYYYYYYYYYYYYNY,1
+15,Africa Cup,afrika-cup,2/4/2006,Nigeria,Tunisia,1,NYYYNNYNYYYYYYYN,1
+16,Africa Cup,afrika-cup,2/10/2006,Ivory Coast,Egypt,0,YNYYNNYYY,1
+17,Africa Cup,afrika-cup,1/25/2010,Zambia,Nigeria,1,YYYYYYNYYY,1
+18,Africa Cup,afrika-cup,2/5/2012,Gabon,Mali,1,YYYYYYNYYY,1
+19,Africa Cup,afrika-cup,2/12/2012,Zambia,Ivory Coast,0,YYYYYYYYYYYYYYNNNY,1
+20,Africa Cup,afrika-cup,2/2/2013,South Africa,Mali,1,YYNYNYN,1
+21,Africa Cup,afrika-cup,2/6/2013,Burkina Faso,Ghana,0,NYYYYNNYN,1
+22,Africa Cup,afrika-cup,2/7/2015,Congo DR,Equatorial Guinea,0,NYNYYYYY,1
+23,Africa Cup,afrika-cup,2/8/2015,Ivory Coast,Ghana,0,YNYNNYNYYYYYYYYYYYYYNY,1
+24,Africa Cup,afrika-cup,1/28/2017,Senegal,Cameroon,1,YYYYYYYYNY,1
+25,Africa Cup,afrika-cup,2/1/2017,Burkina Faso,Egypt,0,NYYYYYYNYN,1
+26,Africa Cup Qual.,afrika-cup-qual,6/17/2012,Mozambique,Tanzania,1,NNNYYYYNYYYYYYYYYN,0
+27,Africa Cup Qual.,afrika-cup-qual,10/13/2012,Uganda,Zambia,1,YNNYYYYYYYYYYYYYYYNY,0
+28,Africa Cup Qual.,afrika-cup-qual,8/2/2014,Malawi,Benin,0,NYYYYYYYN,0
+29,Africa Cup Qual.,afrika-cup-qual,8/2/2014,Rwanda,Congo,0,NYYYYNYYNNNY,0
+30,A-League,aus-a-league,6/11/2000,Perth Glory,Wollongong City Wolves,0,YYYYYYYYYYNNNNYYYN,0
+31,A-League,aus-a-league,2/11/2007,Adelaide United,Newcastle United Jets,0,YYYYYYNYN,0
+32,A-League,aus-a-league,2/20/2010,Gold Coast United,Newcastle United Jets,0,YYYYYYYYYYNNYN,0
+33,A-League,aus-a-league,2/21/2010,Wellington Phoenix,Perth Glory,0,YYNYNYYY,0
+34,A-League,aus-a-league,3/20/2010,Melbourne Victory,Sydney FC,0,YNNYYNYYY,0
+35,A-League,aus-a-league,3/13/2011,Brisbane Roar,Central Coast Mariners,0,YYYYNYNY,0
+36,A-League,aus-a-league,4/14/2012,Central Coast Mariners,Perth Glory,0,YYYYYYYNY,0
+37,A-League,aus-a-league,4/21/2017,Brisbane Roar,Western Sydney Wanderers,1,YYYYYYYYYYYN,0
+38,A-League,aus-a-league,5/7/2017,Sydney FC,Melbourne Victory,1,YYNYYNYNY,0
+39,Asian Cup,asian-cup,12/18/1988,Saudi Arabia,South Korea,0,NYYNYYYYNY,1
+40,Asian Cup,asian-cup,12/21/1996,Iran,Kuwait,0,NYYNNYYYN,1
+41,Asian Cup,asian-cup,7/30/2004,Uzbekistan,Bahrain,0,YYNYYYYNYN,1
+42,Asian Cup,asian-cup,7/31/2004,Japan,Jordan,1,NYNYYYYNYNNNYN,1
+43,Asian Cup,asian-cup,8/3/2004,China,Iran,1,YYNYYYYNYN,1
+44,Asian Cup,asian-cup,7/21/2007,Japan,Australia,0,NYNYYYYNYY,1
+45,Asian Cup,asian-cup,7/22/2007,Iran,South Korea,0,YYYYNNYNY,1
+46,Asian Cup,asian-cup,7/25/2007,Iraq,South Korea,0,YYYYYYNYN,1
+47,Asian Cup,asian-cup,7/28/2007,South Korea,Japan,1,YYYYYYYYYYYN,1
+48,Asian Cup,asian-cup,1/25/2011,Japan,South Korea,1,YNYNNNY,1
+49,Asian Cup,asian-cup,1/23/2015,Iran,Iraq,1,NNYYYYYYYYYYYYNY,1
+50,Asian Cup,asian-cup,1/23/2015,Japan,UA Emirates,1,NYYYYNYYYYNY,1
+51,Beker van BelgiÎ,bel-beker-van-belgie,12/2/2015,KRC Genk,Sporting Charleroi,0,NYYYYYYYYY,0
+52,Beker van BelgiÎ,bel-beker-van-belgie,12/2/2015,KVC Westerlo,Royal Antwerp FC,1,YNNYYYNYYNYYYN,0
+53,Beker van BelgiÎ,bel-beker-van-belgie,11/29/2016,Sint-Truidense VV,KV Mechelen,0,YNNYYYNNYYNY,0
+54,Beker van BelgiÎ,bel-beker-van-belgie,12/1/2016,Sporting Charleroi,RSC Anderlecht,1,YYYNYYYYY,0
+55,Beker van BelgiÎ,bel-beker-van-belgie,3/18/2017,KV Oostende,SV Zulte Waregem,1,YYNYYYNY,0
+56,Bikar,isl-bikar,10/3/2009,Fram ReykjavÌk,Breiablik,0,YYYNNYYYYYYN,0
+57,Bikar,isl-bikar,8/17/2013,UMF Stjarnan,Fram ReykjavÌk,0,YYYNYNNN,0
+58,Champions League,champions-league,11/4/1970,Everton FC,Bor. Mˆnchengladbach,1,NYYNYYYYYN,1
+59,Champions League,champions-league,10/3/1973,≈tvidabergs FF,Bayern M¸nchen,0,YYNYYYYNYN,1
+60,Champions League,champions-league,10/1/1975,1. FC Magdeburg,Malmˆ FF,1,NNNNYYNYN,1
+61,Champions League,champions-league,3/15/1978,Juventus,AFC Ajax,1,NNYNYNY,1
+62,Champions League,champions-league,9/27/1978,Dynamo Dresden,Partizan,0,NNYYYNNYYYYYNY,1
+63,Champions League,champions-league,5/30/1984,Liverpool FC,AS Roma,1,NYYNYYYNY,1
+64,Champions League,champions-league,10/3/1984,BFC Dynamo,Aberdeen FC,0,YYYYYNYYNYNY,1
+65,Champions League,champions-league,3/20/1985,Dnepr Dnepropetrovsk,Girondins Bordeaux,0,YNYYYYYYY,1
+66,Champions League,champions-league,4/16/1986,FC Barcelona,IFK Gˆteborg,0,YYYYYNYYNYNY,1
+67,Champions League,champions-league,5/7/1986,Steaua Bucuresti,FC Barcelona,1,NNNNYNYN,1
+68,Champions League,champions-league,11/5/1986,Juventus,Real Madrid,0,NNYYYNYN,1
+69,Champions League,champions-league,5/25/1988,PSV Eindhoven,SL Benfica,1,YYYYYYYYYYYN,1
+70,Champions League,champions-league,10/5/1988,Neuch‚tel Xamax FC,AE Larisa,1,YNYNYN,1
+71,Champions League,champions-league,11/10/1988,Crvena Zvezda,AC Milan,1,YYYYNYNY,1
+72,Champions League,champions-league,11/7/1990,Malmˆ FF,Dynamo Dresden,1,NYYYYYYYYY,1
+73,Champions League,champions-league,11/7/1990,Spartak Moskva,SSC Napoli,1,YYYYYNYYY,1
+74,Champions League,champions-league,5/29/1991,Crvena Zvezda,Olympique Marseille,1,YNYYYYYYY,1
+75,Champions League,champions-league,5/22/1996,Juventus,AFC Ajax,0,NYYYYYNY,1
+76,Champions League,champions-league,5/23/2001,Bayern M¸nchen,Valencia CF,1,NYYYYNNNYYYYYN,1
+77,Champions League,champions-league,5/28/2003,Juventus,AC Milan,1,NYYNNNNYYY,1
+78,Champions League,champions-league,4/13/2005,PSV Eindhoven,Olympique Lyon,1,YYYNYYNNY,1
+79,Champions League,champions-league,5/25/2005,Liverpool FC,AC Milan,0,NYNYYNYYN,1
+80,Champions League,champions-league,5/1/2007,Liverpool FC,Chelsea FC,1,YNYYYNY,1
+81,Champions League,champions-league,3/4/2008,Sevilla FC,FenerbahÁe,1,YYNNYYNYN,1
+82,Champions League,champions-league,3/5/2008,FC Porto,FC Schalke 04,0,YYYNYNY,1
+83,Champions League,champions-league,5/21/2008,Manchester United,Chelsea FC,1,YYYYNYYYYNYYYN,1
+84,Champions League,champions-league,3/11/2009,AS Roma,Arsenal FC,0,NYYNYYYYYYYYYYYN,1
+85,Champions League,champions-league,3/7/2012,APOEL Nikosia,Olympique Lyon,0,YYYYYYNYN,1
+86,Champions League,champions-league,4/25/2012,Real Madrid,Bayern M¸nchen,0,YNYNNYNNY,1
+87,Champions League,champions-league,5/19/2012,Bayern M¸nchen,Chelsea FC,1,YNYYYYNYNY,1
+88,Champions League,champions-league,3/17/2015,AtlÈtico Madrid,Bayer Leverkusen,1,NNYYYNNYYN,1
+89,Champions League,champions-league,3/15/2016,AtlÈtico Madrid,PSV Eindhoven,0,YYYYYYYYYYYYYYNY,1
+90,Champions League,champions-league,5/28/2016,Real Madrid,AtlÈtico Madrid,1,YYYYYYYNY,1
+91,Champions League Qual.,champions-league-qual,8/26/1998,Sparta Praha,Dinamo Kiev,0,YYYNNNNNY,1
+92,Champions League Qual.,champions-league-qual,8/4/1999,Widzew LÛdz,PFC Litex Lovech,1,NYNNYYYNYN,1
+93,Champions League Qual.,champions-league-qual,8/1/2001,Hajduk Split,Ferencv·rosi TC,0,YYYYYYYYYYNY,1
+94,Champions League Qual.,champions-league-qual,8/27/2003,Borussia Dortmund,Club Brugge KV,1,NYNYYYYY,1
+95,Champions League Qual.,champions-league-qual,8/23/2005,Partizan,Artmedia Petrûalka,0,YYNNYYNYYNYN,1
+96,Champions League Qual.,champions-league-qual,8/24/2005,Club Brugge KV,VÂlerenga IF,0,YYNYYYYNNY,1
+97,Champions League Qual.,champions-league-qual,8/8/2007,Slavia Praha,MäK éilina,1,NNYNYYNYYYYN,1
+98,Champions League Qual.,champions-league-qual,8/29/2007,Celtic FC,Spartak Moskva,1,YYNNYYYYYN,1
+99,Champions League Qual.,champions-league-qual,7/7/2009,UE Sant Juli‡,SP Tre Fiori,1,YYNYYNYYYYYN,1
+100,Champions League Qual.,champions-league-qual,7/21/2010,Lech Poznan,Inter Baku,1,YNNYNYYNYYYYYYYYYYYYYN,1
+101,Champions League Qual.,champions-league-qual,8/4/2010,Dinamo Zagreb,FC Sheriff,1,YYNNNNYYYYYYYYNNNY,1
+102,Champions League Qual.,champions-league-qual,8/24/2010,RSC Anderlecht,Partizan,0,YNNNYYNYYN,1
+103,Champions League Qual.,champions-league-qual,8/23/2011,KRC Genk,Maccabi Haifa,1,YNYNYYY,1
+104,Champions League Qual.,champions-league-qual,7/10/2012,B36 TÛrshavn,Linfield FC,1,NYYYYYYYN,1
+105,Champions League Qual.,champions-league-qual,8/28/2012,Udinese Calcio,Sporting Braga,1,YYYYNYYYYY,1
+106,Champions League Qual.,champions-league-qual,8/27/2014,PFC Ludogorets Razgrad,Steaua Bucuresti,1,YYNNYYYYYYYYYN,1
+107,Champions League Qual.,champions-league-qual,7/20/2016,Ferencv·rosi TC,FK Partizani,0,YNNNYYYN,1
+108,Champions League Qual.,champions-league-qual,8/3/2016,BSC Young Boys,Shakhtar Donetsk,1,YYYNNNYYY,1
+109,Club World Cup,klub-wm,1/14/2000,Real Madrid,Club Necaxa,1,YYYNNYYYNY,0
+110,Club World Cup,klub-wm,1/14/2000,Vasco da Gama,Corinthians SP,0,YYYYYNYYNN,0
+111,Club World Cup,klub-wm,12/16/2007,ES Sahel,Urawa Red Diamonds,0,YNYYYYYN,0
+112,Club World Cup,klub-wm,12/19/2009,Pohang Steelers,CF Atlante,0,YYNYNYYNYY,0
+113,Club World Cup,klub-wm,12/15/2010,CF Pachuca,Al Wahda,1,YYYYYNYN,0
+114,Club World Cup,klub-wm,12/11/2011,Kashiwa Reysol,CF Monterrey,0,NYYYYYNNYY,0
+115,Club World Cup,klub-wm,12/18/2011,Kashiwa Reysol,Al Sadd,0,YYYYYNYYY,0
+116,Club World Cup,klub-wm,12/10/2014,Moghreb de TÈtouan,Auckland City FC,0,YNYYYYNYYN,0
+117,Club World Cup,klub-wm,12/17/2014,ES SÈtif,Western Sydney Wanderers,0,YNNYYYYNNYNNYYNY,0
+118,Club World Cup,klub-wm,12/20/2014,Cruz Azul,Auckland City FC,0,YYNNYYYNY,0
+119,Copa AmÈrica,copa-america,7/16/1995,Colombia,Paraguay,1,YYYYYYYYYN,1
+120,Copa AmÈrica,copa-america,7/17/1995,Argentina,Brazil,0,YYYYNNYNY,1
+121,Copa AmÈrica,copa-america,7/17/1995,USA,Mexico,1,YYYNYNY,1
+122,Copa AmÈrica,copa-america,7/23/1995,Uruguay,Brazil,1,YYYYYNYYY,1
+123,Copa AmÈrica,copa-america,6/22/1997,Mexico,Ecuador,0,YYNYNNYYYNNY,1
+124,Copa AmÈrica,copa-america,7/10/1999,Paraguay,Uruguay,0,YYYYYYYNY,1
+125,Copa AmÈrica,copa-america,7/10/1999,Peru,Mexico,0,YYYYYNYN,1
+126,Copa AmÈrica,copa-america,7/13/1999,Uruguay,Chile,1,YYYNYYYYY,1
+127,Copa AmÈrica,copa-america,7/29/2001,Uruguay,Honduras,1,YYNYYYYYYY,1
+128,Copa AmÈrica,copa-america,7/22/2004,Brazil,Uruguay,1,YYYYYYYNY,1
+129,Copa AmÈrica,copa-america,7/25/2004,Argentina,Brazil,1,NYNYYYYY,1
+130,Copa AmÈrica,copa-america,7/11/2007,Uruguay,Brazil,0,YNYYYYNYYYNNYN,1
+131,Copa AmÈrica,copa-america,7/16/2011,Argentina,Uruguay,1,YYYYNYYYYY,1
+132,Copa AmÈrica,copa-america,7/17/2011,Brazil,Paraguay,1,NNNYNYN,1
+133,Copa AmÈrica,copa-america,7/21/2011,Paraguay,Venezuela,1,YYYYYNYYY,1
+134,Copa AmÈrica,copa-america,6/27/2015,Argentina,Colombia,0,YYYYYYNYYNNNNY,1
+135,Copa AmÈrica,copa-america,6/27/2015,Brazil,Paraguay,1,YYNYYYNNYY,1
+136,Copa AmÈrica,copa-america,7/4/2015,Chile,Argentina,1,YYYNYNY,1
+137,Copa AmÈrica,copa-america,6/18/2016,Peru,Colombia,0,YYYYYNYN,1
+138,Copa AmÈrica,copa-america,6/27/2016,Argentina,Chile,0,NNYYYYYNY,1
+139,Copa Argentina,arg-copa-argentina,3/21/2014,Juventud Unida Universitario,Defensores de Cambaceres,0,NYYYYYNY,0
+140,Copa Argentina,arg-copa-argentina,4/2/2014,CA Villa San Carlos,Club Cipolletti,0,YYNYYNYNY,0
+141,Copa Argentina,arg-copa-argentina,4/16/2014,Defensa y Justicia,Brown de AdroguÈ,1,YNYNYYY,0
+142,Copa Argentina,arg-copa-argentina,4/24/2014,GyE Jujuy,Estudiantes de Caseros,0,YNYYNNYYY,0
+143,Copa Argentina,arg-copa-argentina,5/1/2014,Juventud Unida Universitario,UniÛn de Santa Fe,1,YYYNYNY,0
+144,Copa Argentina,arg-copa-argentina,5/1/2014,Patronato,Instituto CÛrdoba,0,YYYYYYYYYN,0
+145,Copa Argentina,arg-copa-argentina,5/7/2014,Boca Unidos,CA Douglas Haig,1,NYNYNY,0
+146,Copa Argentina,arg-copa-argentina,7/22/2014,Olimpo,AtlÈtico Rafaela,0,NYYNYYYNY,0
+147,Copa Argentina,arg-copa-argentina,7/24/2014,CD Godoy Cruz,Defensa y Justicia,1,NYYYYYNY,0
+148,Copa Argentina,arg-copa-argentina,7/25/2014,GyE La Plata,Argentinos Juniors,1,YYNYYYNY,0
+149,Copa Argentina,arg-copa-argentina,7/28/2014,River Plate,Ferro Carril Oeste,1,YNNYYNNYYYYYYYYN,0
+150,Copa Argentina,arg-copa-argentina,7/28/2014,Tigre,All Boys,1,NNNNYYNYYNYYYYYN,0
+151,Copa Argentina,arg-copa-argentina,8/21/2014,River Plate,CA ColÛn,1,YYYNYNNYY,0
+152,Copa Argentina,arg-copa-argentina,9/25/2014,Hurac·n,CA Banfield,0,NYNYYNYYN,0
+153,Copa Argentina,arg-copa-argentina,10/8/2014,Estudiantes,Hurac·n,1,YYYNNNNYNY,0
+154,Copa Argentina,arg-copa-argentina,10/10/2014,River Plate,Rosario Central,1,YYYYYYYYNY,0
+155,Copa Argentina,arg-copa-argentina,10/16/2014,Argentinos Juniors,Estudiantes de Caseros,1,YYYYYYYYYN,0
+156,Copa Argentina,arg-copa-argentina,11/26/2014,Rosario Central,Hurac·n,0,NYYYNNYNYYYYYN,0
+157,Copa Argentina,arg-copa-argentina,3/19/2015,CA Temperley,Patronato,0,NNNNNYNY,0
+158,Copa Argentina,arg-copa-argentina,4/8/2015,Olimpo,Atlanta,1,YYYNYYNYNY,0
+159,Copa Argentina,arg-copa-argentina,4/9/2015,Belgrano CÛrdoba,Instituto CÛrdoba,0,NNYYYNYYY,0
+160,Copa Argentina,arg-copa-argentina,4/27/2015,Independiente,Alianza de Coronel Moldes,1,YYYNYNY,0
+161,Copa Argentina,arg-copa-argentina,5/20/2015,Ferro Carril Oeste,Boca Unidos,1,YNYYYYYYY,0
+162,Copa Argentina,arg-copa-argentina,5/27/2015,AtlÈtico Rafaela,CSD Flandria,0,NYYNNYYYYNNY,0
+163,Copa Argentina,arg-copa-argentina,5/28/2015,CA ColÛn,Acassuso CF,0,YYYYYYYYYN,0
+164,Copa Argentina,arg-copa-argentina,6/3/2015,Aldosivi,Comunicaciones,0,YYYYYYYYYYYN,0
+165,Copa Argentina,arg-copa-argentina,6/12/2015,CA San MartÌn,Estudiantes de Caseros,0,NYYNYYYYYYYYYYNY,0
+166,Copa Argentina,arg-copa-argentina,7/15/2015,Estudiantes,CA San MartÌn,1,YYYYYNNYYYYYYN,0
+167,Copa Argentina,arg-copa-argentina,7/16/2015,UniÛn de Santa Fe,GyE La Plata,1,YNYYYYNYYYNNNNYYNY,0
+168,Copa Argentina,arg-copa-argentina,8/5/2015,Ferro Carril Oeste,Los Andes,1,YYYNYNY,0
+169,Copa Argentina,arg-copa-argentina,8/6/2015,CA Temperley,Defensa y Justicia,0,YYYNYYYYY,0
+170,Copa Argentina,arg-copa-argentina,8/12/2015,Atlanta,Comunicaciones,1,YYYYYYYYYYYYYN,0
+171,Copa Argentina,arg-copa-argentina,8/27/2015,Racing Club,Atlanta,1,YNYYYYNNY,0
+172,Copa Argentina,arg-copa-argentina,8/27/2015,Rosario Central,Ferro Carril Oeste,1,YNYYYYYYY,0
+173,Copa Argentina,arg-copa-argentina,9/3/2015,Estudiantes,Quilmes AC,1,YNNNYYYN,0
+174,Copa Argentina,arg-copa-argentina,9/9/2015,CA Lan˙s,VÈlez S·rsfield,0,YYYYNYNY,0
+175,Copa Argentina,arg-copa-argentina,5/5/2016,Aldosivi,Deportivo MorÛn,0,YYYNYYYYY,0
+176,Copa Argentina,arg-copa-argentina,5/18/2016,UniÛn de Santa Fe,AtlÈtico Paran·,0,YYYYNYYYN,0
+177,Copa Argentina,arg-copa-argentina,5/25/2016,Tigre,CA Douglas Haig,1,NYYYNYYY,0
+178,Copa Argentina,arg-copa-argentina,6/1/2016,Olimpo,GyE Jujuy,0,NNNYYYNY,0
+179,Copa Argentina,arg-copa-argentina,6/2/2016,AtlÈtico Rafaela,Ferro Carril Oeste,0,NYYYNNYYN,0
+180,Copa Argentina,arg-copa-argentina,6/23/2016,Crucero del Norte,Juventud Unida Gualeguaych˙,0,NNYNYYYN,0
+181,Copa Argentina,arg-copa-argentina,7/22/2016,Patronato,Club Villa D·lmine,0,YYNYNYYY,0
+182,Copa Argentina,arg-copa-argentina,7/23/2016,Quilmes AC,UniÛn de Aconquija,0,YYYYNNYNY,0
+183,Copa Argentina,arg-copa-argentina,8/16/2016,Juventud Unida Gualeguaych˙,VÈlez S·rsfield,1,YNYYYYNYYN,0
+184,Copa Argentina,arg-copa-argentina,8/31/2016,AtlÈtico Rafaela,Rosario Central,0,YYYNNNYN,0
+185,Copa Argentina,arg-copa-argentina,8/31/2016,Deportivo Laferrere,Club Almagro,0,YNNNYYNYYYYN,0
+186,Copa Argentina,arg-copa-argentina,9/3/2016,UniÛn de Santa Fe,Estudiantes,1,YYYYNYYNYYYN,0
+187,Copa Argentina,arg-copa-argentina,9/29/2016,CA Lan˙s,Boca Juniors,1,YYNYNYYY,0
+188,Copa Argentina,arg-copa-argentina,11/18/2016,GyE La Plata,San Lorenzo,0,NYYYNYYY,0
+189,Copa Argentina,arg-copa-argentina,5/4/2017,Hurac·n,Defensores Unidos Z·rate,0,NYYYNYN,0
+190,Copa Argentina,arg-copa-argentina,5/9/2017,Tigre,Deportivo Riestra,1,NYYNNYNY,0
+191,Copa Argentina,arg-copa-argentina,5/10/2017,Quilmes AC,GyE Mendoza,0,YNYYYNY,0
+192,Copa Argentina,arg-copa-argentina,5/18/2017,Independiente,Deportivo Camioneros,0,YYYYNYYNYYNY,0
+193,Copa Argentina,arg-copa-argentina,5/23/2017,Arsenal SarandÌ,Sacachispas FC,1,NYYYYNYYYYYYNY,0
+194,Copa Argentina,arg-copa-argentina,5/24/2017,Belgrano CÛrdoba,Estudiantes de Caseros,0,NYNNYYYYN,0
+195,Copa Argentina,arg-copa-argentina,6/9/2017,AtlÈtico Tucum·n,All Boys,1,YYYNYNY,0
+196,Copa del Rey,esp-copa-del-rey,10/28/1970,Gerona,Baracaldo,0,YYYYYYYYYN,1
+197,Copa del Rey,esp-copa-del-rey,10/28/1970,MirandÈs,Vetusta,0,NYYYYYYYYY,1
+198,Copa del Rey,esp-copa-del-rey,2/28/1973,San AndrÈs,Real Betis Balompie,1,YYNYYYNY,1
+199,Copa del Rey,esp-copa-del-rey,12/19/1973,Orense,Barcelona Atletico,1,YYYYYYNYYY,1
+200,Copa del Rey,esp-copa-del-rey,3/27/1974,Sporting de Gijon,Las Palmas,1,NYYYNNYYYNNY,1
+201,Copa del Rey,esp-copa-del-rey,1/29/1975,RCD Mallorca [Palma de Mallorca],CD Carabanchel,1,YYYNNYYYYYYYYN,1
+202,Copa del Rey,esp-copa-del-rey,2/26/1975,Levante,Sporting de Gijon,1,YYNNNNNYYY,1
+203,Copa del Rey,esp-copa-del-rey,4/2/1975,Burgos,Real Oviedo,0,YYNYYYYYYY,1
+204,Copa del Rey,esp-copa-del-rey,6/4/1975,RC Celta,Real Zaragoza CD,1,YYNYYYNY,1
+205,Copa del Rey,esp-copa-del-rey,7/5/1975,Real Madrid CF,Club AtlÈtico de Madrid,0,NYYYNNYYYY,1
+206,Copa del Rey,esp-copa-del-rey,6/5/1976,UD Las Palmas,Real Sociedad de F˙tbol,1,YYNYYYNNN,1
+207,Copa del Rey,esp-copa-del-rey,10/27/1976,CE Sant Andreu [Barcelona],UE Lleida,0,NYNYYNYYYNYYYN,1
+208,Copa del Rey,esp-copa-del-rey,10/27/1976,Linares CF,Real Racing Club de Santander,1,YYYYYNYN,1
+209,Copa del Rey,esp-copa-del-rey,10/27/1976,CF GandÌa,CD Gecho,0,YYYYYYYYYN,1
+210,Copa del Rey,esp-copa-del-rey,2/2/1977,Burgos CF,UE Lleida,0,YYYNYYYYNN,1
+211,Copa del Rey,esp-copa-del-rey,6/5/1977,Real Betis Balompie,Hercules,1,YYYYYNYN,1
+212,Copa del Rey,esp-copa-del-rey,6/25/1977,Betis,Athletic Club de Bilbao,1,YYYYYYYYNNYYNNYYYYYN,1
+213,Copa del Rey,esp-copa-del-rey,9/28/1977,CD Malgrat [Malgrat de Mar],SCF Celanova,1,NYYNYYYYYN,1
+214,Copa del Rey,esp-copa-del-rey,11/16/1977,Sabadell,Castilla,1,YYYYYYNNYN,1
+215,Copa del Rey,esp-copa-del-rey,12/28/1977,RC Deportivo de La CoruÒa,RCD EspaÒol,0,YYYYYYYNY,1
+216,Copa del Rey,esp-copa-del-rey,2/8/1978,Athletic Club de Bilbao,Club atletico de Madrid,0,YYYYNNYYYYNY,1
+217,Copa del Rey,esp-copa-del-rey,10/11/1978,CP CacereÒo,CD DÌter Zafra,0,YYYYYYYNY,1
+218,Copa del Rey,esp-copa-del-rey,1/24/1979,Atletico de Madrid,Real Madrid,0,YNYNYYY,1
+219,Copa del Rey,esp-copa-del-rey,4/18/1979,Burgos CF (1),Real Valladolid Deportivo,0,YYYNYNY,1
+220,Copa del Rey,esp-copa-del-rey,10/31/1979,Lleida,Europa,1,YYYYYYYYNNYN,1
+221,Copa del Rey,esp-copa-del-rey,1/16/1980,Club Gimn‡stic de Tarragona,Pontevedra CF,1,NYYYYYYNYN,1
+222,Copa del Rey,esp-copa-del-rey,5/24/1980,Real Madrid CF,Club Atletico de Madrid,0,YYNNNYYYYY,1
+223,Copa del Rey,esp-copa-del-rey,10/1/1980,Andorra,Gimnastic de Tarragona,1,YYYYYYYNY,1
+224,Copa del Rey,esp-copa-del-rey,1/21/1981,RC Celta,Burgos CF,0,YNYYYYYYY,1
+225,Copa del Rey,esp-copa-del-rey,11/4/1981,Santander,Gran peÒa celtista,0,YYYYYYYYYN,1
+226,Copa del Rey,esp-copa-del-rey,12/8/1981,CD AlavÈs,RC Celta,0,YYNYYNYYYYNY,1
+227,Copa del Rey,esp-copa-del-rey,12/9/1981,Binefar,Mallorca,1,NNYYNNNYYY,1
+228,Copa del Rey,esp-copa-del-rey,12/9/1981,HÈrcules CF,UE Figueres,1,NNNYYYYNYYYYNY,1
+229,Copa del Rey,esp-copa-del-rey,2/17/1982,Athletic Bilbao,Real Sociedad,0,YNYYYYYN,1
+230,Copa del Rey,esp-copa-del-rey,3/31/1982,Real Madrid,Real Sociedad,0,NNYYNNYYYYNY,1
+231,Copa del Rey,esp-copa-del-rey,10/26/1982,Real Zaragoza CD,CD LogroÒÈs,0,YNYNNYNNY,1
+232,Copa del Rey,esp-copa-del-rey,12/8/1982,Barcelona Atletico,Salamanca,0,YNYYYNNYY,1
+233,Copa del Rey,esp-copa-del-rey,2/23/1983,UD Salamanca,Real Sociedad de F˙tbol,1,YYYYYYNNNY,1
+234,Copa del Rey,esp-copa-del-rey,9/28/1983,UE Lleida,UD Olot,0,YYYYYYNNYN,1
+235,Copa del Rey,esp-copa-del-rey,10/19/1983,Granada CF,Sevilla FC,0,YYYYYYYYYYNNNY,1
+236,Copa del Rey,esp-copa-del-rey,11/23/1983,Real Murcia CF,CD CastellÛn,0,YYYYYYYYYN,1
+237,Copa del Rey,esp-copa-del-rey,2/8/1984,Real Sociedad de F˙tbol,Athletic Club de Bilbao,0,YYYYYNYYY,1
+238,Copa del Rey,esp-copa-del-rey,4/18/1984,AC-Bilbao,Real-madrid,0,NYYYNNYYYY,1
+239,Copa del Rey,esp-copa-del-rey,4/18/1984,Barcelona,Las-palmas,1,YYYNNYYNY,1
+240,Copa del Rey,esp-copa-del-rey,4/3/1985,C·diz CF,Real Zaragoza CD,0,YNYYYYYYY,1
+241,Copa del Rey,esp-copa-del-rey,4/3/1985,Real-sportin-de-gijon,Valencia,1,YYYNYNY,1
+242,Copa del Rey,esp-copa-del-rey,11/27/1985,CD M·laga,CF Lorca Deportiva,1,YYYYYYYYYN,1
+243,Copa del Rey,esp-copa-del-rey,2/5/1986,RC Celta,Real Oviedo CF,1,YYYNYNY,1
+244,Copa del Rey,esp-copa-del-rey,2/26/1986,CE-Sabadell-FC,Athletic Club de Bilbao,0,YNNYYYNNYN,1
+245,Copa del Rey,esp-copa-del-rey,9/17/1986,AEC Manlleu,RCD EspaÒol [Barcelona],0,YYYNYYNYYN,1
+246,Copa del Rey,esp-copa-del-rey,9/17/1986,UD Pilas,C·diz FC,0,YYYYYNYN,1
+247,Copa del Rey,esp-copa-del-rey,9/17/1986,Villareal,Valencia,1,YYYYYYYYYN,1
+248,Copa del Rey,esp-copa-del-rey,10/22/1986,RCD Mallorca AtlÈtico,CD M·laga,0,YYYYYYNYYY,1
+249,Copa del Rey,esp-copa-del-rey,11/5/1986,Club AtlÈtico de Marbella,Real Betis BalompiÈ,1,NNYYYNYYY,1
+250,Copa del Rey,esp-copa-del-rey,2/11/1987,Osasuna,Barcelona,1,YYYYYNYYY,1
+251,Copa del Rey,esp-copa-del-rey,6/27/1987,Real Sociedad de F˙tbol,Club AtlÈtico de Madrid,1,YYYNYYYN,1
+252,Copa del Rey,esp-copa-del-rey,11/3/1987,Castellon,CD LogroÒÈs,0,YYYYYYNNNY,1
+253,Copa del Rey,esp-copa-del-rey,12/2/1987,Elche CF,Club AtlÈtico de Madrid,1,NYYYYYYNYYNNYYYYYN,1
+254,Copa del Rey,esp-copa-del-rey,1/6/1988,Castilla,Athletic Bilbao,0,NYYNYYYYYYYYYYNY,1
+255,Copa del Rey,esp-copa-del-rey,2/22/1989,RC Celta,CA Osasuna,0,NYNYYYYNYNNY,1
+256,Copa del Rey,esp-copa-del-rey,2/22/1989,RC Recreativo de Huelva,RCD Mallorca,0,YYYYYNYYY,1
+257,Copa del Rey,esp-copa-del-rey,2/22/1989,Real Sociedad,Deportivo la CoruÒa,1,YYNYNYN,1
+258,Copa del Rey,esp-copa-del-rey,4/22/1989,C·diz CF,Real Valladolid Deportivo,0,YYYYYYYNNN,1
+259,Copa del Rey,esp-copa-del-rey,10/25/1989,Elche CF,Real Sporting de GijÛn,0,YYYNYNNN,1
+260,Copa del Rey,esp-copa-del-rey,11/29/1989,Sabadell,Real Sociedad,0,YYYYYYYYNNYYYN,1
+261,Copa del Rey,esp-copa-del-rey,1/24/1990,Valencia CF,Real Zaragoza CD,1,YNNNNNYYY,1
+262,Copa del Rey,esp-copa-del-rey,1/2/1991,SD Huesca,C·diz CF,1,YYYYYYNYYY,1
+263,Copa del Rey,esp-copa-del-rey,10/30/1991,Lleida,Benidorm,1,YYNYNNYYN,1
+264,Copa del Rey,esp-copa-del-rey,1/22/1992,CA Osasuna [Pamplona],RC Deportivo de La CoruÒa,0,YYYYYYYNY,1
+265,Copa del Rey,esp-copa-del-rey,1/22/1992,Valencia CF,FC Barcelona,0,YYYYYYNYYY,1
+266,Copa del Rey,esp-copa-del-rey,12/30/1992,Real JaÈn CF,CD LogroÒez,1,NYYYYYYYYY,1
+267,Copa del Rey,esp-copa-del-rey,1/20/1993,PalamÛs CF,UE Lleida,1,YYYYYYNYN,1
+268,Copa del Rey,esp-copa-del-rey,1/12/1994,Celta,LogroÒÈs,1,YNYNYYY,1
+269,Copa del Rey,esp-copa-del-rey,4/20/1994,Real Zaragoza CD,RC Celta,0,YYYYYYYYNY,1
+270,Copa del Rey,esp-copa-del-rey,1/12/1995,CD Tenerife,UD Las Palmas,1,NYYYNYYNYY,1
+271,Copa del Rey,esp-copa-del-rey,11/27/1996,Granada CF,CP Ejido,1,YYYYYYYNNN,1
+272,Copa del Rey,esp-copa-del-rey,4/29/1998,Mallorca,Barcelona FC,0,NNYYNNYYYYNNYYYN,1
+273,Copa del Rey,esp-copa-del-rey,11/11/1998,Levante UD,CF Extremadura,1,YNYNYYY,1
+274,Copa del Rey,esp-copa-del-rey,2/1/2000,Villarreal CF,SD Compostela,1,NYYYNYYY,1
+275,Copa del Rey,esp-copa-del-rey,12/13/2000,RS Gimnastica de Teorrelavega,CD AlavÈs,1,YYYNYNY,1
+276,Copa del Rey,esp-copa-del-rey,1/2/2001,Granada,Villarreal,0,NYYYYYNY,1
+277,Copa del Rey,esp-copa-del-rey,1/3/2001,Guadix CF,Valencia CF,1,YYYYYYYYYYYN,1
+278,Copa del Rey,esp-copa-del-rey,1/17/2001,Granada CF,Guadix CF,1,YNYNNYYYNYYYYN,1
+279,Copa del Rey,esp-copa-del-rey,5/11/2001,LogroÒes,Real Zaragoza,1,YYYYYYYYYN,1
+280,Copa del Rey,esp-copa-del-rey,10/11/2001,CD Ourense,Real Valladolid CF,0,YYYYYYYYYN,1
+281,Copa del Rey,esp-copa-del-rey,11/28/2001,AD Ceuta (2),RCD Mallorca,1,YYYYYYNYYY,1
+282,Copa del Rey,esp-copa-del-rey,11/28/2001,Badajoz,Recreativo,1,YYYYYYYNY,1
+283,Copa del Rey,esp-copa-del-rey,11/28/2001,UE Figueres,CA Osasuna,1,YYYYYNYN,1
+284,Copa del Rey,esp-copa-del-rey,11/29/2001,Levante UD,Villarreal CF,1,YYYYYYYYNY,1
+285,Copa del Rey,esp-copa-del-rey,11/6/2002,Alicante CF,Valencia CF,0,YYYYYYYYYN,1
+286,Copa del Rey,esp-copa-del-rey,11/6/2002,SD Eibar,CA Osasuna,1,YYYYNYYNYYYYYYNY,1
+287,Copa del Rey,esp-copa-del-rey,10/8/2003,Pontevedra CF,RC Celta [Vigo],0,YYYYYYYYYN,1
+288,Copa del Rey,esp-copa-del-rey,10/8/2003,Racing Club de Ferrol,CD Alaves [Vitoria],1,NNNNNNNYYY,1
+289,Copa del Rey,esp-copa-del-rey,10/27/2004,SD Eibar,Real Valladolid CF,1,NYNYYYYY,1
+290,Copa del Rey,esp-copa-del-rey,10/27/2004,CF Badalona,Levante UD [Valencia],0,YYYNYYYN,1
+291,Copa del Rey,esp-copa-del-rey,10/27/2004,Terrassa FC,RCD Espanyol [Barcelona],1,YYYYYNYYY,1
+292,Copa del Rey,esp-copa-del-rey,10/27/2004,CD Alcal·,Real Betis BalompiÈ,1,YYNYNYYY,1
+293,Copa del Rey,esp-copa-del-rey,11/2/2004,Cordoba CF,UD Almeria,1,YYYYYYNNYN,1
+294,Copa del Rey,esp-copa-del-rey,11/10/2004,CD Mirandes,Real Sociedad de Futbol,1,YNYNNYYYNYYN,1
+295,Copa del Rey,esp-copa-del-rey,11/10/2004,CÛrdoba CF,CD Numancia,1,YYYYNYYYN,1
+296,Copa del Rey,esp-copa-del-rey,1/19/2005,Elche CF,CD Numancia,0,YYYNYYYYY,1
+297,Copa del Rey,esp-copa-del-rey,5/11/2005,Real Betis BalompiÈ,Athletic Club de Bilbao,0,NYYNYYYYYYNY,1
+298,Copa del Rey,esp-copa-del-rey,9/15/2005,SD Tenisca,Real Murcia CF,1,NNYYYYYNNN,1
+299,Copa del Rey,esp-copa-del-rey,9/15/2005,Aguilas CF,CD Numancia,0,YYYYYYYNY,1
+300,Copa del Rey,esp-copa-del-rey,10/20/2005,Alicante CF,Real Zaragoza CD,0,YYYYNYYYYNYYYN,1
+301,Copa del Rey,esp-copa-del-rey,10/20/2005,CD Baza,Malaga CF,0,NNNYYYYYYY,1
+302,Copa del Rey,esp-copa-del-rey,11/9/2005,Zamora CF,SD Eibar,1,YYNYYNYYYYYN,1
+303,Copa del Rey,esp-copa-del-rey,11/30/2005,Xerez CD,Real Zaragoza CD,0,NNYYYYYYYYYYYYYN,1
+304,Copa del Rey,esp-copa-del-rey,8/30/2006,UD Barbastro,Terrassa FC,0,YYYYYYYYNY,1
+305,Copa del Rey,esp-copa-del-rey,9/20/2006,CD Numancia,CP Ejido,0,YYNNYNYYY,1
+306,Copa del Rey,esp-copa-del-rey,9/20/2006,CD Lugo,Rayo Vallecano,0,YNNNYNY,1
+307,Copa del Rey,esp-copa-del-rey,10/4/2006,Burgos CF,SD Gimnastica Segoviana,0,YYYYYYYYYYYN,1
+308,Copa del Rey,esp-copa-del-rey,10/4/2006,UD Almeria,Malaga CF,1,YYYYNYYYYY,1
+309,Copa del Rey,esp-copa-del-rey,12/13/2006,Club Atletico de Madrid,Levante UD,1,NYYNYYYNY,1
+310,Copa del Rey,esp-copa-del-rey,10/10/2007,CD Alcoyano,Rayo Vallecano,1,YYYYYYYNY,1
+311,Copa del Rey,esp-copa-del-rey,1/16/2008,Athletic Club de Bilbao,RCD Espanyol,1,YYNYYYYNYN,1
+312,Copa del Rey,esp-copa-del-rey,9/3/2008,UD Alzira,Granada 74 CF,0,YYYNYNY,1
+313,Copa del Rey,esp-copa-del-rey,9/3/2008,Xerez CD [Jerez de la Frontera],Real Murcia CF,1,NYNNYYNY,1
+314,Copa del Rey,esp-copa-del-rey,10/8/2008,SD Ponferradina,Universidad de Las Palmas CF,1,YYYYNNYNY,1
+315,Copa del Rey,esp-copa-del-rey,10/8/2008,Elche CF,CD Tenerife,0,YNYYNYNYYY,1
+316,Copa del Rey,esp-copa-del-rey,8/26/2009,CD Alaves [Vitoria],CF Palencia,0,YYYNYNY,1
+317,Copa del Rey,esp-copa-del-rey,8/26/2009,Alicante CF,CF Sporting Mahones [Mahon],1,YYYNNNNYYYYYYN,1
+318,Copa del Rey,esp-copa-del-rey,9/2/2009,CE Sabadell FC,UD Marbella,0,NNYNYYYN,1
+319,Copa del Rey,esp-copa-del-rey,9/2/2009,CP Ejido,SD Ponferradina,0,YYYYYYYYYYYYYYNY,1
+320,Copa del Rey,esp-copa-del-rey,9/2/2009,Levante UD [Valencia],SD Huesca,0,YYYYYYYNNN,1
+321,Copa del Rey,esp-copa-del-rey,9/2/2009,UD Salamanca,CD Castellon,0,YYNNYYYYNNNY,1
+322,Copa del Rey,esp-copa-del-rey,10/7/2009,Ontinyent CF,Cultural y Deportiva Leonesa,0,YNYYYYYYY,1
+323,Copa del Rey,esp-copa-del-rey,11/11/2009,RC Recreativo de Huelva,Real Sporting de Gijon,1,YYNNYYYNY,1
+324,Copa del Rey,esp-copa-del-rey,8/25/2010,Benidorm CF,Orihuela CF,0,YYYYYNYYY,1
+325,Copa del Rey,esp-copa-del-rey,8/25/2010,CD Teruel,CD AtlÈtico Baleares [Palma de Mallorca],0,YYNNYYYYYYNY,1
+326,Copa del Rey,esp-copa-del-rey,8/25/2010,CD Puertollano,Real Murcia CF,1,NYNYNY,1
+327,Copa del Rey,esp-copa-del-rey,9/1/2010,UD LogroÒÈs,CCD Cerceda,0,YYYYNYYYN,1
+328,Copa del Rey,esp-copa-del-rey,9/1/2010,Real Oviedo CF,Real Murcia CF,0,YYYYYYYYYN,1
+329,Copa del Rey,esp-copa-del-rey,9/1/2010,Girona FC,SD Huesca,0,YYYYYNYYY,1
+330,Copa del Rey,esp-copa-del-rey,9/8/2010,Granada CF,Real Betis BalompiÈ,1,YYYYYYNYYY,1
+331,Copa del Rey,esp-copa-del-rey,9/15/2010,AD Alcorcon,SD Ponferradina,0,NYNNNYYY,1
+332,Copa del Rey,esp-copa-del-rey,8/31/2011,CD Tudelano [Tudela],SD Ponferradina [Ponferrada],1,YYYYYYYNNYNY,1
+333,Copa del Rey,esp-copa-del-rey,8/31/2011,UCAM Murcia CF [Sangonera la Verde],CD Comarca de NÌjar,0,YNNYYYYYNNYYYYYYNY,1
+334,Copa del Rey,esp-copa-del-rey,9/7/2011,Club Marino de Luanco,Andorra CF,1,NYNYYYYY,1
+335,Copa del Rey,esp-copa-del-rey,9/7/2011,Real Oviedo CF,UD Salamanca,1,YNNYYNYYNN,1
+336,Copa del Rey,esp-copa-del-rey,9/7/2011,FC Cartagena,CD Numancia [Soria],1,YYYNYYYYY,1
+337,Copa del Rey,esp-copa-del-rey,10/12/2011,Cordoba CF,SD Huesca,0,YYNYYYNNN,1
+338,Copa del Rey,esp-copa-del-rey,9/12/2012,CE Constancia,CD Ourense,0,YYNYNNNY,1
+339,Copa del Rey,esp-copa-del-rey,9/12/2012,CE LíHospitalet,SD Noja,1,YYYYNYNY,1
+340,Copa del Rey,esp-copa-del-rey,9/12/2012,Real Oviedo CF,AE Prat,0,YYNNYYYNNYYYNNYN,1
+341,Copa del Rey,esp-copa-del-rey,9/12/2012,Hurac·Ån CF,Albacete BalompiÈ,1,YYYYYNYN,1
+342,Copa del Rey,esp-copa-del-rey,10/17/2012,SD Huesca,SD Ponferradina,1,YNYYNYNYYY,1
+343,Copa del Rey,esp-copa-del-rey,9/4/2013,Club Haro Deportivo,Real Oviedo CF,1,NYYYYYNY,1
+344,Copa del Rey,esp-copa-del-rey,9/4/2013,Club Gimnastic de Tarragona,CD Alcoyano [Alcoy],1,YYYNYYNNY,1
+345,Copa del Rey,esp-copa-del-rey,9/4/2013,…cija BalompiÈ,La Hoya Lorca CF,0,NYYYNYYNN,1
+346,Copa del Rey,esp-copa-del-rey,9/4/2013,CD El Palo [M·laga],Xerez CD [Jerez de la Frontera],0,NYYNYNYYY,1
+347,Copa del Rey,esp-copa-del-rey,9/11/2013,Club Gimnastic de Tarragona,Albacete Balompie,1,YYYNYNY,1
+348,Copa del Rey,esp-copa-del-rey,9/11/2013,Xerez CD,CF Fuenlabrada,0,YYNYYNYYNY,1
+349,Copa del Rey,esp-copa-del-rey,9/11/2013,CÛrdoba CF,RC Deportivo de La CoruÒa,0,YNYYYYYYNYYYYYYYYYYYYYYYYYYN,1
+350,Copa del Rey,esp-copa-del-rey,9/11/2013,CD Lugo,CD Mirandes [Miranda de Ebro],0,NYYYYYYNNY,1
+351,Copa del Rey,esp-copa-del-rey,10/16/2013,Club Haro Deportivo,Algeciras CF,1,NNYYNYNY,1
+352,Copa del Rey,esp-copa-del-rey,10/16/2013,CD LeganÈs,Real Racing Club de Santander,0,YYYYYNYYY,1
+353,Copa del Rey,esp-copa-del-rey,10/16/2013,CD Laudio,CD Olimpic,1,YNNYYYYYYYYYYYYYNY,1
+354,Copa del Rey,esp-copa-del-rey,10/16/2013,Girona FC,CD AlavÈs,1,YYYYYNYN,1
+355,Copa del Rey,esp-copa-del-rey,12/18/2013,alcorcon,Granada CF,1,YYYYYNNYYYYN,1
+356,Copa del Rey,esp-copa-del-rey,9/3/2014,Real Aviles CF,Club Marino de Luanco,0,NYYYNYYY,1
+357,Copa del Rey,esp-copa-del-rey,9/3/2014,Club Gimn·stic de Tarragona,CD AtlÈtico Baleares [Palma de Mallorca],1,YYYYYNYYY,1
+358,Copa del Rey,esp-copa-del-rey,9/3/2014,CD Alcoyano [Alcoy],SCR PeÒa Deportiva [Santa Eul‡lia del Riu],1,YYYNYYYYNYYYYYYYYYYN,1
+359,Copa del Rey,esp-copa-del-rey,9/3/2014,Hercules CF [Alicante],CD Eldense [Elda],1,NYNYYYYNYY,1
+360,Copa del Rey,esp-copa-del-rey,9/3/2014,La Hoya Lorca CF,CF Villanovense [Villanueva de la Serena],1,NYNYNNYY,1
+361,Copa del Rey,esp-copa-del-rey,9/3/2014,cornell·,real jaÈn cf,1,YYYYNYYNYN,1
+362,Copa del Rey,esp-copa-del-rey,9/10/2014,CF Villanovense,SD Huesca,0,YNNYYNNYYYYN,1
+363,Copa del Rey,esp-copa-del-rey,9/10/2014,UCAM Murcia CF,CD Eldense,0,YYNNYYNYN,1
+364,Copa del Rey,esp-copa-del-rey,9/10/2014,Girona FC,CD Tenerife [Santa Cruz],1,YYYNYYNYYYYYYN,1
+365,Copa del Rey,esp-copa-del-rey,9/10/2014,CD Leganes,CD Numancia [Soria],0,YNYNYYY,1
+366,Copa del Rey,esp-copa-del-rey,10/15/2014,Real Betis BalompiÈ,CD Lugo,0,YYYYYYYYNY,1
+367,Copa del Rey,esp-copa-del-rey,9/2/2015,CE Sabadell FC,CD Castellon,1,NYYYYYNY,1
+368,Copa del Rey,esp-copa-del-rey,9/9/2015,Club Gimn·stic de Tarragona,Girona FC,0,YYYYNYYYYY,1
+369,Copa del Rey,esp-copa-del-rey,9/9/2015,UD AlmerÌa,Elche CF,1,YYYYYNYN,1
+370,Copa del Rey,esp-copa-del-rey,10/14/2015,UD LogroÒes,UCAM Murcia CF,0,YYNYYYYYYY,1
+371,Copa del Rey,esp-copa-del-rey,8/31/2016,Calahorra,LogroÒes,1,YNYYNNYN,1
+372,Copa del Rey,esp-copa-del-rey,8/31/2016,Club Atletico Saguntino [Sagunto],SD Formentera,0,NYYYNNYYYY,1
+373,Copa del Rey,esp-copa-del-rey,9/6/2016,CD MirandÈs,Elche CF,1,YYNYYYYYN,1
+374,Copa del Rey,esp-copa-del-rey,9/7/2016,SD Formentera,La Hoya Lorca CF,0,YNYYNNNYYYYYNNYYYYYYYYYYYYYYNY,1
+375,Copa del Rey,esp-copa-del-rey,9/7/2016,Barakaldo CF,SD Amorebieta,0,NYNNYYYNYN,1
+376,Copa del Rey,esp-copa-del-rey,9/7/2016,C·diz CF,Levante UD,0,YNNYNYYYN,1
+377,Copa del Rey,esp-copa-del-rey,9/7/2016,FC Cartagena,HÈrcules CF,0,YYNYYNYYYYYYYN,1
+378,Copa del Rey,esp-copa-del-rey,10/12/2016,CD Tudelano,SD Formentera,1,NYYYNNYYYY,1
+379,Copa del Rey,esp-copa-del-rey,10/12/2016,Rayo Vallecano,Gimn‡stic,0,YNYYNNNYYYYYYN,1
+380,Copa del Rey,esp-copa-del-rey,12/22/2016,Espanyol Barcelona,AD AlcorcÛn,0,YYYYNNYYYN,1
+381,Copa Libertadores,copa-libertadores,9/14/1977,Boca Juniors,Cruzeiro EC,1,YYYYYYYYYN,0
+382,Copa Libertadores,copa-libertadores,10/24/1985,Argentinos Juniors,AmÈrica de Cali,0,YYYYYYYYNY,0
+383,Copa Libertadores,copa-libertadores,6/17/1987,AmÈrica de Cali,Deportivo Cali,1,YYYYYNYN,0
+384,Copa Libertadores,copa-libertadores,9/14/1988,Newell's Old Boys,Club BolÌvar,1,YYYYYNNNNN,0
+385,Copa Libertadores,copa-libertadores,4/12/1989,Boca Juniors,Club Olimpia,0,YYYNYYYYNYNNYYYYYN,0
+386,Copa Libertadores,copa-libertadores,4/12/1989,Deportivo T·chira,Sol de AmÈrica,0,YYYYYNNNNN,0
+387,Copa Libertadores,copa-libertadores,4/12/1989,Millonarios,Club BolÌvar,1,YYYYYYYNNN,0
+388,Copa Libertadores,copa-libertadores,5/17/1989,Internacional,Club Olimpia,0,YYYYYYYNY,0
+389,Copa Libertadores,copa-libertadores,5/31/1989,AtlÈtico Nacional,Club Olimpia,0,NYYYYYYNYYNNNNNNNY,0
+390,Copa Libertadores,copa-libertadores,5/16/1990,Oriente Petrolero,Barcelona SC,0,NYNYYNYNYYYYYN,0
+391,Copa Libertadores,copa-libertadores,8/15/1990,Colo-Colo,Vasco da Gama,0,YYYYYYYYYN,0
+392,Copa Libertadores,copa-libertadores,9/12/1990,Barcelona SC,River Plate,0,NYYYYYYYN,0
+393,Copa Libertadores,copa-libertadores,9/26/1990,Club Olimpia,AtlÈtico Nacional,1,NNNNYNNNNYYN,0
+394,Copa Libertadores,copa-libertadores,5/20/1992,Cerro PorteÒo,Barcelona SC,0,YNYYNYYNNYNNNNYN,0
+395,Copa Libertadores,copa-libertadores,6/3/1992,AmÈrica de Cali,Newell's Old Boys,0,YYYYYYYYYYYYNNNNYYYYYYYYYN,0
+396,Copa Libertadores,copa-libertadores,6/17/1992,S„o Paulo FC,Newell's Old Boys,0,NYYYYNNYN,0
+397,Copa Libertadores,copa-libertadores,4/28/1993,Cerro PorteÒo,Club Olimpia,1,YYYYNNYNY,0
+398,Copa Libertadores,copa-libertadores,4/27/1994,CS Emelec,MinervÈn FC,1,YYYYNYNY,0
+399,Copa Libertadores,copa-libertadores,4/27/1994,VÈlez S·rsfield,Defensor Sporting,1,YYYYYYYNNN,0
+400,Copa Libertadores,copa-libertadores,8/17/1994,Club Olimpia,S„o Paulo FC,0,NYYYYNYYYN,0
+401,Copa Libertadores,copa-libertadores,8/17/1994,VÈlez S·rsfield,AtlÈtico Junior,1,YYYYYYYYNNYN,0
+402,Copa Libertadores,copa-libertadores,8/31/1994,S„o Paulo FC,VÈlez S·rsfield,0,YNYYYYYYY,0
+403,Copa Libertadores,copa-libertadores,5/3/1995,Cerro PorteÒo,CS Emelec,1,YYYYYYYYNY,0
+404,Copa Libertadores,copa-libertadores,8/2/1995,VÈlez S·rsfield,River Plate,0,YYYYYYYNY,0
+405,Copa Libertadores,copa-libertadores,8/16/1995,River Plate,AtlÈtico Nacional,1,YYYYYYYYYYYYYYNY,0
+406,Copa Libertadores,copa-libertadores,5/9/1996,Defensor Sporting,Universidad de Chile,0,YYYYYYYYNNYYYYYN,0
+407,Copa Libertadores,copa-libertadores,5/6/1997,CA PeÒarol,Millonarios,0,YYNYNNYYN,0
+408,Copa Libertadores,copa-libertadores,5/7/1997,River Plate,Racing Club,0,YYYYYYYNY,0
+409,Copa Libertadores,copa-libertadores,5/14/1997,Cruzeiro EC,El Nacional,1,YYYYYYYNY,0
+410,Copa Libertadores,copa-libertadores,5/28/1997,Racing Club,CA PeÒarol,1,YYYYYNNNNN,0
+411,Copa Libertadores,copa-libertadores,7/30/1997,Colo-Colo,Cruzeiro EC,0,YNYNYYY,0
+412,Copa Libertadores,copa-libertadores,4/29/1998,CA PeÒarol,Alianza Lima,0,NYYYNYN,0
+413,Copa Libertadores,copa-libertadores,4/30/1998,Club Olimpia,CA ColÛn,1,YYNYNNNNN,0
+414,Copa Libertadores,copa-libertadores,7/22/1998,Cerro PorteÒo,Barcelona SC,0,YYYYYYNNNNYN,0
+415,Copa Libertadores,copa-libertadores,4/21/1999,LDU Quito,River Plate,1,YYYYYYYYNY,0
+416,Copa Libertadores,copa-libertadores,6/16/1999,SE Palmeiras,Deportivo Cali,1,NYYYYYYNYN,0
+417,Copa Libertadores,copa-libertadores,5/9/2000,Corinthians SP,Rosario Central,1,YYYYNYYNYN,0
+418,Copa Libertadores,copa-libertadores,5/10/2000,Club BolÌvar,Nacional,1,YYYYYYYNY,0
+419,Copa Libertadores,copa-libertadores,5/11/2000,AtlÈtico Paranaense,AtlÈtico Mineiro,0,YYYYYNYYY,0
+420,Copa Libertadores,copa-libertadores,5/11/2000,SE Palmeiras,CA PeÒarol,0,NYYNYYNYN,0
+421,Copa Libertadores,copa-libertadores,6/6/2000,SE Palmeiras,Corinthians SP,1,YYYYYYYYYN,0
+422,Copa Libertadores,copa-libertadores,6/21/2000,SE Palmeiras,Boca Juniors,1,YYNYNYYY,0
+423,Copa Libertadores,copa-libertadores,5/16/2001,SE Palmeiras,S„o Caetano,1,YYYYYYYNY,0
+424,Copa Libertadores,copa-libertadores,5/29/2001,AmÈrica de Cali,Rosario Central,1,NYNNYNYYYYNNNNNY,0
+425,Copa Libertadores,copa-libertadores,6/28/2001,Boca Juniors,Cruz Azul,1,YYYNYNNN,0
+426,Copa Libertadores,copa-libertadores,4/30/2002,CA PeÒarol,Montevideo Wanderers,1,YNYNNNY,0
+427,Copa Libertadores,copa-libertadores,5/1/2002,S„o Caetano,Universidad CatÛlica,1,YYYYYNNNY,0
+428,Copa Libertadores,copa-libertadores,5/14/2002,S„o Caetano,CA PeÒarol,1,NYYNYNYN,0
+429,Copa Libertadores,copa-libertadores,7/17/2002,GrÍmio Porto Alegre,Club Olimpia,1,YYYYYYNYYY,0
+430,Copa Libertadores,copa-libertadores,7/31/2002,S„o Caetano,Club Olimpia,0,YYYYYNYN,0
+431,Copa Libertadores,copa-libertadores,5/7/2003,Independiente MedellÌn,Cerro PorteÒo,1,YNNYYNYYY,0
+432,Copa Libertadores,copa-libertadores,5/14/2003,Racing Club,AmÈrica de Cali,1,YYYYYYYYYYNY,0
+433,Copa Libertadores,copa-libertadores,5/11/2004,Santos FC,LDU Quito,1,YYYNYYYYY,0
+434,Copa Libertadores,copa-libertadores,5/12/2004,River Plate,Santos Laguna,1,YYNNYYYNY,0
+435,Copa Libertadores,copa-libertadores,5/13/2004,S„o Paulo FC,Rosario Central,1,NYYYYYYYYNYN,0
+436,Copa Libertadores,copa-libertadores,5/14/2004,Cruzeiro EC,Deportivo Cali,0,YNYNNNY,0
+437,Copa Libertadores,copa-libertadores,5/14/2004,Once Caldas,Barcelona SC,1,YYYNYYYN,0
+438,Copa Libertadores,copa-libertadores,5/26/2004,Boca Juniors,S„o Caetano,1,NYYNYNYYNYYN,0
+439,Copa Libertadores,copa-libertadores,6/18/2004,River Plate,Boca Juniors,1,YYYYYYYYNY,0
+440,Copa Libertadores,copa-libertadores,7/2/2004,Once Caldas,Boca Juniors,1,NNYNNNYN,0
+441,Copa Libertadores,copa-libertadores,5/26/2005,Cerro PorteÒo,AtlÈtico Paranaense,1,YYYYYYYYNY,0
+442,Copa Libertadores,copa-libertadores,5/4/2006,Libertad,UANL Tigres,1,YYYYYYYNY,0
+443,Copa Libertadores,copa-libertadores,7/20/2006,S„o Paulo FC,Estudiantes,1,YYYYYYNNYN,0
+444,Copa Libertadores,copa-libertadores,5/23/2007,GrÍmio Porto Alegre,Defensor Sporting,0,NYNYYYYY,0
+445,Copa Libertadores,copa-libertadores,5/22/2008,LDU Quito,San Lorenzo,1,YYYYYNYYY,0
+446,Copa Libertadores,copa-libertadores,7/3/2008,Fluminense RJ,LDU Quito,1,NYNNYYNY,0
+447,Copa Libertadores,copa-libertadores,5/13/2009,Sport Club Recife,SE Palmeiras,0,NNYYYNYN,0
+448,Copa Libertadores,copa-libertadores,2/9/2010,Universidad CatÛlica,CA ColÛn,1,YYYNYYYYY,0
+449,Copa Libertadores,copa-libertadores,5/4/2010,S„o Paulo FC,Universitario de Deportes,0,YNNYNYNY,0
+450,Copa Libertadores,copa-libertadores,5/6/2011,Cerro PorteÒo,Estudiantes,1,YYYYYYYNY,0
+451,Copa Libertadores,copa-libertadores,5/10/2012,CA Lan˙s,Vasco da Gama,1,YYNYYYYYYY,0
+452,Copa Libertadores,copa-libertadores,5/25/2012,Santos FC,VÈlez S·rsfield,0,YYNYNYYY,0
+453,Copa Libertadores,copa-libertadores,5/25/2012,Universidad de Chile,Libertad,1,YYYYYNYYY,0
+454,Copa Libertadores,copa-libertadores,1/30/2013,Deportes Iquique,Club LeÛn,1,YNYNYYNYY,0
+455,Copa Libertadores,copa-libertadores,1/31/2013,GrÍmio Porto Alegre,LDU Quito,1,YYNYYNYYYYYN,0
+456,Copa Libertadores,copa-libertadores,5/10/2013,Nacional,Real Garcilaso,0,YNYYYNY,0
+457,Copa Libertadores,copa-libertadores,5/29/2013,Newell's Old Boys,Boca Juniors,0,NYYYYYYNNNYYYYYYNNYYYYYYNY,0
+458,Copa Libertadores,copa-libertadores,7/11/2013,AtlÈtico Mineiro,Newell's Old Boys,1,YYYYNNNNYN,0
+459,Copa Libertadores,copa-libertadores,7/25/2013,AtlÈtico Mineiro,Club Olimpia,0,NYYYYYYYN,0
+460,Copa Libertadores,copa-libertadores,2/6/2014,AtlÈtico Paranaense,Sporting Cristal,1,YYNYYYNNYNYYYN,0
+461,Copa Libertadores,copa-libertadores,4/29/2014,Defensor Sporting,The Strongest,1,YNYNNYYYY,0
+462,Copa Libertadores,copa-libertadores,5/1/2014,GrÍmio Porto Alegre,San Lorenzo,1,NYYYNYYY,0
+463,Copa Libertadores,copa-libertadores,5/13/2015,Cruzeiro EC,S„o Paulo FC,0,YNYYNYNYYNNY,0
+464,Copa Libertadores,copa-libertadores,5/20/2016,Boca Juniors,Nacional,0,YYYYYNNNNYNY,0
+465,Copa Libertadores,copa-libertadores,5/25/2016,Pumas UNAM,Independiente del Valle,0,YYYYYNYYY,0
+466,Copa Libertadores,copa-libertadores,2/8/2017,Millonarios,AtlÈtico Paranaense,1,YYNYYYNY,0
+467,Copa Libertadores,copa-libertadores,2/23/2017,Club Olimpia,Botafogo RJ,1,NYNYYYN,0
+468,Copa MX,mex-copa-mx,10/26/2016,Deportivo Toluca,Gallos Blancos,1,YYYYYYYYYYNNYYYYNY,0
+469,Copa MX,mex-copa-mx,11/3/2016,Gallos Blancos,Deportivo Guadalajara,0,NYYYNNYYN,0
+470,Copa Sudamericana,copa-sudamericana,9/26/2002,Alianza Lima,Barcelona SC,1,YYYYNNYYYYYYYN,0
+471,Copa Sudamericana,copa-sudamericana,10/23/2002,Racing Club,San Lorenzo,1,NYNYYNYYYY,0
+472,Copa Sudamericana,copa-sudamericana,10/29/2002,Santiago Wanderers,AtlÈtico Nacional,0,YYYYYYYYYYNNYN,0
+473,Copa Sudamericana,copa-sudamericana,11/12/2002,Nacional,AtlÈtico Nacional,0,YNYYYYYYY,0
+474,Copa Sudamericana,copa-sudamericana,8/28/2003,Libertad,GuaranÌ,0,NYNYYYYY,0
+475,Copa Sudamericana,copa-sudamericana,9/2/2003,CD Provincial Osorno,Universidad CatÛlica,0,YYYNYYYYY,0
+476,Copa Sudamericana,copa-sudamericana,10/2/2003,Libertad,Nacional,0,NYYNNYYYN,0
+477,Copa Sudamericana,copa-sudamericana,12/3/2003,S„o Paulo FC,River Plate,1,NYYYNYYY,0
+478,Copa Sudamericana,copa-sudamericana,8/23/2005,Cerro PorteÒo,GuaranÌ,1,YYYYYYNNNNYN,0
+479,Copa Sudamericana,copa-sudamericana,8/24/2005,Alianza AtlÈtico,Universitario de Deportes,1,YNYNYYY,0
+480,Copa Sudamericana,copa-sudamericana,8/31/2005,Santos FC,Fluminense RJ,0,YYYNNYYNY,0
+481,Copa Sudamericana,copa-sudamericana,9/23/2005,AtlÈtico Nacional,Deportivo Cali,1,YYYYYYYYYYYYYN,0
+482,Copa Sudamericana,copa-sudamericana,12/18/2005,Boca Juniors,Pumas UNAM,0,NNYYNNYYYYNY,0
+483,Copa Sudamericana,copa-sudamericana,8/31/2006,Colo-Colo,CD Huachipato,1,YYYYYYYNY,0
+484,Copa Sudamericana,copa-sudamericana,9/13/2006,Cruzeiro EC,Santos FC,1,NYNYYYYNYY,0
+485,Copa Sudamericana,copa-sudamericana,9/14/2006,Fluminense RJ,Botafogo RJ,1,YYYYYNYN,0
+486,Copa Sudamericana,copa-sudamericana,8/16/2007,Danubio FC,Tacuary,0,YYYNYNY,0
+487,Copa Sudamericana,copa-sudamericana,8/24/2007,Coronel Bolognesi,Millonarios,1,YYYYYYNYYY,0
+488,Copa Sudamericana,copa-sudamericana,10/5/2007,Colo-Colo,Millonarios,1,YYYYYYYYYYYYNY,0
+489,Copa Sudamericana,copa-sudamericana,11/15/2007,River Plate,Arsenal SarandÌ,0,YNNYYYYNY,0
+490,Copa Sudamericana,copa-sudamericana,8/21/2008,Estudiantes,Independiente,1,YYYNYYYYY,0
+491,Copa Sudamericana,copa-sudamericana,8/28/2008,S„o Paulo FC,AtlÈtico Paranaense,1,YNNYYYNYYY,0
+492,Copa Sudamericana,copa-sudamericana,8/26/2009,Coritiba FC,EC VitÛria BA,0,YYYYYNYYY,0
+493,Copa Sudamericana,copa-sudamericana,9/17/2009,Goi·s EC,AtlÈtico Mineiro,1,YYYYNNYYYYYYYN,0
+494,Copa Sudamericana,copa-sudamericana,9/24/2010,UniÛn San Felipe,GuaranÌ,0,YYYYYYYYNNNNYYYYNNYYNY,0
+495,Copa Sudamericana,copa-sudamericana,12/9/2010,Independiente,Goi·s EC,1,YYYYYNYYY,0
+496,Copa Sudamericana,copa-sudamericana,11/17/2011,Libertad,LDU Quito,0,YYYYNYYNYYYN,0
+497,Copa Sudamericana,copa-sudamericana,8/28/2013,Coritiba FC,EC VitÛria BA,0,YYYYNNNNYYNY,0
+498,Copa Sudamericana,copa-sudamericana,8/29/2013,Clube N·utico,Sport Club Recife,1,NYNYYYN,0
+499,Copa Sudamericana,copa-sudamericana,10/24/2013,EC Bahia,AtlÈtico Nacional,1,YYNNYYNYYY,0
+500,Copa Sudamericana,copa-sudamericana,8/26/2014,Deportivo Anzo·tegui,CD Universidad Catolica,1,NNYYNYYYYNYYNY,0
+501,Copa Sudamericana,copa-sudamericana,10/16/2014,Goi·s EC,CS Emelec,1,YYYNNYYYYYYYNY,0
+502,Copa Sudamericana,copa-sudamericana,10/16/2014,Universidad Cesar Vallejo,EC Bahia,1,YYNNYYYYYYNNNNYYYYYN,0
+503,Copa Sudamericana,copa-sudamericana,10/22/2014,CA PeÒarol,Estudiantes,0,YYYNNNYN,0
+504,Copa Sudamericana,copa-sudamericana,10/24/2014,Deportivo Capiat·,Boca Juniors,0,YYNYYNNNYYYN,0
+505,Copa Sudamericana,copa-sudamericana,11/27/2014,S„o Paulo FC,AtlÈtico Nacional,0,YNYYYNY,0
+506,Copa Sudamericana,copa-sudamericana,8/20/2015,Deportes Tolima,Carabobo FC,0,NNNYNYYY,0
+507,Copa Sudamericana,copa-sudamericana,9/17/2015,CA Juventud,CS Emelec,1,NYYYYNNYN,0
+508,Copa Sudamericana,copa-sudamericana,10/2/2015,Chapecoense,Libertad,1,YNYYYYYYY,0
+509,Copa Sudamericana,copa-sudamericana,10/2/2015,Defensor Sporting,CA Lan˙s,1,YNYYYYYYY,0
+510,Copa Sudamericana,copa-sudamericana,12/10/2015,Santa Fe,Hurac·n,0,NYNYYYN,0
+511,Copa Sudamericana,copa-sudamericana,8/17/2016,O'Higgins,Montevideo Wanderers,0,YYYYNYYYYNYN,0
+512,Copa Sudamericana,copa-sudamericana,8/18/2016,Jorge Wilstermann,Sol de AmÈrica,1,YNYYYYNYYYNY,0
+513,Copa Sudamericana,copa-sudamericana,8/18/2016,Zamora FC,Barcelona SC,1,YNYNYN,0
+514,Copa Sudamericana,copa-sudamericana,9/28/2016,AtlÈtico Junior,Montevideo Wanderers,1,YYYYNYYNYN,0
+515,Copa Sudamericana,copa-sudamericana,9/28/2016,Chapecoense,Independiente,1,NNNYYNYYYYNNYYYN,0
+516,Copa Sudamericana,copa-sudamericana,9/29/2016,Belgrano CÛrdoba,Coritiba FC,0,NYYYYYYNYN,0
+517,Copa Sudamericana,copa-sudamericana,5/10/2017,AtlÈtico Venezuela,CD Palestino,0,YYNNYYNYYNYYYYYYYN,0
+518,Copa Sudamericana,copa-sudamericana,5/10/2017,Club Nacional,Cruzeiro EC,1,NNYYYYNNYN,0
+519,Copa Sudamericana,copa-sudamericana,5/12/2017,Danubio FC,Sport Club Recife,0,YYYNYYYN,0
+520,Copa Sudamericana,copa-sudamericana,5/31/2017,Patriotas FC,Everton,1,YYYYNYYNYN,0
+521,Copa Sudamericana,copa-sudamericana,6/2/2017,Deportivo Cuenca,Oriente Petrolero,0,YYYYYYYYYYYYYYYN,0
+522,Coppa Italia,ita-coppa-italia,5/17/1980,AS Roma,Torino FC,1,NYYYNNNNYNYN,0
+523,Coppa Italia,ita-coppa-italia,6/17/1981,Torino FC,AS Roma,0,YNYYYYNNY,0
+524,Coppa Italia,ita-coppa-italia,8/23/1989,Pisa SC,US Palermo,0,YYYNYYYYY,0
+525,Coppa Italia,ita-coppa-italia,8/23/1989,Ascoli Calcio,US Catanzaro,1,YYYYNNYNNYYYYYYYYYYYYYYN,0
+526,Coppa Italia,ita-coppa-italia,8/23/1989,Cosenza Calcio,AC Reggiana,0,NNYYNYYYYY,0
+527,Coppa Italia,ita-coppa-italia,8/23/1989,Parma AC,AC Milan,0,NYYNYYYYYYYYNNYYYN,0
+528,Coppa Italia,ita-coppa-italia,8/23/1989,SSC Napoli,AC Monza,0,YYYYNYYYYNNNYYYYYYYYNY,0
+529,Coppa Italia,ita-coppa-italia,8/23/1989,Taranto FC,Udinese Calcio,0,YYYYNYYYN,0
+530,Coppa Italia,ita-coppa-italia,8/30/1989,ACF Fiorentina,Calcio Como,0,YYYYYYYYYYYYYYYYNY,0
+531,Coppa Italia,ita-coppa-italia,8/30/1989,Pescara Calcio,US Lecce,1,YYYNYNY,0
+532,Coppa Italia,ita-coppa-italia,9/12/1990,A.C.R. Messina,AS Bari,0,YNYYYYYYY,0
+533,Coppa Italia,ita-coppa-italia,10/27/1993,Pisa SC,Sampdoria,0,YNYYYNNN,0
+534,Coppa Italia,ita-coppa-italia,12/16/1993,AS Roma,Sampdoria,0,YNNYYYYYYYYYYYYN,0
+535,Coppa Italia,ita-coppa-italia,8/21/1994,Reggina Calcio,US Lecce,1,YYYYNYNY,0
+536,Coppa Italia,ita-coppa-italia,9/21/1994,US Palermo,AC Milan,0,NYYYYNYNNN,0
+537,Coppa Italia,ita-coppa-italia,8/30/1995,Atalanta,US Cremonese,1,YNYYYYYN,0
+538,Coppa Italia,ita-coppa-italia,8/30/1995,Chievo Verona,Lazio Roma,0,YNYYYYYYNN,0
+539,Coppa Italia,ita-coppa-italia,8/30/1995,ForlÏ FC,Piacenza Calcio,1,YYYNNYYYYN,0
+540,Coppa Italia,ita-coppa-italia,2/26/1997,SSC Napoli,Inter,1,YYYYYNYYY,0
+541,Coppa Italia,ita-coppa-italia,11/19/1997,Bologna FC,Atalanta,0,NNYYYNYN,0
+542,Coppa Italia,ita-coppa-italia,9/6/2000,Vicenza Calcio,Brescia Calcio,0,YYYNYYNYYYYN,0
+543,Coppa Italia,ita-coppa-italia,12/17/2002,AS Roma,Unione Triestina,1,YYYNYNY,0
+544,Coppa Italia,ita-coppa-italia,2/12/2004,Inter,Juventus,1,YYYYYYYYNY,0
+545,Coppa Italia,ita-coppa-italia,3/16/2005,ACF Fiorentina,AS Roma,1,YNYYYYYYNYYYYYNY,0
+546,Coppa Italia,ita-coppa-italia,8/14/2005,US Catanzaro,AS Livorno,0,YYYNNYYNY,0
+547,Coppa Italia,ita-coppa-italia,8/21/2005,Empoli FC,Parma FC,0,YYNYYYYNYYYYYYYN,0
+548,Coppa Italia,ita-coppa-italia,8/27/2006,SSC Napoli,Juventus,1,YNYYYYNNNYYYYN,0
+549,Coppa Italia,ita-coppa-italia,8/29/2007,SSC Napoli,AS Livorno,0,NYYYYYNNN,0
+550,Coppa Italia,ita-coppa-italia,8/29/2007,Unione Triestina,Calcio Catania,1,NYYYNYYY,0
+551,Coppa Italia,ita-coppa-italia,9/30/2008,US Salernitana 1919,Sassuolo Calcio,1,YYYYYYYYYYYN,0
+552,Coppa Italia,ita-coppa-italia,5/13/2009,Lazio Roma,Sampdoria,0,NYYNYYYYYYYYNY,0
+553,Coppa Italia,ita-coppa-italia,8/15/2009,AS Bari,Empoli FC,1,YYYYYYNYYY,0
+554,Coppa Italia,ita-coppa-italia,8/15/2009,Bologna FC,Frosinone Calcio,1,YNNYYYYYYYYYYYNY,0
+555,Coppa Italia,ita-coppa-italia,1/25/2011,US Palermo,Parma FC,1,NNYYYYYYYYYN,0
+556,Coppa Italia,ita-coppa-italia,1/26/2011,SSC Napoli,Inter,1,YYYYNYYYYY,0
+557,Coppa Italia,ita-coppa-italia,8/20/2011,Sassuolo Calcio,Hellas Verona,0,YNYYNYYNY,0
+558,Coppa Italia,ita-coppa-italia,12/13/2011,US Palermo,AC Siena,1,NYNYNY,0
+559,Coppa Italia,ita-coppa-italia,8/12/2012,Calcio Padova,AC Pisa,1,YYYNYYYN,0
+560,Coppa Italia,ita-coppa-italia,8/18/2012,Genoa CFC,Hellas Verona,0,YNYNYYY,0
+561,Coppa Italia,ita-coppa-italia,8/18/2012,SS Juve Stabia,Sampdoria,1,YNNYYYYYYN,0
+562,Coppa Italia,ita-coppa-italia,12/19/2012,Lazio Roma,AC Siena,1,YYYNYNY,0
+563,Coppa Italia,ita-coppa-italia,1/22/2015,SSC Napoli,Udinese Calcio,0,YYYYYYYYNY,0
+564,Coppa Italia,ita-coppa-italia,8/2/2015,Brescia Calcio,US Cremonese,1,YYYNYYNYYN,0
+565,Coppa Italia,ita-coppa-italia,8/2/2015,US Lecce,US Catanzaro,1,NYYYYNYNNN,0
+566,Coppa Italia,ita-coppa-italia,8/9/2015,Vicenza Calcio,Cosenza Calcio,1,YYYYYNYN,0
+567,Coppa Italia,ita-coppa-italia,8/15/2015,Frosinone Calcio,Spezia Calcio,1,NNYYYYYYNNYYYYNY,0
+568,Coppa Italia,ita-coppa-italia,8/15/2015,Trapani Calcio,Cagliari Calcio,0,YYNNYNYYY,0
+569,Coppa Italia,ita-coppa-italia,12/16/2015,AS Roma,Spezia Calcio,1,NYNYYYYY,0
+570,Coppa Italia,ita-coppa-italia,3/2/2016,Inter,Juventus,0,YYYNYYYYY,0
+571,Coppa Italia,ita-coppa-italia,8/8/2016,Ascoli Picchio FC,US Lecce,1,YYNYYYYNYYYYYYNY,0
+572,Coppa Italia,ita-coppa-italia,11/30/2016,US Palermo,Spezia Calcio,1,YYYYYYYNNYNY,0
+573,Coupe de France,fra-coupe-de-france,5/12/2007,Olympique Marseille,FC Sochaux,0,YYYNYYYYNYYN,0
+574,Coupe de France,fra-coupe-de-france,1/5/2008,FC Rouen,RC Strasbourg,1,YYYYYYYYNY,0
+575,Coupe de France,fra-coupe-de-france,2/2/2008,AC Arles,Chamois Niortais,1,YYNNYYYYYYYYYYYYYYYN,0
+576,Coupe de France,fra-coupe-de-france,2/2/2008,CS Sedan,FC Nantes,1,YYYNYYYN,0
+577,Coupe de France,fra-coupe-de-france,2/2/2008,FC Sochaux,Montpellier HSC,0,YYNYYYYYN,0
+578,Coupe de France,fra-coupe-de-france,2/2/2008,Paris FC,Dijon FCO,1,YYYYYYYYYYNY,0
+579,Coupe de France,fra-coupe-de-france,3/19/2008,Amiens SC,AC Arles,1,YYYYYNYN,0
+580,Coupe de France,fra-coupe-de-france,4/16/2008,Girondins Bordeaux,CS Sedan,1,NYYYYNYYNY,0
+581,Coupe de France,fra-coupe-de-france,1/3/2009,AC Ajaccio,AJ Auxerre,0,NNYYYYNYN,0
+582,Coupe de France,fra-coupe-de-france,1/3/2009,AS Yzeure,Le Mans UC 72,1,YYYYYYYYNY,0
+583,Coupe de France,fra-coupe-de-france,1/3/2009,FC Nantes,SM Caen,0,YYYYYYYNY,0
+584,Coupe de France,fra-coupe-de-france,1/3/2009,SO Romorantin,AS Nancy,0,NYNYYYYY,0
+585,Coupe de France,fra-coupe-de-france,1/3/2009,Toulouse FC,Valenciennes FC,1,YYYYYYYYYN,0
+586,Coupe de France,fra-coupe-de-france,1/3/2009,US AlenÁon,FC Lorient,1,NNNNYYNNYYNY,0
+587,Coupe de France,fra-coupe-de-france,1/4/2009,Racing BesanÁon,Olympique Marseille,1,YYYYYYYYNY,0
+588,Coupe de France,fra-coupe-de-france,1/24/2009,AS VitrÈ,US CrÈteil-Lusitanos,1,YYYYYYYYYYYYYYNNYYYN,0
+589,Coupe de France,fra-coupe-de-france,1/24/2009,SO Romorantin,CS Sedan,1,YYYYYYYYYYNY,0
+590,Coupe de France,fra-coupe-de-france,3/3/2009,Dijon FCO,Grenoble Foot 38,1,YYNYNYYY,0
+591,Coupe de France,fra-coupe-de-france,3/17/2009,Toulouse FC,Lille OSC,1,YYYYYNNYYYYYYYYN,0
+592,Coupe de France,fra-coupe-de-france,1/8/2011,AC Arles-Avignon,CS Sedan,0,YYYYYNNNY,0
+593,Coupe de France,fra-coupe-de-france,1/8/2011,SO ChambÈry,AS Monaco,0,NYNYYNNNYY,0
+594,Coupe de France,fra-coupe-de-france,1/9/2011,Aurillac Foot,AS Nancy,1,YYYYYYNYN,0
+595,Coupe de France,fra-coupe-de-france,1/22/2011,SO ChambÈry,Stade Brest,1,YYYYYYYNNN,0
+596,Coupe de France,fra-coupe-de-france,1/22/2011,US Quevilly,FC Martigues,0,YNYYYYYYY,0
+597,Coupe de France,fra-coupe-de-france,2/2/2011,Lille OSC,FC Nantes,1,YYYYYNNNNN,0
+598,Coupe de France,fra-coupe-de-france,3/2/2011,Lille OSC,FC Lorient,1,YYYYYNYYY,0
+599,Coupe de France,fra-coupe-de-france,1/7/2012,AS Saint-…tienne,Girondins Bordeaux,1,YYYYNYNY,0
+600,Coupe de France,fra-coupe-de-france,1/7/2012,SablÈ FC,CS Sedan,1,YYYNYYYN,0
+601,Coupe de France,fra-coupe-de-france,1/7/2012,US OrlÈans,Clermont Foot,1,YYYYYYYNY,0
+602,Coupe de France,fra-coupe-de-france,1/8/2012,FC Metz,…vian Thonon Gaillard,0,YYYYYYYNY,0
+603,Coupe de France,fra-coupe-de-france,1/8/2012,JA Drancy,RC Strasbourg,1,YYYYYNYN,0
+604,Coupe de France,fra-coupe-de-france,1/21/2012,OGC Nice,Stade Rennes,1,YYYYYYYYNY,0
+605,Coupe de France,fra-coupe-de-france,4/17/2013,…vian Thonon Gaillard,Paris Saint-Germain,1,YNYNYYY,0
+606,Coupe de France,fra-coupe-de-france,1/14/2014,AS Cannes,AS Saint-…tienne,0,NNYYYYYNNYNY,0
+607,Coupe de France,fra-coupe-de-france,1/21/2014,CA Bastia,Chamois Niortais,1,YYYYYYYYYN,0
+608,Coupe de France,fra-coupe-de-france,1/3/2015,US Quevilly,US OrlÈans,1,YNYYYYYYY,0
+609,Coupe de France,fra-coupe-de-france,1/4/2015,Grenoble Foot 38,Olympique Marseille,0,YYYYYYNYYY,0
+610,Coupe de France,fra-coupe-de-france,1/20/2015,US Quevilly,SC Bastia,0,NNNYYYNY,0
+611,Coupe de France,fra-coupe-de-france,1/22/2015,Stade Rennes,Stade Reims,0,YYYYYNNYNNYYNY,0
+612,Coupe de France,fra-coupe-de-france,2/10/2015,IC Croix,US Concarneau,0,YYYNYNY,0
+613,Coupe de France,fra-coupe-de-france,2/10/2015,Le PoirÈ-sur-Vie,AJ Auxerre,0,YYYYYYYYYYYN,0
+614,Coupe de France,fra-coupe-de-france,2/12/2015,FC Metz,Stade Brest,1,YYYYNNYYNY,0
+615,Coupe de France,fra-coupe-de-france,3/3/2015,US Boulogne,AS Saint-…tienne,0,YYNYYYYNYN,0
+616,Coupe de France,fra-coupe-de-france,3/5/2015,Stade Brest,AJ Auxerre,0,YNYYNYYNY,0
+617,Coupe de France,fra-coupe-de-france,1/2/2016,US Avranches,US Saint-Malo,0,NNYNNYYNY,0
+618,Coupe de France,fra-coupe-de-france,1/3/2016,SM Caen,Olympique Marseille,1,NYNYYYN,0
+619,Coupe de France,fra-coupe-de-france,1/3/2016,US Raon-l'Etape,AS Saint-…tienne,0,YYNYNYYNYNYN,0
+620,Coupe de France,fra-coupe-de-france,1/4/2016,OGC Nice,Stade Rennes,1,YNYYYYNYYYYYNNYYNY,0
+621,Coupe de France,fra-coupe-de-france,1/20/2016,FC TrÈlissac,Lille OSC,1,NNYNYYYYY,0
+622,Coupe de France,fra-coupe-de-france,3/1/2017,US Avranches,RC Strasbourg,0,NYYYYYYYYNYYNY,0
+623,Coupe de la Ligue,fra-coupe-de-la-ligue,8/22/2006,SC Bastia,FC SËte,0,YYYYYNYYY,0
+624,Coupe de la Ligue,fra-coupe-de-la-ligue,9/20/2006,Valenciennes FC,AS Monaco,1,NYYYYYYYYY,0
+625,Coupe de la Ligue,fra-coupe-de-la-ligue,10/24/2006,Stade Reims,AS Monaco,1,YYYNYYNYYN,0
+626,Coupe de la Ligue,fra-coupe-de-la-ligue,8/14/2007,US Boulogne,Angers SCO,1,YYYYYYNNYN,0
+627,Coupe de la Ligue,fra-coupe-de-la-ligue,8/28/2007,FC SËte,Stade Brest,1,YYYYYYYYYYNY,0
+628,Coupe de la Ligue,fra-coupe-de-la-ligue,8/28/2007,Montpellier HSC,Dijon FCO,1,YYYYYNNNY,0
+629,Coupe de la Ligue,fra-coupe-de-la-ligue,9/26/2007,Toulouse FC,SM Caen,1,YYNYYYNY,0
+630,Coupe de la Ligue,fra-coupe-de-la-ligue,10/30/2007,Olympique Marseille,FC Metz,1,YYYYYYYYYN,0
+631,Coupe de la Ligue,fra-coupe-de-la-ligue,9/3/2008,FC Istres,FC Gueugnon,1,YYYYYNNYNY,0
+632,Coupe de la Ligue,fra-coupe-de-la-ligue,9/23/2008,AJ Auxerre,Toulouse FC,1,YYNYYYYYYNYYYN,0
+633,Coupe de la Ligue,fra-coupe-de-la-ligue,9/23/2008,Vannes OC,Valenciennes FC,1,YNYYNNYYNYNNNNYYYN,0
+634,Coupe de la Ligue,fra-coupe-de-la-ligue,9/24/2008,Montpellier HSC,Lille OSC,1,YNYYNYYNY,0
+635,Coupe de la Ligue,fra-coupe-de-la-ligue,9/24/2008,Stade Rennes,Le Mans UC 72,0,YYYNYYNYNY,0
+636,Coupe de la Ligue,fra-coupe-de-la-ligue,1/13/2009,Vannes OC,FC Metz,0,NYYYYYYYN,0
+637,Coupe de la Ligue,fra-coupe-de-la-ligue,2/4/2009,OGC Nice,Vannes OC,1,NYYYYYYNNY,0
+638,Coupe de la Ligue,fra-coupe-de-la-ligue,8/1/2009,Amiens SC,Vannes OC,1,YYNYYYNNN,0
+639,Coupe de la Ligue,fra-coupe-de-la-ligue,8/25/2009,ESTAC Troyes,NÓmes Olympique,1,NYNYNY,0
+640,Coupe de la Ligue,fra-coupe-de-la-ligue,8/26/2009,AC Ajaccio,Vannes OC,1,YYYYYYYYNNYYNY,0
+641,Coupe de la Ligue,fra-coupe-de-la-ligue,7/30/2010,Angers SCO,SC Bastia,1,YYNYNYYY,0
+642,Coupe de la Ligue,fra-coupe-de-la-ligue,7/30/2010,CS Sedan,NÓmes Olympique,1,YYYYYYYYNY,0
+643,Coupe de la Ligue,fra-coupe-de-la-ligue,7/30/2010,ESTAC Troyes,Stade Reims,1,YYYNYYYYNYYYNY,0
+644,Coupe de la Ligue,fra-coupe-de-la-ligue,7/30/2010,RC Strasbourg,…vian Thonon Gaillard,1,YYYYYYYYNY,0
+645,Coupe de la Ligue,fra-coupe-de-la-ligue,7/31/2010,US Boulogne,FC Nantes,0,YYNYNYYY,0
+646,Coupe de la Ligue,fra-coupe-de-la-ligue,8/24/2010,Amiens SC,SC Bastia,1,YYYYYYNYN,0
+647,Coupe de la Ligue,fra-coupe-de-la-ligue,9/21/2010,NÓmes Olympique,Valenciennes FC,1,YYYYYYYYNY,0
+648,Coupe de la Ligue,fra-coupe-de-la-ligue,10/26/2010,AS Monaco,FC Lorient,1,YNYYYYYYY,0
+649,Coupe de la Ligue,fra-coupe-de-la-ligue,8/31/2011,Montpellier HSC,Amiens SC,1,NYNYYYYNYNYN,0
+650,Coupe de la Ligue,fra-coupe-de-la-ligue,10/26/2011,Le Mans FC,Stade Rennes,1,YNYYYNY,0
+651,Coupe de la Ligue,fra-coupe-de-la-ligue,1/11/2012,OGC Nice,Dijon FCO,1,YYYYYYYNY,0
+652,Coupe de la Ligue,fra-coupe-de-la-ligue,8/7/2012,Chamois Niortais,US Boulogne,1,NNNYYYYNYN,0
+653,Coupe de la Ligue,fra-coupe-de-la-ligue,8/7/2012,LB Ch‚teauroux,Dijon FCO,0,NNYYYYYNY,0
+654,Coupe de la Ligue,fra-coupe-de-la-ligue,8/7/2012,NÓmes Olympique,AS Monaco,1,YYYYYYYYYYNY,0
+655,Coupe de la Ligue,fra-coupe-de-la-ligue,8/7/2012,Stade Laval,Le Mans FC,1,YYYYYYYYYN,0
+656,Coupe de la Ligue,fra-coupe-de-la-ligue,8/7/2012,Tours FC,Le Havre AC,1,YYYYYYYYYN,0
+657,Coupe de la Ligue,fra-coupe-de-la-ligue,8/7/2012,Vannes OC,GFC Ajaccio,1,YYYNYYYYNYYYYYYYNY,0
+658,Coupe de la Ligue,fra-coupe-de-la-ligue,9/26/2012,FC Lorient,AS Saint-…tienne,1,NYNYNY,0
+659,Coupe de la Ligue,fra-coupe-de-la-ligue,11/27/2012,AS Saint-…tienne,Paris Saint-Germain,1,YYYYYNYYY,0
+660,Coupe de la Ligue,fra-coupe-de-la-ligue,1/15/2013,AS Saint-…tienne,Lille OSC,1,YYNYYYYYYNYYYYYN,0
+661,Coupe de la Ligue,fra-coupe-de-la-ligue,8/6/2013,GFC Ajaccio,ESTAC Troyes,0,YYYYYNYYY,0
+662,Coupe de la Ligue,fra-coupe-de-la-ligue,8/6/2013,Tours FC,FC Istres,0,NYYYYYYYN,0
+663,Coupe de la Ligue,fra-coupe-de-la-ligue,8/6/2013,US Boulogne,US CrÈteil-Lusitanos,0,YNYYYYYYNN,0
+664,Coupe de la Ligue,fra-coupe-de-la-ligue,8/12/2014,Stade Brest,GFC Ajaccio,1,NYYYNYYY,0
+665,Coupe de la Ligue,fra-coupe-de-la-ligue,8/12/2014,Tours FC,Dijon FCO,1,NYYYNYYY,0
+666,Coupe de la Ligue,fra-coupe-de-la-ligue,8/12/2014,US OrlÈans,AJ Auxerre,1,YYYYNNYYNY,0
+667,Coupe de la Ligue,fra-coupe-de-la-ligue,10/29/2014,OGC Nice,FC Metz,1,NNNYYYYYN,0
+668,Coupe de la Ligue,fra-coupe-de-la-ligue,12/17/2014,Lille OSC,Girondins Bordeaux,1,NYYNYNNYYYNNYYYYYN,0
+669,Coupe de la Ligue,fra-coupe-de-la-ligue,12/17/2014,Olympique Lyon,AS Monaco,0,NYYYYYYNYYYN,0
+670,Coupe de la Ligue,fra-coupe-de-la-ligue,2/4/2015,AS Monaco,SC Bastia,1,YYNNYNYYNYYYYYYYNY,0
+671,Coupe de la Ligue,fra-coupe-de-la-ligue,8/11/2015,Dijon FCO,US CrÈteil-Lusitanos,0,NYYNYNYYNYNY,0
+672,Coupe de la Ligue,fra-coupe-de-la-ligue,8/11/2015,RC Lens,AC Ajaccio,1,NYYYNYYY,0
+673,Coupe de la Ligue,fra-coupe-de-la-ligue,8/11/2015,Stade Brest,FC Bourg-PÈronnas,0,YNYYYYYYY,0
+674,Coupe de la Ligue,fra-coupe-de-la-ligue,8/25/2015,CA Bastia,AJ Auxerre,0,YNYNYN,0
+675,Coupe de la Ligue,fra-coupe-de-la-ligue,8/25/2015,FC Bourg-PÈronnas,AS Nancy,0,YYYYYYNYYY,0
+676,Coupe de la Ligue,fra-coupe-de-la-ligue,10/27/2015,…vian Thonon Gaillard,Stade Laval,1,YYYYYYNYYY,0
+677,Coupe de la Ligue,fra-coupe-de-la-ligue,10/28/2015,Toulouse FC,AJ Auxerre,0,YYNNNYNNN,0
+678,Coupe de la Ligue,fra-coupe-de-la-ligue,12/15/2015,EA Guingamp,OGC Nice,1,YYYYNNYYNNYN,0
+679,Coupe de la Ligue,fra-coupe-de-la-ligue,1/13/2016,EA Guingamp,Lille OSC,0,YYYNYYNNY,0
+680,Coupe de la Ligue,fra-coupe-de-la-ligue,8/9/2016,FC Sochaux,GFC Ajaccio,0,YYNYNYYY,0
+681,Coupe de la Ligue,fra-coupe-de-la-ligue,8/9/2016,NÓmes Olympique,LB Ch‚teauroux,0,YYNNYNYN,0
+682,Coupe de la Ligue,fra-coupe-de-la-ligue,8/9/2016,Paris FC,Red Star FC,1,YYYYYYYNY,0
+683,Coupe de la Ligue,fra-coupe-de-la-ligue,8/9/2016,Stade Brest,Valenciennes FC,1,YYYNYYYYY,0
+684,Coupe de la Ligue,fra-coupe-de-la-ligue,8/23/2016,RC Lens,Paris FC,0,YYYYYNNYYYYYYYYN,0
+685,Coupe de la Ligue,fra-coupe-de-la-ligue,8/23/2016,US OrlÈans,Stade Laval,0,YYYNYNY,0
+686,Coupe de la Ligue,fra-coupe-de-la-ligue,10/26/2016,Dijon FCO,FC Sochaux,1,YYYYYYYYNY,0
+687,Coupe de la Ligue,fra-coupe-de-la-ligue,10/26/2016,Paris FC,FC Metz,0,YYYNYYYYNYYYYYYN,0
+688,Coupe de la Ligue,fra-coupe-de-la-ligue,10/26/2016,SC Bastia,EA Guingamp,1,YYYYNNNYYY,0
+689,Coupe de la Ligue,fra-coupe-de-la-ligue,12/13/2016,FC Sochaux,Olympique Marseille,0,YNYYYYNYNY,0
+690,Coupe de la Ligue,fra-coupe-de-la-ligue,12/14/2016,FC Metz,Toulouse FC,0,YYYYYYYYYYYYYYYYYYYYNY,0
+691,Coupe de la Ligue,fra-coupe-de-la-ligue,12/14/2016,Olympique Lyon,EA Guingamp,1,NYYNYYNYYY,0
+692,Coupe de la Ligue,fra-coupe-de-la-ligue,1/10/2017,FC Sochaux,AS Monaco,0,YYYYYNYYNN,0
+693,Cup,sui-cup,3/2/2011,FC Thun,Neuch‚tel Xamax FC,1,NYNYNY,0
+694,Cup,sui-cup,4/25/2011,FC Z¸rich,Neuch‚tel Xamax FC,0,YYYYYYYYYYYYYN,0
+695,Cup,sui-cup,5/20/2013,FC Basel,Grasshoppers Z¸rich,1,YYNYYNYYNY,0
+696,Cup,sui-cup,3/26/2014,FC Z¸rich,FC Thun,0,NYYYYYYYYY,0
+697,Cup,per-copa-inca,4/19/2015,Universidad Cesar Vallejo,Real Garcilaso,0,YYYYNYYYYY,0
+698,Cup,chi-copa-chile,12/2/2015,Universidad de Chile,Colo-Colo,1,YYYNYYYYY,0
+699,Cup,sui-cup,12/13/2015,FC Sion,FC Basel,0,YYYNNYNYYY,0
+700,Cup,sui-cup,10/27/2016,FC Kˆniz,FC Luzern,0,YYYYYYYYYN,0
+701,Cup,kor-fa-cup,12/3/2016,FC Seoul,Suwon Bluewings,1,YYYYYYYYYYYYYYYYYYNY,0
+702,Cup,sui-cup,3/1/2017,BSC Young Boys,FC Winterthur,0,YYYNYYYYY,0
+703,Cup,sui-cup,4/5/2017,FC Sion,FC Luzern,1,YYNYYYYNYYYYYN,0
+704,Cup Winners Cup,ec-der-pokalsieger,9/30/1970,Budapest Honved SE,Aberdeen FC,0,YYYYNYYYYY,1
+705,Cup Winners Cup,ec-der-pokalsieger,11/4/1970,FC Vorw‰rts Berlin,SL Benfica,1,YYYNYYYYY,1
+706,Cup Winners Cup,ec-der-pokalsieger,9/29/1971,Cardiff City,BFC Dynamo,1,YYNYYYYYYY,1
+707,Cup Winners Cup,ec-der-pokalsieger,4/20/1972,Dinamo Moskva,BFC Dynamo,1,YNYNYYY,1
+708,Cup Winners Cup,ec-der-pokalsieger,10/2/1974,Bologna FC,Gwardia Warszawa,0,YYYYYYYNY,1
+709,Cup Winners Cup,ec-der-pokalsieger,10/2/1974,FC Carl Zeiss Jena,TJ Slavia Praha IPS,1,NYYYYNYNNN,1
+710,Cup Winners Cup,ec-der-pokalsieger,10/2/1974,FC Sion,Malmˆ FF,0,YYYYYYYYYN,1
+711,Cup Winners Cup,ec-der-pokalsieger,3/19/1975,Crvena Zvezda,Real Madrid,1,YYYYYYYYYYNNYN,1
+712,Cup Winners Cup,ec-der-pokalsieger,11/5/1975,BSG Sachsenring Zwickau,ACF Fiorentina,0,YYYYNYYYYY,1
+713,Cup Winners Cup,ec-der-pokalsieger,11/2/1977,FC Universitatea Craiova,Dinamo Moskva,1,NYNYNY,1
+714,Cup Winners Cup,ec-der-pokalsieger,11/2/1977,Hajduk Split,DiÛsgyˆri VTK,1,YYYYYYYNNN,1
+715,Cup Winners Cup,ec-der-pokalsieger,3/15/1978,Hajduk Split,Austria Wien,0,YNYNYN,1
+716,Cup Winners Cup,ec-der-pokalsieger,4/12/1978,Austria Wien,Dinamo Moskva,0,YYYYYYYYNY,1
+717,Cup Winners Cup,ec-der-pokalsieger,11/1/1978,FC Barcelona,RSC Anderlecht,1,YNYNYYY,1
+718,Cup Winners Cup,ec-der-pokalsieger,5/14/1980,Valencia CF,Arsenal FC,1,NNYYYYYYYYYN,1
+719,Cup Winners Cup,ec-der-pokalsieger,9/30/1981,PAOK Saloniki,Eintracht Frankfurt,0,YYYYYYYYYN,1
+720,Cup Winners Cup,ec-der-pokalsieger,11/4/1981,Veleû Mostar,1. FC Lok Leipzig,0,YNYNYN,1
+721,Cup Winners Cup,ec-der-pokalsieger,10/1/1986,Real Zaragoza,AS Roma,1,NYYYYYYNYN,1
+722,Cup Winners Cup,ec-der-pokalsieger,4/22/1987,1. FC Lok Leipzig,Girondins Bordeaux,0,YYNNYYYYYYYYNY,1
+723,Cup Winners Cup,ec-der-pokalsieger,11/9/1988,Lech Poznan,FC Barcelona,0,NYYYYYYNNNYYYN,1
+724,Cup Winners Cup,ec-der-pokalsieger,3/15/1989,Roda JC Kerkrade,CFKA Sofia,1,YNYYNYYYNY,1
+725,Cup Winners Cup,ec-der-pokalsieger,3/20/1990,AS Monaco,Real Valladolid,0,NYYNNYNY,1
+726,Cup Winners Cup,ec-der-pokalsieger,10/3/1990,Neuch‚tel Xamax FC,Estrela Amadora,1,YYYYYYNYN,1
+727,Cup Winners Cup,ec-der-pokalsieger,11/6/1991,Feyenoord,FC Sion,1,YYYNYYYYY,1
+728,Cup Winners Cup,ec-der-pokalsieger,9/30/1992,Royal Antwerp FC,Glenavon FC,0,YNNYNYNY,1
+729,Cup Winners Cup,ec-der-pokalsieger,11/3/1993,Parma AC,Maccabi Haifa,0,NYYYNYN,1
+730,Cup Winners Cup,ec-der-pokalsieger,9/29/1994,Ferencv·rosi TC,CSKA Moskva,1,YYYYYYYYYYYYYN,1
+731,Cup Winners Cup,ec-der-pokalsieger,3/16/1995,FC Porto,Sampdoria,0,YYYNYYYYY,1
+732,Cup Winners Cup,ec-der-pokalsieger,11/2/1995,FC Hradec Kr·lovÈ,Dinamo Moskva,1,NYNNNYYY,1
+733,Cupa Romaniei,rou-cupa-romaniei,9/23/2014,Rapid Bucuresti,FC Botosani,0,YYYYYYYYNY,0
+734,Cupa Romaniei,rou-cupa-romaniei,4/1/2015,Universitatea Cluj,CFR Cluj,0,YYNYYYNY,0
+735,Cupa Romaniei,rou-cupa-romaniei,10/29/2015,FC Baia Mare,Steaua Bucuresti,0,YNYYYNY,0
+736,Cupa Romaniei,rou-cupa-romaniei,12/15/2015,ACS Poli Timisoara,ASA T‚rgu Mures,0,YYYYYYYYYYYYYN,0
+737,Cupa Romaniei,rou-cupa-romaniei,5/17/2016,Dinamo Bucuresti,CFR Cluj,1,YYYYYYYYNY,0
+738,Cupa Romaniei,rou-cupa-romaniei,3/28/2017,ACS Poli Timisoara,CFR Cluj,1,YYYYNYYNYYYYYN,0
+739,Cupa Romaniei,rou-cupa-romaniei,3/29/2017,CS Universitatea Craiova,Dinamo Bucuresti,0,YYNYYYYNYYYYNY,0
+740,Cupa Romaniei,rou-cupa-romaniei,5/27/2017,FC Voluntari,Astra Giurgiu,1,YYYYYYYNY,0
+741,DBU Pokalen,den-dbu-pokalen,3/5/2015,FC K¯benhavn,Randers FC,1,YYYYYYYYNNYN,0
+742,DBU Pokalen,den-dbu-pokalen,9/2/2015,Vejle BK,Hobro IK,0,YYYNNYYNY,0
+743,DBU Pokalen,den-dbu-pokalen,10/13/2015,FC Roskilde,Hobro IK,0,YYYYNYYNYYYYYYNY,0
+744,DFB-Pokal,dfb-pokal,6/10/1972,FC Schalke 04,1. FC Kˆln,1,YYNNYYYYYYYYNNYN,1
+745,DFB-Pokal,dfb-pokal,12/4/1973,Fortuna D¸sseldorf,Hertha BSC,0,YYYNYNY,1
+746,DFB-Pokal,dfb-pokal,12/21/1973,Hamburger SV,Bor. Mˆnchengladbach,0,NYYYNYN,1
+747,DFB-Pokal,dfb-pokal,12/23/1978,SC Freiburg,Rot-Weiﬂ Oberhausen,1,YNYYNYNYN,1
+748,DFB-Pokal,dfb-pokal,5/31/1984,Bayern M¸nchen,Bor. Mˆnchengladbach,0,NYYYYYYNYYYYYYNY,1
+749,DFB-Pokal,dfb-pokal,10/2/1984,MSV Duisburg,Fortuna Kˆln,0,YYYYYYYNY,1
+750,DFB-Pokal,dfb-pokal,2/6/1985,1. FC Saarbr¸cken,VfB Stuttgart,0,NYNYNY,1
+751,DFB-Pokal,dfb-pokal,10/7/1986,Alemannia Aachen,Werder Bremen,1,YYNNYYYYYYYYNNYYYN,1
+752,DFB-Pokal,dfb-pokal,6/22/1991,Werder Bremen,1. FC Kˆln,0,NNYYNYYYYY,1
+753,DFB-Pokal,dfb-pokal,7/27/1991,SpVgg Unterhaching,Bayer 05 Uerdingen,1,NYNYYYN,1
+754,DFB-Pokal,dfb-pokal,8/17/1991,Rot-Weiﬂ Hasborn,VfL Osnabr¸ck,0,NYNYYNYNYYYYNY,1
+755,DFB-Pokal,dfb-pokal,8/17/1991,TSV Havelse,1. FC N¸rnberg,0,NYNYYYYY,1
+756,DFB-Pokal,dfb-pokal,9/3/1991,FC 08 Homburg,1. FC Kaiserslautern,1,YYNYNNNY,1
+757,DFB-Pokal,dfb-pokal,9/4/1991,Hamburger SV II,Bergmann Borsig Berlin,1,YYYYYYYYYYYN,1
+758,DFB-Pokal,dfb-pokal,4/7/1992,Bor. Mˆnchengladbach,Bayer Leverkusen,1,YNNNNNYN,1
+759,DFB-Pokal,dfb-pokal,4/8/1992,Hannover 96,Werder Bremen,1,YYNYYNYYYYYYYN,1
+760,DFB-Pokal,dfb-pokal,5/23/1992,Hannover 96,Bor. Mˆnchengladbach,0,YYYYNNNYYY,1
+761,DFB-Pokal,dfb-pokal,8/18/1992,Bayer Leverkusen II,Hamburger SV,1,YYYYYYYYYYYYYYNY,1
+762,DFB-Pokal,dfb-pokal,9/11/1992,MSV Duisburg,1. FC Kˆln,0,YYYYYYNYN,1
+763,DFB-Pokal,dfb-pokal,9/12/1992,Borussia Dortmund,Bayern M¸nchen,0,YYYYYYNYYY,1
+764,DFB-Pokal,dfb-pokal,9/12/1992,Rot-Weiﬂ Erfurt,Bayer 05 Uerdingen,0,YYYYYNNNY,1
+765,DFB-Pokal,dfb-pokal,9/12/1992,Stahl Eisenh¸ttenstadt,Wuppertaler SV,0,NYYYYYYYYNNY,1
+766,DFB-Pokal,dfb-pokal,10/10/1992,Fortuna D¸sseldorf,Hansa Rostock,0,NYNYNY,1
+767,DFB-Pokal,dfb-pokal,11/6/1992,FC 08 Homburg,1. FC N¸rnberg,1,NYYYNYYY,1
+768,DFB-Pokal,dfb-pokal,12/2/1992,Karlsruher SC,Eintracht Frankfurt,0,YYYYYNYYY,1
+769,DFB-Pokal,dfb-pokal,8/24/1993,1. FC Magdeburg,Wuppertaler SV,1,YYYYYYYYYN,1
+770,DFB-Pokal,dfb-pokal,8/25/1993,Dynamo Dresden,VfL Wolfsburg,1,NYYYYNYNY,1
+771,DFB-Pokal,dfb-pokal,8/25/1993,Sachsen Leipzig,FC St. Pauli,1,YYYYYYNYN,1
+772,DFB-Pokal,dfb-pokal,9/11/1993,Bayern M¸nchen II,1. FC Kˆln,0,NYYYYYYYYY,1
+773,DFB-Pokal,dfb-pokal,9/12/1993,Kickers Offenbach,Werder Bremen,0,YYYYYYYNY,1
+774,DFB-Pokal,dfb-pokal,10/26/1993,FC Augsburg,Bayer Leverkusen,0,YNNYYYYNNYYN,1
+775,DFB-Pokal,dfb-pokal,10/27/1993,Bayern M¸nchen II,TeBe Berlin,1,YYYYYYYYNY,1
+776,DFB-Pokal,dfb-pokal,11/30/1993,FC Carl Zeiss Jena,Rot-Weiss Essen,0,NNYYYYYYYYYYYN,1
+777,DFB-Pokal,dfb-pokal,12/1/1993,Dynamo Dresden,Bayer Leverkusen,0,YYYYNYYYYY,1
+778,DFB-Pokal,dfb-pokal,2/9/1994,Werder Bremen,1. FC Kaiserslautern,1,YNYYYYNYYN,1
+779,DFB-Pokal,dfb-pokal,8/13/1994,Sachsen Leipzig,TSV 1860 M¸nchen,0,YNYNNYNYYYYN,1
+780,DFB-Pokal,dfb-pokal,8/14/1994,TuS Paderborn-Neuhaus,Chemnitzer FC,1,YYYYYYYYNNNY,1
+781,DFB-Pokal,dfb-pokal,9/10/1994,Eintracht Frankfurt,VfL Wolfsburg,0,YYYYNYYNYN,1
+782,DFB-Pokal,dfb-pokal,9/10/1994,Karlsruher SC,Waldhof Mannheim,0,YYNNYYNYN,1
+783,DFB-Pokal,dfb-pokal,9/10/1994,TSV 1860 M¸nchen,Bayer Leverkusen,1,YYYNYNY,1
+784,DFB-Pokal,dfb-pokal,9/11/1994,Bayern M¸nchen II,Chemnitzer FC,1,YNYYYNY,1
+785,DFB-Pokal,dfb-pokal,11/1/1994,TSV Vestenbergsgreuth,VfL Wolfsburg,1,YYYYNNNYYY,1
+786,DFB-Pokal,dfb-pokal,11/8/1994,Bayern M¸nchen II,VfB Stuttgart,0,YYYNYYNNNYYYYYYYNY,1
+787,DFB-Pokal,dfb-pokal,8/15/1995,TSG Pfeddersheim,Borussia Dortmund,1,YYYYNNNYN,1
+788,DFB-Pokal,dfb-pokal,8/26/1995,SC Neukirchen,1. FSV Mainz 05,0,YYYNYYNYYN,1
+789,DFB-Pokal,dfb-pokal,8/26/1995,SpVgg Beckum,1. FC Kˆln,1,YYYYYNYYNN,1
+790,DFB-Pokal,dfb-pokal,8/27/1995,SV Sandhausen,VfB Stuttgart,1,YYYYYYYYYYYYYYYYYYYYYYYYYN,1
+791,DFB-Pokal,dfb-pokal,9/6/1995,Lok Altmark Stendal,VfL Wolfsburg,1,YYNYYNYYYN,1
+792,DFB-Pokal,dfb-pokal,10/3/1995,Lok Altmark Stendal,Waldhof Mannheim,1,YYYYYYYNNYYN,1
+793,DFB-Pokal,dfb-pokal,10/4/1995,Rot-Weiss Essen,Bayer Leverkusen,0,YNYYYNY,1
+794,DFB-Pokal,dfb-pokal,10/31/1995,Lok Altmark Stendal,Bayer Leverkusen,1,YYNNYYYYYYNY,1
+795,DFB-Pokal,dfb-pokal,8/10/1996,Borussia Neunkirchen,VfB Leipzig,0,NYYYYYYYYY,1
+796,DFB-Pokal,dfb-pokal,8/10/1996,VfB Stuttgart,Fortuna Kˆln,1,YNYYYNY,1
+797,DFB-Pokal,dfb-pokal,8/11/1996,Werder Bremen,Bayer Leverkusen,1,YYYYYYYNY,1
+798,DFB-Pokal,dfb-pokal,9/1/1996,SG Wattenscheid 09,Karlsruher SC II,0,YYYYYNYN,1
+799,DFB-Pokal,dfb-pokal,10/1/1996,Hertha BSC,VfB Stuttgart,0,NYYYYNYYYYYN,1
+800,DFB-Pokal,dfb-pokal,10/23/1996,Energie Cottbus,MSV Duisburg,1,YYYYYYYYYN,1
+801,DFB-Pokal,dfb-pokal,11/12/1996,Energie Cottbus,FC St. Pauli,1,YYYNNYYYYYYN,1
+802,DFB-Pokal,dfb-pokal,11/13/1996,SC Freiburg,VfB Stuttgart,0,YNYYYYYN,1
+803,DFB-Pokal,dfb-pokal,8/14/1997,FC Carl Zeiss Jena,FC St. Pauli,1,NNYYYYYNY,1
+804,DFB-Pokal,dfb-pokal,8/14/1997,Waldhof Mannheim,SG Wattenscheid 09,0,YYYYNYYYN,1
+805,DFB-Pokal,dfb-pokal,8/15/1997,Alemannia Aachen,1. FC N¸rnberg,0,YYYYNYYNNY,1
+806,DFB-Pokal,dfb-pokal,8/16/1997,Preuﬂen M¸nster,1. FSV Mainz 05,0,YYYYYYYYYYYYYN,1
+807,DFB-Pokal,dfb-pokal,9/23/1997,Karlsruher SC,Arminia Bielefeld,0,NYYNYYYNY,1
+808,DFB-Pokal,dfb-pokal,9/23/1997,VfL Wolfsburg,Bayern M¸nchen,1,YNYYNYNYYY,1
+809,DFB-Pokal,dfb-pokal,9/23/1997,VfR Mannheim,FC Carl Zeiss Jena,0,YYYYYNNYYN,1
+810,DFB-Pokal,dfb-pokal,12/2/1997,Hannover 96,FC Carl Zeiss Jena,0,NNYNYYYYY,1
+811,DFB-Pokal,dfb-pokal,12/3/1997,Alemannia Aachen,Waldhof Mannheim,1,YYYNYYYYNYNY,1
+812,DFB-Pokal,dfb-pokal,12/3/1997,Bayer Leverkusen,Arminia Bielefeld,0,YYNYYYYYN,1
+813,DFB-Pokal,dfb-pokal,2/18/1998,Eintracht Trier,MSV Duisburg,0,YNYYYYYYNYYYYYYYYYYYYN,1
+814,DFB-Pokal,dfb-pokal,8/28/1998,1. FC Saarbr¸cken,Borussia Dortmund,1,NYYYNNNY,1
+815,DFB-Pokal,dfb-pokal,9/22/1998,1. FC Kaiserslautern,VfL Bochum,1,NYYNYYYYYYNY,1
+816,DFB-Pokal,dfb-pokal,9/22/1998,Bayer Leverkusen,Hertha BSC,1,NYYNYYYYNY,1
+817,DFB-Pokal,dfb-pokal,9/23/1998,KFC Uerdingen 05,FC St. Pauli,0,YYYYNYYNYYNY,1
+818,DFB-Pokal,dfb-pokal,9/23/1998,SpVgg Greuther F¸rth,Bayern M¸nchen,0,YYYYYNNYYN,1
+819,DFB-Pokal,dfb-pokal,10/27/1998,Rot-Weiﬂ Oberhausen,Hamburger SV,0,YNYYNYNNYYNY,1
+820,DFB-Pokal,dfb-pokal,6/12/1999,Bayern M¸nchen,Werder Bremen,0,YYNYYYYYYNYN,1
+821,DFB-Pokal,dfb-pokal,7/31/1999,SC Verl,Bor. Mˆnchengladbach,0,YYYYYYYYYYNY,1
+822,DFB-Pokal,dfb-pokal,10/12/1999,Werder Bremen,1. FC Kaiserslautern,0,NYYYYNNYYNNY,1
+823,DFB-Pokal,dfb-pokal,10/13/1999,Energie Cottbus,FC Schalke 04,0,YYYYNYYYYY,1
+824,DFB-Pokal,dfb-pokal,10/13/1999,VfL Bochum,MSV Duisburg,1,YYYYYYYNNYYYYN,1
+825,DFB-Pokal,dfb-pokal,8/27/2000,VfB L¸beck,Waldhof Mannheim,0,YYNYNNYYN,1
+826,DFB-Pokal,dfb-pokal,11/1/2000,1. FC Magdeburg,Bayern M¸nchen,0,YYNYNYYY,1
+827,DFB-Pokal,dfb-pokal,11/1/2000,VfB L¸beck,MSV Duisburg,0,YNYYYYYYY,1
+828,DFB-Pokal,dfb-pokal,11/28/2000,VfL Wolfsburg,MSV Duisburg,1,YYNYNNYYYY,1
+829,DFB-Pokal,dfb-pokal,2/6/2001,1. FC Union Berlin,Bor. Mˆnchengladbach,0,NYNYYYYY,1
+830,DFB-Pokal,dfb-pokal,8/24/2001,Rot-Weiﬂ Erfurt,LR Ahlen,0,YYYYNNYYYYYYNNYYNNYYYYNY,1
+831,DFB-Pokal,dfb-pokal,8/26/2001,1. FSV Mainz 05 II,Bor. Mˆnchengladbach,0,YYYNYYYN,1
+832,DFB-Pokal,dfb-pokal,11/27/2001,KFC Uerdingen 05,Werder Bremen,0,NYYYYNYYNY,1
+833,DFB-Pokal,dfb-pokal,11/28/2001,SSV Reutlingen,Rot-Weiﬂ Oberhausen,1,YYYYNYYYN,1
+834,DFB-Pokal,dfb-pokal,11/28/2001,SV Darmstadt 98,SC Freiburg,0,YYNYNYN,1
+835,DFB-Pokal,dfb-pokal,11/28/2001,Werder Bremen II,Eintracht Frankfurt,0,NYYYYNYNY,1
+836,DFB-Pokal,dfb-pokal,12/12/2001,KFC Uerdingen 05,1. FC Kˆln,0,YYYYYYYNY,1
+837,DFB-Pokal,dfb-pokal,1/30/2002,1. FC Kaiserslautern,Bayern M¸nchen,0,YYYYYNYYY,1
+838,DFB-Pokal,dfb-pokal,8/30/2002,1. FC Saarbr¸cken,Waldhof Mannheim,0,NNYYYYYYYN,1
+839,DFB-Pokal,dfb-pokal,9/1/2002,Holstein Kiel,Hertha BSC,1,YNYNYN,1
+840,DFB-Pokal,dfb-pokal,11/5/2002,TSV 1860 M¸nchen,VfL Wolfsburg,0,YYYNNNNYYYYYYYNNYYYYNY,1
+841,DFB-Pokal,dfb-pokal,12/4/2002,Bayern M¸nchen,FC Schalke 04,0,NYYYYYYYYY,1
+842,DFB-Pokal,dfb-pokal,2/5/2003,SpVgg Unterhaching,Bayer Leverkusen,1,YYYYYYYYNY,1
+843,DFB-Pokal,dfb-pokal,2/5/2003,VfL Bochum,1. FC Kaiserslautern,1,NNNYYYYYYY,1
+844,DFB-Pokal,dfb-pokal,8/29/2003,Rot-Weiﬂ Erfurt,Alemannia Aachen,1,YYYNNYYYNY,1
+845,DFB-Pokal,dfb-pokal,8/30/2003,1. FSV Mainz 05 II,Karlsruher SC,1,YYNYYYYNNY,1
+846,DFB-Pokal,dfb-pokal,8/31/2003,1. FC Magdeburg,MSV Duisburg,1,NYYYYYNNYY,1
+847,DFB-Pokal,dfb-pokal,8/31/2003,SSVg Velbert,1. FSV Mainz 05,1,YYYYYYYNY,1
+848,DFB-Pokal,dfb-pokal,8/31/2003,VfL Osnabr¸ck,Hansa Rostock,0,YYYYYYYYYN,1
+849,DFB-Pokal,dfb-pokal,9/1/2003,FC St. Pauli,Arminia Bielefeld,0,NYYYYNNYYY,1
+850,DFB-Pokal,dfb-pokal,9/1/2003,Kickers Offenbach,Eintracht Frankfurt,1,NYYNYYYYNY,1
+851,DFB-Pokal,dfb-pokal,10/28/2003,Bayern M¸nchen,1. FC N¸rnberg,1,YYNYYNYYYYNNYYYYYN,1
+852,DFB-Pokal,dfb-pokal,10/28/2003,Hansa Rostock,Hertha BSC,0,YYYNNYYNNYYN,1
+853,DFB-Pokal,dfb-pokal,10/29/2003,Alemannia Aachen,TSV 1860 M¸nchen,1,YYYYYYYYYN,1
+854,DFB-Pokal,dfb-pokal,12/2/2003,Jahn Regensburg,MSV Duisburg,0,YYYNYYYN,1
+855,DFB-Pokal,dfb-pokal,12/3/2003,1. FC Kˆln,SpVgg Greuther F¸rth,1,NYYYNYN,1
+856,DFB-Pokal,dfb-pokal,2/3/2004,Bor. Mˆnchengladbach,MSV Duisburg,0,NNYYNYYYYY,1
+857,DFB-Pokal,dfb-pokal,8/22/2004,Bayern M¸nchen II,Bor. Mˆnchengladbach,1,YYYYYNNYYYYYYYNNYN,1
+858,DFB-Pokal,dfb-pokal,9/21/2004,Karlsruher SC,1. FSV Mainz 05,1,YNYNYN,1
+859,DFB-Pokal,dfb-pokal,9/21/2004,TSV 1860 M¸nchen,Eintracht Trier,1,YNNYNYYYYY,1
+860,DFB-Pokal,dfb-pokal,9/22/2004,1. FC Kaiserslautern,FC Schalke 04,1,YYNYNNYYYY,1
+861,DFB-Pokal,dfb-pokal,9/22/2004,1. FC Kˆln,Hansa Rostock,1,NYNYYYYY,1
+862,DFB-Pokal,dfb-pokal,9/22/2004,Energie Cottbus,Hannover 96,1,YYYYYYYYNY,1
+863,DFB-Pokal,dfb-pokal,11/10/2004,SC Paderborn 07,SC Freiburg,0,YNYNYYY,1
+864,DFB-Pokal,dfb-pokal,4/19/2005,FC Schalke 04,Werder Bremen,0,YYNYYYNNYNYYNY,1
+865,DFB-Pokal,dfb-pokal,8/19/2005,Rot-Weiss Essen,Energie Cottbus,1,YNYYYYYYNYNY,1
+866,DFB-Pokal,dfb-pokal,8/20/2005,FC Ingolstadt 04,1. FC Saarbr¸cken,0,YYYNYYNYYYYN,1
+867,DFB-Pokal,dfb-pokal,8/21/2005,Sachsen Leipzig,Dynamo Dresden,0,YYYYYNYYY,1
+868,DFB-Pokal,dfb-pokal,8/21/2005,VfL Osnabr¸ck,SpVgg Greuther F¸rth,1,YYYYYYYYYYYYYYYYYYYN,1
+869,DFB-Pokal,dfb-pokal,10/25/2005,Werder Bremen,VfL Wolfsburg,1,YNYYNYYYYYYN,1
+870,DFB-Pokal,dfb-pokal,10/26/2005,VfL Osnabr¸ck,1. FSV Mainz 05,0,YNNYYNYYY,1
+871,DFB-Pokal,dfb-pokal,12/20/2005,1. FC Kaiserslautern,1. FSV Mainz 05,1,YNYNNYNYYYNY,1
+872,DFB-Pokal,dfb-pokal,12/21/2005,Eintracht Frankfurt,1. FC N¸rnberg,1,YNYNYYY,1
+873,DFB-Pokal,dfb-pokal,12/21/2005,Hansa Rostock,Kickers Offenbach,1,YYYNNYYYNY,1
+874,DFB-Pokal,dfb-pokal,1/25/2006,Arminia Bielefeld,Kickers Offenbach,1,YNYYYYYN,1
+875,DFB-Pokal,dfb-pokal,9/9/2006,1. FC Magdeburg,SC Paderborn 07,0,YYYYNNYYYYYYYYYN,1
+876,DFB-Pokal,dfb-pokal,9/9/2006,FK Pirmasens,Werder Bremen,1,YNNYYNYYY,1
+877,DFB-Pokal,dfb-pokal,9/9/2006,TuS Koblenz,Bayer Leverkusen,1,YYNYNNNY,1
+878,DFB-Pokal,dfb-pokal,10/24/2006,VfB L¸beck,Wacker Burghausen,0,YYNNYNNYYYYYYN,1
+879,DFB-Pokal,dfb-pokal,12/19/2006,1. FC N¸rnberg,SpVgg Unterhaching,0,NNNYYNNYN,1
+880,DFB-Pokal,dfb-pokal,2/27/2007,1. FC N¸rnberg,Hannover 96,1,YNYYYYYN,1
+881,DFB-Pokal,dfb-pokal,8/4/2007,Rot-Weiss Essen,Energie Cottbus,0,YYYYYNYYNYYYNY,1
+882,DFB-Pokal,dfb-pokal,8/5/2007,Wuppertaler SV,Erzgebirge Aue,1,NNNNYYNYYNYYYN,1
+883,DFB-Pokal,dfb-pokal,8/6/2007,Wacker Burghausen,Bayern M¸nchen,0,YNYYNNNYYYNNYN,1
+884,DFB-Pokal,dfb-pokal,10/30/2007,Werder Bremen II,FC St. Pauli,1,YYYNYYNNY,1
+885,DFB-Pokal,dfb-pokal,10/31/2007,FC Carl Zeiss Jena,1. FC N¸rnberg,0,YYYYNYYYYY,1
+886,DFB-Pokal,dfb-pokal,1/30/2008,VfL Wolfsburg,FC Schalke 04,1,YYYYYNYYY,1
+887,DFB-Pokal,dfb-pokal,2/26/2008,VfB Stuttgart,FC Carl Zeiss Jena,1,YYYYYYNYYY,1
+888,DFB-Pokal,dfb-pokal,8/8/2008,Erzgebirge Aue,FC St. Pauli,0,YYYYYYYYNY,1
+889,DFB-Pokal,dfb-pokal,8/8/2008,Preuﬂen M¸nster,VfL Bochum,1,NYYYYYYNYYYYNY,1
+890,DFB-Pokal,dfb-pokal,8/9/2008,SC Paderborn 07,FC Augsburg,0,YYYNNNYN,1
+891,DFB-Pokal,dfb-pokal,8/10/2008,FC Oberneuland,TuS Koblenz,1,YYYYNYYYYNYN,1
+892,DFB-Pokal,dfb-pokal,8/10/2008,Rot Weiss Ahlen,1. FC N¸rnberg,1,NYYYYYYYN,1
+893,DFB-Pokal,dfb-pokal,9/23/2008,TSV 1860 M¸nchen,MSV Duisburg,0,YYYYNYYYYY,1
+894,DFB-Pokal,dfb-pokal,4/22/2009,Hamburger SV,Werder Bremen,1,YYNYNYN,1
+895,DFB-Pokal,dfb-pokal,8/1/2009,Wacker Burghausen,Rot Weiss Ahlen,1,YYYYNYYYYY,1
+896,DFB-Pokal,dfb-pokal,8/3/2009,Fortuna D¸sseldorf,Hamburger SV,0,YYYNYNY,1
+897,DFB-Pokal,dfb-pokal,9/23/2009,TSV 1860 M¸nchen,Hertha BSC,1,YNYNYYY,1
+898,DFB-Pokal,dfb-pokal,9/23/2009,VfL Osnabr¸ck,Hamburger SV,1,YNYYYYYN,1
+899,DFB-Pokal,dfb-pokal,8/13/2010,Jahn Regensburg,Arminia Bielefeld,1,YYYYYYYYYYNY,1
+900,DFB-Pokal,dfb-pokal,8/14/2010,SV 07 Elversberg,Hannover 96,0,YYNYYYYYYY,1
+901,DFB-Pokal,dfb-pokal,8/14/2010,SV Sandhausen,FC Augsburg,0,YYYNYNNN,1
+902,DFB-Pokal,dfb-pokal,10/27/2010,Bor. Mˆnchengladbach,Bayer Leverkusen,0,YYYYNYYYYY,1
+903,DFB-Pokal,dfb-pokal,10/27/2010,Kickers Offenbach,Borussia Dortmund,1,NYYNYYYNY,1
+904,DFB-Pokal,dfb-pokal,12/22/2010,Alemannia Aachen,Eintracht Frankfurt,1,YYYNYYYYY,1
+905,DFB-Pokal,dfb-pokal,7/29/2011,Rot-Weiss Essen,1. FC Union Berlin,0,NYYNNYYYYY,1
+906,DFB-Pokal,dfb-pokal,7/30/2011,Hansa Rostock,VfL Bochum,0,YNYYYYYYY,1
+907,DFB-Pokal,dfb-pokal,10/25/2011,1. FC Heidenheim 1846,Bor. Mˆnchengladbach,1,YYYYNYYYN,1
+908,DFB-Pokal,dfb-pokal,12/20/2011,Fortuna D¸sseldorf,Borussia Dortmund,1,YYYYYYNYYY,1
+909,DFB-Pokal,dfb-pokal,3/21/2012,Bor. Mˆnchengladbach,Bayern M¸nchen,0,YYYYYNYN,1
+910,DFB-Pokal,dfb-pokal,10/30/2012,Wormatia Worms,1. FC Kˆln,1,YYYYNYYNNY,1
+911,DFB-Pokal,dfb-pokal,10/31/2012,Hannover 96,Dynamo Dresden,1,YNYYYYNYYN,1
+912,DFB-Pokal,dfb-pokal,8/2/2013,1. FC Heidenheim 1846,TSV 1860 M¸nchen,1,YYYYYYNYN,1
+913,DFB-Pokal,dfb-pokal,8/4/2013,SV Darmstadt 98,Bor. Mˆnchengladbach,1,YYYNYYYYNYYN,1
+914,DFB-Pokal,dfb-pokal,8/4/2013,SV Sandhausen,1. FC N¸rnberg,0,YYNYYYYYN,1
+915,DFB-Pokal,dfb-pokal,8/15/2014,Chemnitzer FC,1. FSV Mainz 05,0,YYYYNYYYYY,1
+916,DFB-Pokal,dfb-pokal,8/16/2014,Sportfreunde Siegen,FSV Frankfurt,0,YNYYNNNYYYYYNNYN,1
+917,DFB-Pokal,dfb-pokal,8/16/2014,SV Wehen Wiesbaden,1. FC Kaiserslautern,0,YYYYYNYYY,1
+918,DFB-Pokal,dfb-pokal,8/17/2014,Schwarz-Weiﬂ Rehden,VfR Aalen,1,YYYYYYNNNY,1
+919,DFB-Pokal,dfb-pokal,8/17/2014,SV Darmstadt 98,VfL Wolfsburg,0,NYYYYYYNYYYN,1
+920,DFB-Pokal,dfb-pokal,8/18/2014,Energie Cottbus,Hamburger SV,0,YNYYYNY,1
+921,DFB-Pokal,dfb-pokal,8/18/2014,Kickers Offenbach,FC Ingolstadt 04,0,YYNYYYNY,1
+922,DFB-Pokal,dfb-pokal,10/28/2014,Arminia Bielefeld,Hertha BSC,1,YYNYYNYNY,1
+923,DFB-Pokal,dfb-pokal,10/28/2014,MSV Duisburg,1. FC Kˆln,0,YNYNYYY,1
+924,DFB-Pokal,dfb-pokal,10/29/2014,1. FC Magdeburg,Bayer Leverkusen,0,NYYYYYNNYNYYYN,1
+925,DFB-Pokal,dfb-pokal,4/8/2015,Arminia Bielefeld,Bor. Mˆnchengladbach,1,YNYYYYYYNYYN,1
+926,DFB-Pokal,dfb-pokal,4/8/2015,Bayer Leverkusen,Bayern M¸nchen,0,YNYYYYYYY,1
+927,DFB-Pokal,dfb-pokal,4/28/2015,Bayern M¸nchen,Borussia Dortmund,1,NYNYNNN,1
+928,DFB-Pokal,dfb-pokal,8/9/2015,Bahlinger SC,SV Sandhausen,0,YYYYYYYNY,1
+929,DFB-Pokal,dfb-pokal,8/9/2015,Hansa Rostock,1. FC Kaiserslautern,1,YYYYNYYYYY,1
+930,DFB-Pokal,dfb-pokal,8/9/2015,Rot-Weiss Essen,Fortuna D¸sseldorf,0,NNYNNNYYY,1
+931,DFB-Pokal,dfb-pokal,8/10/2015,VfR Aalen,1. FC N¸rnberg,0,NNNNYYNNYN,1
+932,DFB-Pokal,dfb-pokal,10/28/2015,SV Sandhausen,1. FC Heidenheim 1846,1,NYNYYYYNYY,1
+933,DFB-Pokal,dfb-pokal,5/21/2016,Bayern M¸nchen,Borussia Dortmund,0,YYNYNNYYYY,1
+934,DFB-Pokal,dfb-pokal,8/20/2016,Dynamo Dresden,RB Leipzig,0,YYYYYYNYYY,1
+935,DFB-Pokal,dfb-pokal,8/20/2016,Rot-Weiss Essen,Arminia Bielefeld,1,YYYYNYYYYY,1
+936,DFB-Pokal,dfb-pokal,8/20/2016,Viktoria Kˆln,1. FC N¸rnberg,0,YYYYYYYYYYYN,1
+937,DFB-Pokal,dfb-pokal,8/21/2016,1. FC Magdeburg,Eintracht Frankfurt,1,YYNYNNYNYYNY,1
+938,DFB-Pokal,dfb-pokal,8/21/2016,Erzgebirge Aue,FC Ingolstadt 04,1,YYYYYYYYYYYYYYNY,1
+939,DFB-Pokal,dfb-pokal,8/21/2016,Jahn Regensburg,Hertha BSC,0,YYYYYYYNY,1
+940,DFB-Pokal,dfb-pokal,8/21/2016,SpVgg Unterhaching,1. FSV Mainz 05,1,NYNYYYYY,1
+941,DFB-Pokal,dfb-pokal,10/25/2016,Eintracht Frankfurt,FC Ingolstadt 04,1,YYYNYNY,1
+942,DFB-Pokal,dfb-pokal,10/25/2016,SC Freiburg,SV Sandhausen,0,NNYYYNNYYYYN,1
+943,DFB-Pokal,dfb-pokal,10/25/2016,Sportfreunde Lotte,Bayer Leverkusen,0,NNYNNYYYYYNY,1
+944,DFB-Pokal,dfb-pokal,10/25/2016,W¸rzburger Kickers,TSV 1860 M¸nchen,0,YYYNYYNYYN,1
+945,DFB-Pokal,dfb-pokal,10/26/2016,Borussia Dortmund,1. FC Union Berlin,1,YNYNYN,1
+946,DFB-Pokal,dfb-pokal,2/7/2017,FC Astoria Walldorf,Arminia Bielefeld,1,YNYYYYNYYYNY,1
+947,DFB-Pokal,dfb-pokal,2/8/2017,Borussia Dortmund,Hertha BSC,0,NYNNYYYYN,1
+948,DFB-Pokal,dfb-pokal,4/25/2017,Bor. Mˆnchengladbach,Eintracht Frankfurt,1,YYYYYYYYYYYYNNNY,1
+949,EURO,em,6/20/1976,CSSR,Germany,1,YYYYYYYNY,1
+950,EURO,em,6/21/1980,CSSR,Italy,0,YYYYYYYYYYYYYYYYNY,1
+951,EURO,em,6/24/1984,Spain,Denmark,0,YYYYYYYYNY,1
+952,EURO,em,6/22/1992,Denmark,Netherlands,0,YYNYYYYYYY,1
+953,EURO,em,6/22/1996,England,Spain,1,YNYYYYYN,1
+954,EURO,em,6/22/1996,France,Netherlands,0,YYYYYYNYYY,1
+955,EURO,em,6/26/1996,Germany,England,0,YYYYYYYYYYNY,1
+956,EURO,em,6/26/1996,Czech Republic,France,0,YYYYYYYYYYNY,1
+957,EURO,em,6/29/2000,Italy,Netherlands,1,YNYNYYNN,1
+958,EURO,em,6/24/2004,Portugal,England,0,NYYYYNYYYYYYNY,1
+959,EURO,em,6/26/2004,Sweden,Netherlands,1,YYYYNYYNYYNY,1
+960,EURO,em,6/20/2008,Croatia,Turkey,1,NYYYNYN,1
+961,EURO,em,6/22/2008,Spain,Italy,1,YYYNYYNNY,1
+962,EURO,em,6/24/2012,England,Italy,0,YYNYYNYNY,1
+963,EURO,em,6/27/2012,Portugal,Spain,0,NNYYYYYNY,1
+964,EURO,em,6/25/2016,Switzerland,Poland,1,YYNYYYYYYY,1
+965,EURO,em,6/30/2016,Poland,Portugal,0,YYYYYYYNY,1
+966,EURO,em,7/2/2016,Germany,Italy,0,YYNNYNNYNNYYYYYYNY,1
+967,Europa League,europa-league,9/30/1970,Olympique Marseille,Spartak TAZ Trnava,1,YYYYNYNNYY,1
+968,Europa League,europa-league,3/22/1972,éeljeznicar Sarajevo,Ferencv·rosi TC,1,YYYYNYYYYY,1
+969,Europa League,europa-league,12/13/1972,1. FC Kaiserslautern,FC Ararat,1,YYNYYYYNYYYN,1
+970,Europa League,europa-league,11/7/1973,Hibernian FC,Leeds United,1,NYYYYYYYYY,1
+971,Europa League,europa-league,3/20/1974,1. FC Lok Leipzig,Ipswich Town,0,YYNYYNYYNNNY,1
+972,Europa League,europa-league,11/6/1974,AtlÈtico Madrid,Derby County,0,YYYYNYYNYYYYYYYN,1
+973,Europa League,europa-league,11/6/1974,Dinamo Moskva,Dynamo Dresden,1,YYYYYYNNNY,1
+974,Europa League,europa-league,11/5/1975,Stal Mielec,FC Carl Zeiss Jena,0,NNYYNYYNNY,1
+975,Europa League,europa-league,12/10/1975,Levski Sofia,AFC Ajax,1,YYYYYNYYY,1
+976,Europa League,europa-league,11/3/1976,RWD Molenbeek,Wisla KrakÛw,0,YYNNYYYYYYNY,1
+977,Europa League,europa-league,3/16/1977,AEK Athen,Queens Park Rangers,1,YYYYYYNNYYYYYYYN,1
+978,Europa League,europa-league,11/2/1977,FC Barcelona,AZ '67 Alkmaar,0,YYYYNYYYYY,1
+979,Europa League,europa-league,11/2/1977,FC Carl Zeiss Jena,RWD Molenbeek,1,YNYYYYYYNYYYYN,1
+980,Europa League,europa-league,12/7/1977,FC Barcelona,Ipswich Town,0,NYNYYNNY,1
+981,Europa League,europa-league,9/27/1978,Lokomotiva Koöice,AC Milan,0,YYNYYNYYYYYYYYYN,1
+982,Europa League,europa-league,11/5/1980,Juventus,Widzew LÛdz,0,YNYNYYY,1
+983,Europa League,europa-league,12/10/1980,Torino FC,Grasshoppers Z¸rich,1,YYYYYYNYN,1
+984,Europa League,europa-league,11/4/1981,Radnicki Niö,Grasshoppers Z¸rich,1,YNYNYN,1
+985,Europa League,europa-league,11/3/1982,IFK Norrkˆping,AS Roma,0,YNYYYYYN,1
+986,Europa League,europa-league,9/28/1983,Hajduk Split,FC Universitatea Craiova,0,YYNYNNNY,1
+987,Europa League,europa-league,11/2/1983,Bayern M¸nchen,PAOK Saloniki,0,YYYNYYYYNYYYYYYYYYNY,1
+988,Europa League,europa-league,5/23/1984,Tottenham Hotspur,RSC Anderlecht,1,YNYYYYYYNN,1
+989,Europa League,europa-league,10/3/1984,FC Universitatea Craiova,Real Betis,1,YYYYYYYNY,1
+990,Europa League,europa-league,11/7/1984,Bohemians »KD Praha,AFC Ajax,1,YNYYYYYN,1
+991,Europa League,europa-league,3/20/1985,Videoton SC,Manchester United,0,YYYYNYYYYNNY,1
+992,Europa League,europa-league,10/2/1985,Hamburger SV,Sparta Rotterdam,0,NYYNNYYYYNYN,1
+993,Europa League,europa-league,3/19/1986,KSV Waregem,Hajduk Split,0,YYYYYYYYNY,1
+994,Europa League,europa-league,10/1/1986,Toulouse FC,SSC Napoli,1,NYYYYYYNYN,1
+995,Europa League,europa-league,10/2/1986,Boavista,ACF Fiorentina,0,YYNYNYN,1
+996,Europa League,europa-league,11/4/1987,KSK Beveren,VitÛria Guimar„es,1,YYYYYYYYNY,1
+997,Europa League,europa-league,11/4/1987,Sportul Studentesc,Br¯ndby IF,0,NYNYNY,1
+998,Europa League,europa-league,12/9/1987,TJ VÌtkovice,VitÛria Guimar„es,1,YYYYYYYYYN,1
+999,Europa League,europa-league,5/18/1988,Bayer Leverkusen,Espanyol Barcelona,0,YNYYNYNYN,1
+1000,Europa League,europa-league,11/9/1988,Os Belenenses,Veleû Mostar,1,YYYYNYYNNY,1
+1001,Europa League,europa-league,3/15/1989,Real Sociedad,VfB Stuttgart,0,YYYNYYYN,1
+1002,Europa League,europa-league,9/26/1989,ACF Fiorentina,AtlÈtico Madrid,1,YNYNNYNNY,1
+1003,Europa League,europa-league,9/26/1989,SSC Napoli,Sporting CP,1,NNYYYNYYNYYN,1
+1004,Europa League,europa-league,10/2/1990,PAOK Saloniki,Sevilla FC,1,NNYYYYYYNY,1
+1005,Europa League,europa-league,11/7/1990,Partizan,Real Sociedad,1,YYYYYYYNNN,1
+1006,Europa League,europa-league,12/12/1990,Bologna FC,Admira/Wacker,0,YNNYYYYYNNYYYYNY,1
+1007,Europa League,europa-league,10/2/1991,AS Cannes,SC Salgueiros,1,YYYYYNYN,1
+1008,Europa League,europa-league,10/2/1991,Lausanne Sports,KAA Gent,0,YNYNYYY,1
+1009,Europa League,europa-league,10/2/1991,Partizan,Sporting GijÛn,1,NYYYYYNNN,1
+1010,Europa League,europa-league,9/29/1992,Torpedo Moskva,Manchester United,1,NYNYYNYNYYYN,1
+1011,Europa League,europa-league,4/20/1993,AJ Auxerre,Borussia Dortmund,0,YYYYYYYYYYYN,1
+1012,Europa League,europa-league,3/15/1994,Eintracht Frankfurt,SV Austria Salzburg,1,YYYYNNYYYYNY,1
+1013,Europa League,europa-league,9/27/1994,Aris Saloniki,GKS Katowice,1,YNYYYYNYNY,1
+1014,Europa League,europa-league,9/27/1994,Aston Villa,Inter,0,YYYYYYNNNY,1
+1015,Europa League,europa-league,9/26/1995,Widzew LÛdz,Chernomorets Odessa,1,YYYNYYYYNYYYNY,1
+1016,Europa League,europa-league,10/29/1996,Grazer AK,Inter,0,YYYNYYYYY,1
+1017,Europa League,europa-league,5/21/1997,Inter,FC Schalke 04,0,YNYYYNY,1
+1018,Europa League,europa-league,9/29/1998,CS MarÌtimo,Leeds United,0,YYYNYNY,1
+1019,Europa League,europa-league,9/29/1998,FC Metz,Crvena Zvezda,1,YYYYNYNNYY,1
+1020,Europa League,europa-league,9/29/1998,Slavia Praha,FC Schalke 04,1,YYYYYYYYYN,1
+1021,Europa League,europa-league,11/4/1999,SL Benfica,PAOK Saloniki,1,YNYNYYY,1
+1022,Europa League,europa-league,12/7/1999,Borussia Dortmund,Rangers FC,1,YYYNNNYN,1
+1023,Europa League,europa-league,5/17/2000,Galatasaray,Arsenal FC,1,YNYYYNY,1
+1024,Europa League,europa-league,9/28/2000,Wisla KrakÛw,Real Zaragoza,1,YYYYYNNYYN,1
+1025,Europa League,europa-league,12/6/2001,Celtic FC,Valencia CF,1,YYYNNYYYYYNY,1
+1026,Europa League,europa-league,12/6/2001,Paris Saint-Germain,Rangers FC,0,YNYYNYNNYYYN,1
+1027,Europa League,europa-league,2/28/2002,AC Milan,Roda JC Kerkrade,0,YYYNNNNYNY,1
+1028,Europa League,europa-league,3/21/2002,Feyenoord,PSV Eindhoven,0,YYYYNYYYYY,1
+1029,Europa League,europa-league,11/14/2002,Levski Sofia,Sturm Graz,1,NYYYYYYYYNYYYYYYNY,1
+1030,Europa League,europa-league,11/14/2002,Slovan Liberec,Ipswich Town,0,YYNYYYNY,1
+1031,Europa League,europa-league,3/20/2003,Boavista,M·laga CF,1,YNYYYNY,1
+1032,Europa League,europa-league,10/15/2003,FC K¯benhavn,Ferencv·rosi TC,0,YYNYNNNNYY,1
+1033,Europa League,europa-league,10/15/2003,Torpedo Moskva,CSKA Sofia,1,NNYYNNYYYN,1
+1034,Europa League,europa-league,11/27/2003,Br¯ndby IF,FC Schalke 04,1,YYNNYNYN,1
+1035,Europa League,europa-league,11/27/2003,Wisla KrakÛw,VÂlerenga IF,1,YYYYNYNNYY,1
+1036,Europa League,europa-league,9/30/2004,Rangers FC,CS MarÌtimo,1,YNYYNNYYY,1
+1037,Europa League,europa-league,2/24/2005,Steaua Bucuresti,Valencia CF,1,YYNYYYYNYN,1
+1038,Europa League,europa-league,9/29/2005,Olympique Marseille,Germinal Beerschot,1,YNYYYNY,1
+1039,Europa League,europa-league,5/16/2007,Espanyol Barcelona,Sevilla FC,0,YNYYNNYN,1
+1040,Europa League,europa-league,10/4/2007,ACF Fiorentina,FC Groningen,0,NYYYNNYYYY,1
+1041,Europa League,europa-league,10/4/2007,Odense BK,Sparta Praha,1,NYNNYNYYYYNY,1
+1042,Europa League,europa-league,10/4/2007,US Palermo,FK Mlad· Boleslav,0,YNYYNNYYY,1
+1043,Europa League,europa-league,3/12/2008,Everton FC,ACF Fiorentina,1,YYNYYYNY,1
+1044,Europa League,europa-league,3/12/2008,PSV Eindhoven,Tottenham Hotspur,1,YYNYYYYYYNYYYN,1
+1045,Europa League,europa-league,5/1/2008,ACF Fiorentina,Rangers FC,0,NYYYYNYNY,1
+1046,Europa League,europa-league,10/2/2008,Deportivo La CoruÒa,SK Brann,0,YYNNNYYYN,1
+1047,Europa League,europa-league,10/2/2008,Udinese Calcio,Borussia Dortmund,0,NNYYYYNYYY,1
+1048,Europa League,europa-league,2/26/2009,FC Twente,Olympique Marseille,0,YNYYYYYYNYYYYYYN,1
+1049,Europa League,europa-league,3/19/2009,Aalborg BK,Manchester City,1,YYYYNYYYN,1
+1050,Europa League,europa-league,2/21/2013,Steaua Bucuresti,AFC Ajax,0,YYNYYYNY,1
+1051,Europa League,europa-league,4/11/2013,FC Basel,Tottenham Hotspur,1,YNYYYNY,1
+1052,Europa League,europa-league,3/20/2014,Real Betis,Sevilla FC,0,NYYYYYYNYN,1
+1053,Europa League,europa-league,5/14/2014,Sevilla FC,SL Benfica,0,YYNYNYYY,1
+1054,Europa League,europa-league,2/26/2015,Besiktas,Liverpool FC,1,YYYYYYYYYN,1
+1055,Europa League,europa-league,4/14/2016,Sevilla FC,Athletic Bilbao,0,YYYYYYNYYY,1
+1056,Europa League,europa-league,4/20/2017,Besiktas,Olympique Lyon,1,YYYYYYYYYYYYNNNY,1
+1057,Europa League Qual.,europa-league-qual,8/29/2002,FK Sarajevo,Sigma Olomouc,1,YNYYYYYYY,1
+1058,Europa League Qual.,europa-league-qual,8/26/2004,Budapest HonvÈd,Amica Wronki,0,YYYYYYYYYN,1
+1059,Europa League Qual.,europa-league-qual,8/26/2004,FC Levadia,FK Bod¯/Glimt,1,YYYYYYYYYYYYYYNY,1
+1060,Europa League Qual.,europa-league-qual,8/25/2005,Troms¯ IL,Esbjerg fB,1,NYYYYNNNNNYN,1
+1061,Europa League Qual.,europa-league-qual,8/2/2007,Budapest HonvÈd,Nistru Otaci,1,YNNYYNNYNNYYNNYYYN,1
+1062,Europa League Qual.,europa-league-qual,8/2/2007,FC Ameri,GKS BelchatÛw,0,YNYYYYYN,1
+1063,Europa League Qual.,europa-league-qual,8/28/2008,FC Midtjylland,Manchester City,0,YYYYNNYNY,1
+1064,Europa League Qual.,europa-league-qual,8/28/2008,Sturm Graz,FC Z¸rich,0,YYYYYNNNY,1
+1065,Europa League Qual.,europa-league-qual,8/6/2009,FK Sarajevo,Helsingborgs IF,0,YYNYYYYYYY,1
+1066,Europa League Qual.,europa-league-qual,8/27/2009,Club Brugge KV,Lech Poznan,0,YYNYYYYYN,1
+1067,Europa League Qual.,europa-league-qual,8/27/2009,Slovan Liberec,Dinamo Bucuresti,0,YYNYYYYNYYYYYYYYYYYN,1
+1068,Europa League Qual.,europa-league-qual,8/5/2010,Montpellier HSC,Gyˆri ETO FC,1,YYNNNYYYYY,1
+1069,Europa League Qual.,europa-league-qual,8/26/2010,Grasshoppers Z¸rich,Steaua Bucuresti,1,NYYYYYYYN,1
+1070,Europa League Qual.,europa-league-qual,8/26/2010,Lokomotiv Moskva,FC Lausanne-Sport,0,YYYYYYNNYN,1
+1071,Europa League Qual.,europa-league-qual,7/7/2011,Glentoran Belfast,FK Renova,1,YYNNYYNNYN,1
+1072,Europa League Qual.,europa-league-qual,8/4/2011,FK Aktobe,Alania Vladikavkaz,0,YYYYYNYN,1
+1073,Europa League Qual.,europa-league-qual,8/4/2011,Gaz Metan Medias,1. FSV Mainz 05,0,YYYYYYNNNY,1
+1074,Europa League Qual.,europa-league-qual,8/4/2011,Lokomotiv Sofia,Slask Wroclaw,1,YYYYNYYYN,1
+1075,Europa League Qual.,europa-league-qual,8/4/2011,Spartak Trnava,Levski Sofia,0,NYYYYYYYYY,1
+1076,Europa League Qual.,europa-league-qual,7/26/2012,Asteras Tripolis,Inter Baku,1,NNYYYNYYY,1
+1077,Europa League Qual.,europa-league-qual,7/26/2012,FC Zimbru,BSC Young Boys,0,YYYNYNY,1
+1078,Europa League Qual.,europa-league-qual,8/30/2012,Videoton FC,Trabzonspor,0,YYYYNYNY,1
+1079,Europa League Qual.,europa-league-qual,7/11/2013,FK Liepajas Metalurgs,Prestatyn Town,1,NYYYYYYYN,1
+1080,Europa League Qual.,europa-league-qual,7/11/2013,FK Turnovo,FK Suduva,0,YYNYYYYNYYNY,1
+1081,Europa League Qual.,europa-league-qual,7/11/2013,Skonto FC,FC Tiraspol,0,YYNYNYYY,1
+1082,Europa League Qual.,europa-league-qual,8/8/2013,Breiablik,FK Aktobe,1,NNNNNYYYN,1
+1083,Europa League Qual.,europa-league-qual,8/8/2013,FC Differdange 03,Troms¯ IL,0,NYYNYYYYYN,1
+1084,Europa League Qual.,europa-league-qual,8/8/2013,St. Johnstone FC,FK Minsk,0,YNYNYYNYNN,1
+1085,Europa League Qual.,europa-league-qual,8/29/2013,KF SkÎnderbeu,Chernomorets Odessa,1,YYNYYYYYYNYYYYNNNY,1
+1086,Europa League Qual.,europa-league-qual,7/10/2014,KF LaÁi,Rudar Velenje,0,NNNYNYYNYY,1
+1087,Europa League Qual.,europa-league-qual,7/24/2014,Chikhura Sachkhere,Bursaspor,1,YNYNYYY,1
+1088,Europa League Qual.,europa-league-qual,7/24/2014,Inter Baku,IF Elfsborg,1,NYYYYNNNYYNY,1
+1089,Europa League Qual.,europa-league-qual,7/24/2014,St. Johnstone FC,FC Luzern,0,YYNYYYYYYY,1
+1090,Europa League Qual.,europa-league-qual,8/28/2014,AS Saint-…tienne,Karab¸kspor,1,YYYYYYNNYN,1
+1091,Europa League Qual.,europa-league-qual,7/23/2015,Birkirkara FC,West Ham United,0,YYYYYNYYY,1
+1092,Europa League Qual.,europa-league-qual,8/27/2015,RB Salzburg,Dinamo Minsk,1,YYYNNYNYN,1
+1093,Europa League Qual.,europa-league-qual,7/7/2016,Shirak FC,Dila Gori,1,YNYNYYY,1
+1094,Europa League Qual.,europa-league-qual,7/21/2016,Br¯ndby IF,Hibernian FC,1,YNYYYYYYY,1
+1095,Europa League Qual.,europa-league-qual,7/21/2016,FK Buducnost Podgorica,KRC Genk,1,YYNYYYNY,1
+1096,Europa League Qual.,europa-league-qual,7/21/2016,JK Nımme Kalju,Maccabi Haifa,1,YYYYYNYYY,1
+1097,Europa League Qual.,europa-league-qual,7/21/2016,Zaglebie Lubin,Partizan,0,NYYYYNYYNY,1
+1098,Europa League Qual.,europa-league-qual,8/4/2016,Spartak Trnava,Austria Wien,0,YYYYYYYYYN,1
+1099,FA Community Shield,eng-fa-community-shield,8/7/1993,Manchester United,Arsenal FC,1,YYYYNYYYYNYN,1
+1100,FA Community Shield,eng-fa-community-shield,8/3/1997,Manchester United,Chelsea FC,0,NYYYNYYY,1
+1101,FA Community Shield,eng-fa-community-shield,8/10/2003,Manchester United,Arsenal FC,1,YYYNNYYYYN,1
+1102,FA Community Shield,eng-fa-community-shield,8/5/2007,Chelsea FC,Manchester United,1,NYNYNY,1
+1103,FA Community Shield,eng-fa-community-shield,8/10/2008,Manchester United,Portsmouth FC,0,NYYYNYN,1
+1104,FA Community Shield,eng-fa-community-shield,8/9/2009,Manchester United,Chelsea FC,0,YNYYYNY,1
+1105,FA Cup,eng-fa-cup,2/13/2005,Sheffield United,West Ham United,1,YNNNNYYNY,1
+1106,FA Cup,eng-fa-cup,3/1/2005,Sheffield United,Arsenal FC,1,YYYYNYNY,1
+1107,FA Cup,eng-fa-cup,5/21/2005,Arsenal FC,Manchester United,0,YYNYYYYYYY,1
+1108,FA Cup,eng-fa-cup,1/17/2006,Leeds United,Wigan Athletic,1,NYYYYYNY,1
+1109,FA Cup,eng-fa-cup,1/17/2006,Tamworth FC,Stoke City,1,YYYYYYNNYYNY,1
+1110,FA Cup,eng-fa-cup,5/13/2006,Liverpool FC,West Ham United,1,YNNYYNYN,1
+1111,FA Cup,eng-fa-cup,11/20/2006,Hartlepool United,Rochdale AFC,0,YYNYNYYY,1
+1112,FA Cup,eng-fa-cup,2/13/2007,Middlesbrough FC,Bristol City,0,NYYYYYYYYNNY,1
+1113,FA Cup,eng-fa-cup,2/27/2007,West Bromwich Albion,Middlesbrough FC,0,YYNNYYYYYYYN,1
+1114,FA Cup,eng-fa-cup,1/15/2008,West Bromwich Albion,Charlton Athletic,0,NYYNYYNYYY,1
+1115,FA Cup,eng-fa-cup,1/22/2008,Barnet FC,Swindon Town,0,NYNNNYN,1
+1116,FA Cup,eng-fa-cup,1/22/2008,Bristol Rovers,Fulham FC,1,YNYYYYYYY,1
+1117,FA Cup,eng-fa-cup,1/22/2008,Sheffield Wednesday,Derby County,1,NYNYYYYY,1
+1118,FA Cup,eng-fa-cup,4/19/2009,Manchester United,Everton FC,0,NNYNYYYYY,1
+1119,FA Cup,eng-fa-cup,1/12/2010,Derby County,Millwall FC,1,YYYNYYYYY,1
+1120,FA Cup,eng-fa-cup,11/16/2010,Southend United,Macclesfield Town,0,YYYNYYYYY,1
+1121,FA Cup,eng-fa-cup,11/16/2010,Milton Keynes Dons,Stevenage FC,0,YYYYYNNYYYYYYYYN,1
+1122,FA Cup,eng-fa-cup,11/16/2010,Woking FC,Brighton & Hove Albion,0,YNYNNNY,1
+1123,FA Cup,eng-fa-cup,2/19/2011,Chelsea FC,Everton FC,1,YNYYNYYYNY,1
+1124,FA Cup,eng-fa-cup,12/13/2011,Walsall FC,Dagenham & Redbridge,1,YYNNNYYYN,1
+1125,FA Cup,eng-fa-cup,1/18/2012,Wrexham FC,Brighton & Hove Albion,1,NYYYYYYYYY,1
+1126,FA Cup,eng-fa-cup,11/13/2012,Bradford City,Northampton Town,1,NYYNYNYYY,1
+1127,FA Cup,eng-fa-cup,11/13/2012,Slough Town,Mansfield Town,0,YYYNYNY,1
+1128,FA Cup,eng-fa-cup,12/11/2012,Southend United,Bury FC,0,YYYYNYNNN,1
+1129,FA Cup,eng-fa-cup,12/13/2012,Hastings United,Harrogate Town,0,YYNYYYYYYNNY,1
+1130,FA Cup,eng-fa-cup,4/12/2014,Wigan Athletic,Arsenal FC,1,NYNYYYYY,1
+1131,FA Cup,eng-fa-cup,12/17/2014,Worcester City,Scunthorpe United,1,YYNYYYYYYNYYNNYYYYYYYYYYYYYYYYNY,1
+1132,FA Cup,eng-fa-cup,1/13/2015,West Ham United,Everton FC,0,YYNYYYYYYNYYYYYYYYNY,1
+1133,FA Cup,eng-fa-cup,1/13/2015,Wolverhampton Wanderers,Fulham FC,0,YYYNYYYYY,1
+1134,FA Cup,eng-fa-cup,12/15/2015,Walsall FC,Chesterfield FC,1,YYYNYYYYY,1
+1135,FA Cup,eng-fa-cup,1/19/2016,Bradford City,Bury FC,1,YYNYYYNY,1
+1136,FA Cup,eng-fa-cup,1/19/2016,Yeovil Town,Carlisle United,1,YYYYYYYYNY,1
+1137,FA Cup,eng-fa-cup,2/10/2016,Peterborough United,West Bromwich Albion,0,YYYYYNNYYN,1
+1138,FA Cup,sco-fa-cup,4/16/2016,Hibernian FC,Dundee United,0,NYNYYYYY,0
+1139,FA Cup,sco-fa-cup,4/17/2016,Rangers FC,Celtic FC,1,YYNNYYNNYYYYYN,0
+1140,FA Cup,eng-fa-cup,11/15/2016,Solihull Moors,Yeovil Town,0,NYYYNYYY,1
+1141,FA Cup,sco-fa-cup,2/14/2017,Hamilton Academical,Dunfermline Athletic,1,YNNNYNY,0
+1142,Friendlies,freundschaft,3/31/1988,Germany,Sweden,0,YYYYYNYN,0
+1143,Friendlies,freundschaft,2/8/2005,Cyprus,Austria,0,NYYYYYYYYY,0
+1144,Friendlies,freundschaft,2/9/2005,Latvia,Austria,1,YYYYYNYYY,0
+1145,Friendlies,freundschaft,1/27/2007,Singapore,Malaysia,1,YYYYYYYYYN,0
+1146,Friendlies,freundschaft,9/7/2007,Austria,Japan,1,YYYYYYYNNN,0
+1147,Friendlies,freundschaft,11/15/2009,UA Emirates,Czech Republic,0,NNNYYYYYN,0
+1148,Friendlies,freundschaft,2/8/2011,Romania,Ukraine,0,YNYNYYNYY,0
+1149,Friendlies,freundschaft,2/9/2011,Sweden,Ukraine,0,NYYNYYYYYYYN,0
+1150,Friendlies,freundschaft,6/8/2011,Uruguay,Netherlands,0,NYYYYYNNYY,0
+1151,Friendlies,freundschaft,1/15/2013,Bahrain,Iraq,0,NNYYYYYNY,0
+1152,Friendlies,freundschaft,1/23/2013,Sweden,North Korea,1,YNYNYYY,0
+1153,Friendlies,freundschaft,1/26/2014,Gabon,Libya,0,YYYNYYYN,0
+1154,Friendlies,freundschaft,1/29/2014,Nigeria,Ghana,0,YYYNYNY,0
+1155,Friendlies,freundschaft,1/29/2014,Zimbabwe,Libya,1,YYYYNNNYYNNNYYNY,0
+1156,Friendlies,freundschaft,2/1/2014,Libya,Ghana,1,YNYNYYNYNYYN,0
+1157,Friendlies,freundschaft,5/29/2014,Latvia,Estonia,0,YYNYYYNY,0
+1158,Friendlies,freundschaft,11/13/2014,Uruguay,Costa Rica,1,YNYYYYYYNYYYYYNY,0
+1159,Friendlies,freundschaft,5/24/2015,Zambia,Namibia,1,YYYYNYYYYY,0
+1160,Friendlies,freundschaft,5/25/2015,Mozambique,Malawi,0,YNYYNYNYYNYYNY,0
+1161,Friendlies,freundschaft,5/25/2015,South Africa,Botswana,0,YNYYYYNYYYYYYYYN,0
+1162,Friendlies,freundschaft,5/27/2015,South Africa,Malawi,0,YYYYYYNNYYYN,0
+1163,Friendlies,freundschaft,7/4/2015,Zambia,Namibia,0,NYYNYYYYYYYYNY,0
+1164,Friendlies,freundschaft,1/31/2016,Zambia,Guinea,1,NYYNYYNNYYYYNY,0
+1165,Friendlies,freundschaft,2/3/2016,Congo DR,Guinea,1,YNNYYYYNNYYYYN,0
+1166,Friendlies,freundschaft,6/3/2016,Denmark,Bosnia-Herzegovina,1,YNNYNYYYYY,0
+1167,Friendlies,freundschaft,6/3/2016,Thailand,Syria,1,YYYYNYYNYYYYYYYN,0
+1168,Friendlies,freundschaft,6/3/2016,Vietnam,Hong Kong,0,NYYYYYNNYY,0
+1169,Friendlies,freundschaft,6/18/2016,Namibia,Botswana,0,YYYYYYYYYN,0
+1170,Friendlies,freundschaft,6/19/2016,Zambia,Swaziland,0,NYYNYNYYY,0
+1171,Friendlies,freundschaft,6/22/2016,Botswana,Congo DR,0,YYYYNYYYYY,0
+1172,Friendlies,freundschaft,11/12/2016,Nepal,Laos,1,YNYNYN,0
+1173,Friendlies,freundschaft,1/11/2017,Chile,Croatia,1,YYYNYNY,0
+1174,Friendlies,freundschaft,1/14/2017,China,Croatia,0,YYYYNNYYNY,0
+1175,Gold Cup,gold-cup,7/7/1991,USA,Honduras,1,YYNNNNYYNNNNYYYN,1
+1176,Gold Cup,gold-cup,2/19/2000,USA,Colombia,1,NNNYYNNYN,1
+1177,Gold Cup,gold-cup,1/27/2002,Mexico,South Korea,1,YYYYNYNY,1
+1178,Gold Cup,gold-cup,1/30/2002,Canada,USA,0,YNYYYYYN,1
+1179,Gold Cup,gold-cup,7/17/2005,South Africa,Panama,0,YYYYYNYYY,1
+1180,Gold Cup,gold-cup,7/24/2005,USA,Panama,0,NYNNYYNY,1
+1181,Gold Cup,gold-cup,7/24/2009,Costa Rica,Mexico,0,YYYYYNYYY,1
+1182,Gold Cup,gold-cup,6/18/2011,Costa Rica,Honduras,1,NYYYNYYY,1
+1183,Gold Cup,gold-cup,6/19/2011,Panama,El Salvador,1,YNYYYYYYY,1
+1184,Gold Cup,gold-cup,7/19/2015,Trinidad & Tobago,Panama,0,NYYNNNYYYYYYNNYYYN,1
+1185,Gold Cup,gold-cup,7/25/2015,USA,Panama,1,YYYYNNNYN,1
+1186,Gold Cup Quali.,gold-cup-quali,11/19/2014,Jamaica,Trinidad & Tobago,1,YNYYYYNYYN,0
+1187,Gold Cup Quali.,gold-cup-quali,3/24/2016,Guadeloupe,Suriname,1,YYYNNNYYNN,0
+1188,Gold Cup Quali.,gold-cup-quali,6/2/2016,Grenada,Puerto Rico,1,YYYYYYNYN,0
+1189,KNVB beker,ned-knvb-beker,5/6/2007,AZ Alkmaar,AFC Ajax,1,YYYYYYYYYYYYYYNY,0
+1190,KNVB beker,ned-knvb-beker,9/25/2007,FC Volendam,Sparta Rotterdam,0,YNYYYYYN,0
+1191,KNVB beker,ned-knvb-beker,9/25/2007,HFC Haarlem,Willem II,1,YYYYYYNNYN,0
+1192,KNVB beker,ned-knvb-beker,1/15/2008,RKC Waalwijk,HFC Haarlem,0,YYYYYNYYY,0
+1193,KNVB beker,ned-knvb-beker,1/16/2008,Quick Boys,sc Heerenveen/FC Emmen (J),0,YYNNNYNY,0
+1194,KNVB beker,ned-knvb-beker,3/19/2008,Heracles Almelo,Roda JC Kerkrade,0,YNYYYYYYY,0
+1195,KNVB beker,ned-knvb-beker,9/23/2008,Helmond Sport,FC Omniworld,1,NYYYYYNY,0
+1196,KNVB beker,ned-knvb-beker,9/23/2008,HHC Hardenberg,Go Ahead Eagles,1,YNYYYYYYY,0
+1197,KNVB beker,ned-knvb-beker,9/23/2008,SC Cambuur,FC Zwolle,0,NYNYNY,0
+1198,KNVB beker,ned-knvb-beker,1/21/2009,NAC Breda,FC Groningen,1,YYNYYNNYYNYYYYYYYN,0
+1199,KNVB beker,ned-knvb-beker,5/17/2009,FC Twente,sc Heerenveen,1,YYYYNYYYYY,0
+1200,KNVB beker,ned-knvb-beker,10/27/2009,Sparta Rotterdam,VVV-Venlo,0,YYYYYYYYNY,0
+1201,KNVB beker,ned-knvb-beker,10/28/2009,VV Gemert,WHC Wezep,0,YYNYYNYYYYYN,0
+1202,KNVB beker,ned-knvb-beker,1/26/2011,FC Twente,PSV Eindhoven,0,YYYYYYYYYYYYNY,0
+1203,KNVB beker,ned-knvb-beker,10/30/2012,Rijnsburgse Boys,FC Emmen,1,NYYYYYYNYYYYYYYN,0
+1204,KNVB beker,ned-knvb-beker,12/19/2012,sc Heerenveen,Feyenoord,1,NNYYNYYYYNYYYYNNYYNY,0
+1205,KNVB beker,ned-knvb-beker,10/29/2013,SC Cambuur,NAC Breda,0,YYYYYYYYNNNY,0
+1206,KNVB beker,ned-knvb-beker,12/18/2013,AZ Alkmaar,sc Heerenveen,1,YYYYYNYYNYYYYYYN,0
+1207,KNVB beker,ned-knvb-beker,12/18/2013,Heracles Almelo,Feyenoord,0,YYYYYYYYYYYN,0
+1208,KNVB beker,ned-knvb-beker,9/23/2014,AFC Ajax Zaterdag,NEC Nijmegen,0,YYYYYNYYY,0
+1209,KNVB beker,ned-knvb-beker,9/23/2014,Almere City FC,ADO Den Haag,1,YNNNNNNNY,0
+1210,KNVB beker,ned-knvb-beker,9/23/2014,VVV-Venlo,FC Eindhoven,1,NNYYYNYYY,0
+1211,KNVB beker,ned-knvb-beker,10/29/2014,Go Ahead Eagles,FC Twente,1,NYYYYYYYYY,0
+1212,KNVB beker,ned-knvb-beker,4/7/2015,FC Twente,PEC Zwolle,0,YYNNYYYNY,0
+1213,KNVB beker,ned-knvb-beker,9/22/2015,SC Genemuiden,ADO Den Haag,1,YYNNYNYN,0
+1214,KNVB beker,ned-knvb-beker,9/22/2015,SVV Scheveningen,SC Telstar,1,YYYYYYYYYYNY,0
+1215,KNVB beker,ned-knvb-beker,9/22/2015,VV Capelle,MVV,0,YYYYYYYYNY,0
+1216,KNVB beker,ned-knvb-beker,9/23/2015,HSC'21,Go Ahead Eagles,0,NNYYYYYYYYYYYYYYYYYYYN,0
+1217,KNVB beker,ned-knvb-beker,9/23/2015,Rijnsburgse Boys,VV Sint Bavo,1,YYYYYYYYYYNY,0
+1218,KNVB beker,ned-knvb-beker,9/23/2015,VV Berkum,JVC Cuijk,1,YYYNYYYYY,0
+1219,KNVB beker,ned-knvb-beker,10/28/2015,FC Lienden,Roda JC Kerkrade,0,YYNYYYYYYNYYYN,0
+1220,KNVB beker,ned-knvb-beker,8/17/2016,VVOG Harderwijk,RKSV Halsteren,0,YYYNYYYYY,0
+1221,KNVB beker,ned-knvb-beker,8/24/2016,sv Huizen,RKVV Westlandia,0,NYYNNYYYYY,0
+1222,KNVB beker,ned-knvb-beker,9/20/2016,FC Volendam,MVV,1,YYYYYYYYYN,0
+1223,KNVB beker,ned-knvb-beker,9/20/2016,HHC Hardenberg,Jodan Boys,1,YYNNYYYYYYYYYYNY,0
+1224,KNVB beker,ned-knvb-beker,9/21/2016,NEC Nijmegen,ADO Den Haag,0,YYYYYNYYY,0
+1225,KNVB beker,ned-knvb-beker,1/24/2017,FC Volendam,Sparta Rotterdam,1,YYYYYNNYNNYYYYNY,0
+1226,KNVB beker,ned-knvb-beker,1/25/2017,FC Utrecht,SC Cambuur,1,YYYYNNNYYNYYYYYYNY,0
+1227,KNVB beker,ned-knvb-beker,3/2/2017,AZ Alkmaar,SC Cambuur,1,YYNNNYYNYN,0
+1228,Kubok,rus-kubok,5/11/2011,Spartak Moskva,CSKA Moskva,1,YYYYNYYYYY,0
+1229,Kubok,rus-kubok,6/1/2013,Anzhi Makhachkala,CSKA Moskva,1,YYNYYNNYYY,0
+1230,Kubok,rus-kubok,5/8/2014,FK Krasnodar,FK Rostov,1,YYYYYYYYYYNNNY,0
+1231,Kubok,rus-kubok,3/3/2015,Lokomotiv Moskva,Rubin Kazan,0,NYNYYYYY,0
+1232,Kubok,rus-kubok,4/29/2015,Gazovik Orenburg,Lokomotiv Moskva,1,NYYNYYNYYY,0
+1233,Kubok,ukr-kubok,6/4/2015,Dinamo Kiev,Shakhtar Donetsk,1,NYYYNYYNYNYYYN,0
+1234,Kubok,rus-kubok,4/20/2016,FK Amkar Perm,Zenit St. Petersburg,1,NYNNYNYYYYNY,0
+1235,Kubok,blr-kubok,5/21/2016,BATE Borisov,Torpedo-BelAZ Zhodino,0,NYYNNNYYYN,0
+1236,Kubok,ukr-kubok,9/21/2016,Zhemchuzhyna Odesa,Karpaty Lviv,1,NYYYYYYYYY,0
+1237,Kubok,ukr-kubok,10/26/2016,Desna Chernigov,Dnipro Dnipropetrovsk,1,YYNYYYYYYNYYYYNY,0
+1238,Kubok,ukr-kubok,10/26/2016,FK Illichivets,FK Stal Kamjanske,1,YYYNYYNNY,0
+1239,Kubok,ukr-kubok,10/26/2016,MFK Mikolaiv,Obolon-Brovar Kyiv,0,YNYYYYNYYYNY,0
+1240,Kubok,ukr-kubok,11/26/2016,MFK Mikolaiv,FK Illichivets,0,YYNYNYYY,0
+1241,Kubok,rus-kubok,2/28/2017,FK Ural,FK Krasnodar,0,YYNYYYYYN,0
+1242,Kubok,blr-kubok,5/28/2017,Dinamo Brest,Shakhter Soligorsk,1,YYYYYYYYYYYYYYYYYYYN,0
+1243,Kup BiH,bih-kup-bih,5/27/2015,Olimpic Sarajevo,äiroki Brijeg,1,YYYYYYYYYN,0
+1244,Kup BiH,bih-kup-bih,5/17/2017,äiroki Brijeg,FK Sarajevo,1,NNYYYNYYY,0
+1245,Kup Srbije,srb-kup-srbije,12/2/2015,FK Javor,FK Cukaricki-Stankom,0,YYNYNYYNYNNY,0
+1246,Kup Srbije,srb-kup-srbije,3/2/2016,FK Javor,Vojvodina,1,YYYNYYYYY,0
+1247,Kypello Elladas,gre-kypello-elladas,5/2/2009,AEK Athen,Olympiakos Pir‰us,1,YYYYYYYYNNYYYYYYNNYYYYYYYYYYYYYYNY,0
+1248,Kypello Elladas,gre-kypello-elladas,1/28/2015,PAS Giannina,Chania FC,0,YNYYYYYYY,0
+1249,Kypello Elladas,gre-kypello-elladas,3/4/2015,Panionios GSS,AEP Iraklis FC,1,NNYYYYYNNYNY,0
+1250,League Cup,ligapokal,7/18/1997,Karlsruher SC,Bayer Leverkusen,1,YNNYYYNYYNYYYYYN,0
+1251,League Cup,ligapokal,7/29/2000,Bayer Leverkusen,Hertha BSC,0,YYYYYYYYYN,0
+1252,League Cup,eng-league-cup,9/27/2000,Bristol Rovers,Everton FC,1,YNYYNNYYY,1
+1253,League Cup,eng-league-cup,11/28/2000,Crystal Palace,Tranmere Rovers,1,YYYNNYYYYYYYNNYN,1
+1254,League Cup,eng-league-cup,2/25/2001,Birmingham City,Liverpool FC,0,YNYYYYNYYYYN,1
+1255,League Cup,ligapokal,7/11/2001,Borussia Dortmund,SC Freiburg,1,YYNNYNYN,0
+1256,League Cup,eng-league-cup,8/21/2001,York City,Crewe Alexandra,0,YYYYYYYYYYYN,1
+1257,League Cup,eng-league-cup,8/22/2001,Cambridge United,West Bromwich Albion,1,NYYYYYYYN,1
+1258,League Cup,eng-league-cup,8/22/2001,Stoke City,Oldham Athletic,0,YNYYNYYYNNYYNNYYYN,1
+1259,League Cup,eng-league-cup,9/11/2001,Grimsby Town,Sheffield United,1,NNYNYYYYY,1
+1260,League Cup,eng-league-cup,9/11/2001,Peterborough United,Coventry City,0,YNYYYNNYY,1
+1261,League Cup,eng-league-cup,9/11/2001,Reading FC,West Ham United,0,YYYYYYYNNYYYNY,1
+1262,League Cup,eng-league-cup,9/11/2001,Rochdale AFC,Fulham FC,1,YYYYYYNNNNYYYYNNNY,1
+1263,League Cup,eng-league-cup,9/12/2001,Everton FC,Crystal Palace,1,NYYYYYYYYY,1
+1264,League Cup,eng-league-cup,9/12/2001,Nottingham Forest,Stockport County,0,YYYYYYYYYYYYYYNY,1
+1265,League Cup,eng-league-cup,10/10/2001,Sheffield Wednesday,Crystal Palace,1,YNYYNNYN,1
+1266,League Cup,ligapokal,7/25/2002,Bayern M¸nchen,Hertha BSC,1,YYYYYNNYNNNY,0
+1267,League Cup,eng-league-cup,10/1/2002,Rotherham United,Wolverhampton Wanderers,1,NYYYYNYNY,1
+1268,League Cup,eng-league-cup,12/4/2002,Liverpool FC,Ipswich Town,0,YYNYYYYYYY,1
+1269,League Cup,ligapokal,7/22/2003,Bayern M¸nchen,Hamburger SV,0,YYYNYNY,0
+1270,League Cup,eng-league-cup,8/12/2003,Preston North End,Notts County,1,YYYYYYYYYYYYNY,1
+1271,League Cup,eng-league-cup,9/23/2003,Tranmere Rovers,Nottingham Forest,0,YNYNYYY,1
+1272,League Cup,ligapokal,7/21/2004,Bayer Leverkusen,Hansa Rostock,0,NYYNYYNYYY,0
+1273,League Cup,eng-league-cup,10/26/2004,AFC Bournemouth,Cardiff City,0,NNYYYYYYYYYN,1
+1274,League Cup,eng-league-cup,12/1/2004,Tottenham Hotspur,Liverpool FC,1,YYYYNNNYYY,1
+1275,League Cup,ligapokal,7/23/2005,Hertha BSC,VfB Stuttgart,1,YNNYYYNYYY,0
+1276,League Cup,eng-league-cup,10/26/2005,Chelsea FC,Charlton Athletic,1,YYNYYYYYYY,1
+1277,League Cup,eng-league-cup,11/29/2005,Millwall FC,Birmingham City,1,NYYYYYNNYY,1
+1278,League Cup,eng-league-cup,12/21/2005,Doncaster Rovers,Arsenal FC,0,YYYNYNNN,1
+1279,League Cup,ligapokal,7/29/2006,FC Schalke 04,Bayer Leverkusen,1,NYYYNNYYYNYYYYYYYYYYYN,0
+1280,League Cup,ligapokal,8/2/2006,Bayern M¸nchen,FC Schalke 04,1,YNYNYYY,0
+1281,League Cup,eng-league-cup,8/22/2006,Blackpool FC,Barnsley FC,1,YYNYYYNY,1
+1282,League Cup,eng-league-cup,8/22/2006,Bristol Rovers,Luton Town,0,YYYYYNYYY,1
+1283,League Cup,eng-league-cup,8/22/2006,Peterborough United,Ipswich Town,1,YNYYYYYN,1
+1284,League Cup,eng-league-cup,8/23/2006,Chesterfield FC,Wolverhampton Wanderers,0,YYYNYYYYNYYYNY,1
+1285,League Cup,eng-league-cup,9/19/2006,Hull City,Hartlepool United,0,NYNNYNYYNY,1
+1286,League Cup,eng-league-cup,9/19/2006,Reading FC,Darlington FC,1,YNYYNNYYY,1
+1287,League Cup,eng-league-cup,9/19/2006,Watford FC,Accrington Stanley,0,YYYYYYYYYYNNNY,1
+1288,League Cup,eng-league-cup,9/20/2006,Doncaster Rovers,Derby County,0,YYYYYYYYYYYYYYNY,1
+1289,League Cup,eng-league-cup,10/24/2006,Port Vale FC,Norwich City,0,NNYNNYNYYY,1
+1290,League Cup,eng-league-cup,10/24/2006,Wycombe Wanderers,Doncaster Rovers,0,YNNYYYNYN,1
+1291,League Cup,eng-league-cup,11/7/2006,Chesterfield FC,Charlton Athletic,1,YYYNNYYYNY,1
+1292,League Cup,eng-league-cup,11/7/2006,Watford FC,Newcastle United,0,YYNNYYYYYYYN,1
+1293,League Cup,eng-league-cup,8/14/2007,Bristol Rovers,Crystal Palace,1,YNYYYNY,1
+1294,League Cup,eng-league-cup,8/14/2007,Chester City,Nottingham Forest,1,YYNYYYNY,1
+1295,League Cup,eng-league-cup,8/14/2007,Grimsby Town,Burnley FC,0,YNNYYNYYY,1
+1296,League Cup,eng-league-cup,8/14/2007,Milton Keynes Dons,Ipswich Town,1,YYYYYYYNY,1
+1297,League Cup,eng-league-cup,8/14/2007,Port Vale FC,Wrexham FC,0,YYYYYYYNY,1
+1298,League Cup,eng-league-cup,8/14/2007,Rochdale AFC,Stoke City,1,YNNYYYYNY,1
+1299,League Cup,eng-league-cup,8/28/2007,Derby County,Blackpool FC,1,NYYNNNYYYYYYYYYYNY,1
+1300,League Cup,eng-league-cup,8/28/2007,Rochdale AFC,Norwich City,1,YYYYNYYYN,1
+1301,League Cup,eng-league-cup,8/12/2008,Rochdale AFC,Oldham Athletic,0,YYYNYNY,1
+1302,League Cup,eng-league-cup,8/12/2008,Sheffield Wednesday,Rotherham United,0,YYYNYYYYY,1
+1303,League Cup,eng-league-cup,8/26/2008,Rotherham United,Wolverhampton Wanderers,0,YNNYYYNYYY,1
+1304,League Cup,eng-league-cup,9/23/2008,Stoke City,Reading FC,1,YYYNYYNYYN,1
+1305,League Cup,eng-league-cup,9/23/2008,Sunderland AFC,Northampton Town,1,YNYYNYYYYN,1
+1306,League Cup,eng-league-cup,9/24/2008,Brighton & Hove Albion,Manchester City,1,YYYYYYYNY,1
+1307,League Cup,eng-league-cup,11/12/2008,Chelsea FC,Burnley FC,0,YYYNYYYYNYYN,1
+1308,League Cup,eng-league-cup,3/1/2009,Manchester United,Tottenham Hotspur,1,YNYYYNY,1
+1309,League Cup,eng-league-cup,8/11/2009,Shrewsbury Town,Ipswich Town,0,YNYYYYYN,1
+1310,League Cup,eng-league-cup,8/25/2009,Wolverhampton Wanderers,Swindon Town,1,YYYYYYYYYYYN,1
+1311,League Cup,eng-league-cup,10/27/2009,Sunderland AFC,Aston Villa,1,NYNYYNNY,1
+1312,League Cup,eng-league-cup,12/2/2009,Blackburn Rovers,Chelsea FC,1,YNYYYYNYYN,1
+1313,League Cup,eng-league-cup,8/24/2010,Portsmouth FC,Crystal Palace,0,NYYYNNYYYNNNNY,1
+1314,League Cup,eng-league-cup,8/24/2010,Reading FC,Northampton Town,1,NYYYYYNY,1
+1315,League Cup,eng-league-cup,9/21/2010,Brentford FC,Everton FC,0,YYYYYYNYN,1
+1316,League Cup,eng-league-cup,9/22/2010,Liverpool FC,Northampton Town,0,NNYYYYYNY,1
+1317,League Cup,eng-league-cup,10/26/2010,Birmingham City,Brentford FC,1,YYYYYNNYYN,1
+1318,League Cup,eng-league-cup,8/9/2011,Hartlepool United,Sheffield United,1,YYYYYYNNYYNY,1
+1319,League Cup,eng-league-cup,8/9/2011,Nottingham Forest,Notts County,1,NYYYYNYYNNYN,1
+1320,League Cup,eng-league-cup,8/9/2011,Oldham Athletic,Carlisle United,0,YYYYNNYNY,1
+1321,League Cup,eng-league-cup,8/11/2011,Sheffield Wednesday,Blackpool FC,0,NYNYYYYY,1
+1322,League Cup,eng-league-cup,8/23/2011,Bristol Rovers,Watford FC,1,YNNYYYYNY,1
+1323,League Cup,eng-league-cup,9/20/2011,Stoke City,Tottenham Hotspur,1,YYNNYYYYYYYYYYYN,1
+1324,League Cup,eng-league-cup,9/21/2011,Cardiff City,Leicester City,0,YYYYYYYYYYYYNY,1
+1325,League Cup,eng-league-cup,9/21/2011,Chelsea FC,Fulham FC,1,NYYYYNYYYN,1
+1326,League Cup,eng-league-cup,1/24/2012,Cardiff City,Crystal Palace,1,NNYNYYYN,1
+1327,League Cup,eng-league-cup,2/26/2012,Cardiff City,Liverpool FC,0,NNNYYNYYYN,1
+1328,League Cup,eng-league-cup,8/11/2012,Cheltenham Town,Milton Keynes Dons,0,YYYNYYYYY,1
+1329,League Cup,eng-league-cup,8/11/2012,Doncaster Rovers,York City,1,YNYYYYYN,1
+1330,League Cup,eng-league-cup,8/11/2012,Hull City,Rotherham United,1,YYYYYYYYYYYYYN,1
+1331,League Cup,eng-league-cup,8/11/2012,Sheffield United,Burton Albion,1,YYYNNYYYYYNY,1
+1332,League Cup,eng-league-cup,8/11/2012,Wolverhampton Wanderers,Aldershot Town,1,YYYYYYYYYYYYYN,1
+1333,League Cup,eng-league-cup,8/14/2012,Charlton Athletic,Leyton Orient,1,NYNYYNYYYY,1
+1334,League Cup,eng-league-cup,8/14/2012,Derby County,Scunthorpe United,0,NNYYYNNYYYYYYYYYYN,1
+1335,League Cup,eng-league-cup,8/14/2012,Millwall FC,Crawley Town,0,YNYNYYY,1
+1336,League Cup,eng-league-cup,8/14/2012,Oxford United,AFC Bournemouth,1,YYYYYNYYY,1
+1337,League Cup,eng-league-cup,8/28/2012,Burnley FC,Plymouth Argyle,0,NNNYYNNYYY,1
+1338,League Cup,eng-league-cup,10/30/2012,Wigan Athletic,Bradford City,0,YYYYYNYN,1
+1339,League Cup,eng-league-cup,12/11/2012,Bradford City,Arsenal FC,1,YNYNNYYYNN,1
+1340,League Cup,eng-league-cup,8/6/2013,Barnsley FC,Scunthorpe United,0,NNYNNYYYYYNNNNYYNY,1
+1341,League Cup,eng-league-cup,8/7/2013,Carlisle United,Blackburn Rovers,0,YNYYYYNYNY,1
+1342,League Cup,eng-league-cup,8/27/2013,Burton Albion,Fulham FC,1,YYYYNYYYYY,1
+1343,League Cup,eng-league-cup,8/27/2013,Tranmere Rovers,Bolton Wanderers,1,YNYYYYYN,1
+1344,League Cup,eng-league-cup,8/27/2013,Yeovil Town,Birmingham City,0,YYNNNNYYYN,1
+1345,League Cup,eng-league-cup,9/25/2013,West Bromwich Albion,Arsenal FC,1,YYYNYYNYNY,1
+1346,League Cup,eng-league-cup,10/29/2013,Birmingham City,Stoke City,0,YYYNYYYN,1
+1347,League Cup,eng-league-cup,10/30/2013,Tottenham Hotspur,Hull City,1,YNYYYYNYYYYYYYYYYN,1
+1348,League Cup,eng-league-cup,1/22/2014,Manchester United,Sunderland AFC,0,NNNYYNYNNN,1
+1349,League Cup,sco-league-cup,3/16/2014,Aberdeen FC,Inverness CT,0,NYNYYYYY,0
+1350,League Cup,sco-league-cup,8/2/2014,Albion Rovers,Livingston FC,0,YYNYYNYYYN,0
+1351,League Cup,eng-league-cup,8/12/2014,Dagenham & Redbridge,Brentford FC,1,NYYYYYNY,1
+1352,League Cup,eng-league-cup,8/12/2014,Plymouth Argyle,Leyton Orient,0,YYYYNYYYYNYYYN,1
+1353,League Cup,sco-league-cup,8/26/2014,Falkirk FC,Cowdenbeath FC,0,NNNYYYYYYNNY,0
+1354,League Cup,eng-league-cup,8/26/2014,West Bromwich Albion,Oxford United,0,YNNNNYYYYYYYYYYYNY,1
+1355,League Cup,eng-league-cup,9/23/2014,Liverpool FC,Middlesbrough FC,1,YNYYYYYYNYYYYYYYYYYYYYYYYYYYYN,1
+1356,League Cup,sco-league-cup,10/29/2014,Hibernian FC,Dundee United,0,YYYYYYYYYYYYNNYN,0
+1357,League Cup,eng-league-cup,8/11/2015,Accrington Stanley,Hull City,0,YYNYYNYNNYYN,1
+1358,League Cup,eng-league-cup,8/11/2015,Rochdale AFC,Coventry City,1,YYYYYYYNY,1
+1359,League Cup,eng-league-cup,8/11/2015,Scunthorpe United,Barnsley FC,1,YYYYYYYYYYNNYYNY,1
+1360,League Cup,eng-league-cup,8/11/2015,York City,Bradford City,1,YNNYYNYYY,1
+1361,League Cup,eng-league-cup,8/13/2015,Doncaster Rovers,Leeds United,0,YYYYNYNY,1
+1362,League Cup,eng-league-cup,8/25/2015,Luton Town,Stoke City,1,YYYYYYYYYYYYYYNY,1
+1363,League Cup,eng-league-cup,8/25/2015,West Bromwich Albion,Port Vale FC,1,YYYNYYYYY,1
+1364,League Cup,irl-league-cup,9/19/2015,Galway United,St Patrick's Athletic,0,YNYYYYYYNN,0
+1365,League Cup,eng-league-cup,9/22/2015,Preston North End,AFC Bournemouth,1,NYYYYNNYN,1
+1366,League Cup,eng-league-cup,9/23/2015,Liverpool FC,Carlisle United,1,YNYYNNNYYN,1
+1367,League Cup,eng-league-cup,10/27/2015,Everton FC,Norwich City,0,YYYYNYYYN,1
+1368,League Cup,eng-league-cup,10/27/2015,Hull City,Leicester City,0,NYYYYYYYYY,1
+1369,League Cup,eng-league-cup,10/27/2015,Stoke City,Chelsea FC,1,YYYYYYYYYN,1
+1370,League Cup,eng-league-cup,10/28/2015,Manchester United,Middlesbrough FC,0,YNNYYNYN,1
+1371,League Cup,eng-league-cup,1/26/2016,Liverpool FC,Stoke City,0,YYNNYYYYYYYYNY,1
+1372,League Cup,eng-league-cup,2/28/2016,Liverpool FC,Manchester City,1,YNNYNYNY,1
+1373,League Cup,sco-league-cup,7/15/2016,Arbroath FC,Dundee United,0,YYYYYNYYY,0
+1374,League Cup,sco-league-cup,7/16/2016,East Fife FC,Dundee FC,1,YYNNYNYYY,0
+1375,League Cup,sco-league-cup,7/16/2016,Forfar Athletic,Dumbarton FC,1,YYYNYYYYY,0
+1376,League Cup,sco-league-cup,7/16/2016,Albion Rovers,Greenock Morton FC,0,YNYYYYNYYN,0
+1377,League Cup,sco-league-cup,7/23/2016,Inverness CT,Dundee United,0,YYYNYNY,0
+1378,League Cup,sco-league-cup,7/23/2016,Clyde FC,Berwick Rangers,1,YYYYYYYYYYYN,0
+1379,League Cup,sco-league-cup,7/26/2016,Brechin City FC,St. Johnstone FC,1,YYYNNYYNY,0
+1380,League Cup,sco-league-cup,7/26/2016,Queen's Park FC,Airdrieonians,1,YYYYYNNYYYYYYYYYNY,0
+1381,League Cup,sco-league-cup,7/30/2016,Kilmarnock FC,Albion Rovers,0,YYYYYNYYY,0
+1382,League Cup,eng-league-cup,8/9/2016,Accrington Stanley,Bradford City,0,YNYYYYYYNYYYYYYYYYYYYYNY,1
+1383,League Cup,eng-league-cup,8/10/2016,Fleetwood Town,Leeds United,0,YYYYYYYYYN,1
+1384,League Cup,eng-league-cup,8/10/2016,Queens Park Rangers,Swindon Town,0,NYYYYYNY,1
+1385,League Cup,eng-league-cup,8/23/2016,Derby County,Carlisle United,0,YYYYYYNNYYYYYYNNYYYYYYYYYYYYYYNY,1
+1386,League Cup,eng-league-cup,8/23/2016,Northampton Town,West Bromwich Albion,0,YYNYYNYYNY,1
+1387,League Cup,eng-league-cup,8/23/2016,Reading FC,Milton Keynes Dons,1,YYYNYNNYY,1
+1388,League Cup,jpn-league-cup,10/15/2016,Gamba Osaka,Urawa Red Diamonds,1,YYYYYYNYYY,0
+1389,League Cup,eng-league-cup,10/25/2016,Leeds United,Norwich City,0,YYNYNNYNNY,1
+1390,League Cup,eng-league-cup,11/29/2016,Hull City,Newcastle United,0,NYNYYYN,1
+1391,Liigacup,fin-liigacup,3/19/2016,SJK Sein‰joki,FC Lahti,1,YYNYYNYYNY,0
+1392,Magyar Kupa,hun-magyar-kupa,5/31/2017,Budapesti Vasas,Ferencv·rosi TC,1,YYYYNYYYYY,0
+1393,Major League Soccer,usa-major-league-soccer,10/29/2006,FC Dallas,Colorado Rapids,0,NYYYYYYNYYYN,0
+1394,Major League Soccer,usa-major-league-soccer,10/29/2006,New England Revolution,Chicago Fire,1,YNYYYYYN,0
+1395,Major League Soccer,usa-major-league-soccer,11/12/2006,Houston Dynamo,New England Revolution,1,YYYYYNNYYN,0
+1396,Major League Soccer,usa-major-league-soccer,11/15/2009,Chicago Fire,Real Salt Lake,1,YYYNYYNYYYNNNY,0
+1397,Major League Soccer,usa-major-league-soccer,11/23/2009,Los Angeles Galaxy,Real Salt Lake,1,YYYYNNNYYNYYNY,0
+1398,Major League Soccer,usa-major-league-soccer,11/6/2010,Columbus Crew,Colorado Rapids,0,YYYYYYYYYN,0
+1399,Major League Soccer,usa-major-league-soccer,12/7/2013,Sporting Kansas City,Real Salt Lake,1,YNYNNYYYNYYYYYNNYYYN,0
+1400,Major League Soccer,usa-major-league-soccer,10/30/2015,Portland Timbers,Sporting Kansas City,1,NYYNYYNNYYNNYYYYNNYYYN,0
+1401,Major League Soccer,usa-major-league-soccer,11/9/2015,FC Dallas,Seattle Sounders,0,YYNYNYYY,0
+1402,Major League Soccer,usa-major-league-soccer,11/6/2016,Colorado Rapids,Los Angeles Galaxy,0,YYNYNYN,0
+1403,Major League Soccer,usa-major-league-soccer,12/11/2016,Toronto FC,Seattle Sounders,1,YYNYYNYYYYNY,0
+1404,Nogometni Kup,cro-nogometni-kup,5/20/2015,Dinamo Zagreb,RNK Split,0,YYNYNYYY,0
+1405,÷FB-Cup,aut-oefb-cup,6/13/1985,Rapid Wien,Austria Wien,0,YYYYYYYYYYNY,0
+1406,÷FB-Cup,aut-oefb-cup,11/2/1996,Austria Lustenau,Admira/Wacker,0,NNYYYYYYNY,0
+1407,÷FB-Cup,aut-oefb-cup,5/6/1997,First Vienna FC,SV Austria Salzburg,1,YYYNNNYYNYYYYYYYYYYN,0
+1408,÷FB-Cup,aut-oefb-cup,5/18/1999,Sturm Graz,LASK Linz,0,NYNYYYYY,0
+1409,÷FB-Cup,aut-oefb-cup,10/26/1999,WSV-ATSV Ranshofen,Rapid Wien,1,YNYYYNY,0
+1410,÷FB-Cup,aut-oefb-cup,5/16/2000,Grazer AK,SV Austria Salzburg,1,NYYYYNYYYN,0
+1411,÷FB-Cup,aut-oefb-cup,4/17/2001,Sturm Graz,Rapid Wien,1,YYYNNYNYYY,0
+1412,÷FB-Cup,aut-oefb-cup,4/9/2002,BSV Bad Bleiberg,FC K‰rnten,0,NYNYYYYY,0
+1413,÷FB-Cup,aut-oefb-cup,3/23/2004,FC Lustenau,Schwarz-Weiﬂ Bregenz,1,NYYYNYN,0
+1414,÷FB-Cup,aut-oefb-cup,4/10/2004,SV Mattersburg,Austria Wien,0,YNYNYYY,0
+1415,÷FB-Cup,aut-oefb-cup,4/20/2004,SV Ried,FC K‰rnten,0,NYNYYNNY,0
+1416,÷FB-Cup,aut-oefb-cup,5/5/2004,Sturm Graz,Austria Wien,0,YYYYYNYYNYYN,0
+1417,÷FB-Cup,aut-oefb-cup,5/23/2004,Grazer AK,Austria Wien,1,YYYYYYYYYN,0
+1418,÷FB-Cup,aut-oefb-cup,3/15/2005,Austria Lustenau,FC Superfund,0,YYYYYYYYYYYYYYNY,0
+1419,÷FB-Cup,aut-oefb-cup,4/20/2005,Sturm Graz,Austria Wien,0,YYYYYNYYY,0
+1420,÷FB-Cup,aut-oefb-cup,3/8/2006,Austria Lustenau,Rapid Wien,0,YYYYNNYNY,0
+1421,÷FB-Cup,aut-oefb-cup,9/13/2006,First Vienna FC,Rapid Wien,0,YNYYYYNYNY,0
+1422,÷FB-Cup,aut-oefb-cup,10/24/2006,SK St. Andr‰,TSV Hartberg,0,YYYYNNNYN,0
+1423,÷FB-Cup,aut-oefb-cup,11/14/2006,First Vienna FC,FC Lustenau,0,YNYYYYYYY,0
+1424,÷FB-Cup,aut-oefb-cup,11/21/2006,Austria Wien,FC Superfund,0,YYYYNYNY,0
+1425,÷FB-Cup,aut-oefb-cup,4/4/2007,RB Salzburg (A),Austria Wien,1,NYNYYYN,0
+1426,÷FB-Cup,aut-oefb-cup,8/14/2008,FC Wels,Austria Lustenau,0,YNNYNYYYYY,0
+1427,÷FB-Cup,aut-oefb-cup,9/12/2008,FC Wels,LASK Linz,1,YNYYYYYYY,0
+1428,÷FB-Cup,aut-oefb-cup,9/12/2008,SC/ESV Parndorf,FC Magna Wiener Neustadt,0,YYYYYYYYYN,0
+1429,÷FB-Cup,aut-oefb-cup,9/13/2008,SK Austria K‰rnten,SV Ried,0,YYYNYYNNY,0
+1430,÷FB-Cup,aut-oefb-cup,3/3/2009,FC Trenkwalder Admira,SV Ried,0,YYNYYYYYN,0
+1431,÷FB-Cup,aut-oefb-cup,3/3/2009,Rapid Wien (A),Austria Wien (A),0,YNYNYYY,0
+1432,÷FB-Cup,aut-oefb-cup,3/3/2009,Sturm Graz,Austria Wien,0,YNYYYYYYY,0
+1433,÷FB-Cup,aut-oefb-cup,8/14/2009,SV Horn,Austria Wien (A),0,NYYYYNYYYYYYYYYN,0
+1434,÷FB-Cup,aut-oefb-cup,8/13/2010,FC Kufstein,USK Anif,0,YYYYYYYYNNNY,0
+1435,÷FB-Cup,aut-oefb-cup,8/14/2010,FC Hˆchst,RB Salzburg (A),0,YYYYNNYYNY,0
+1436,÷FB-Cup,aut-oefb-cup,8/14/2010,SAK Klagenfurt,WAC/St. Andr‰,0,YYYNYYNNY,0
+1437,÷FB-Cup,aut-oefb-cup,8/14/2010,SC Retz,FC Gratkorn,0,YNYYNYYNY,0
+1438,÷FB-Cup,aut-oefb-cup,9/19/2010,Austria Wien (A),Rapid Wien,0,YNYYNYYYYN,0
+1439,÷FB-Cup,aut-oefb-cup,11/9/2010,Austria Lustenau,SV Grˆdig,1,YYYYYYYYYN,0
+1440,÷FB-Cup,aut-oefb-cup,8/6/2011,WSG Wattens,SV St. Margarethen,0,YYYNYYYYY,0
+1441,÷FB-Cup,aut-oefb-cup,7/13/2012,FC Gratkorn,FC Wacker Innsbruck,0,NYYYYYYYYNYN,0
+1442,÷FB-Cup,aut-oefb-cup,9/25/2012,SC Wiener Viktoria,Kapfenberger SV 1919,1,YYYNYNY,0
+1443,÷FB-Cup,aut-oefb-cup,9/26/2012,Union St. Florian,SV Ried,0,NYYYYYYYYNYN,0
+1444,÷FB-Cup,aut-oefb-cup,10/30/2012,LASK Linz,SV Mattersburg,0,YYYYYYYYYYYYNNNY,0
+1445,÷FB-Cup,aut-oefb-cup,7/12/2013,SC Sollenau,Wiener Sportklub,0,YYYYNYYYN,0
+1446,÷FB-Cup,aut-oefb-cup,7/13/2013,Austria Salzburg,SV Grˆdig,0,YYYNYYNYYYYYNNNY,0
+1447,÷FB-Cup,aut-oefb-cup,7/13/2013,SC Retz,Vorw‰rts Steyr,0,YNYYYYNNY,0
+1448,÷FB-Cup,aut-oefb-cup,7/13/2013,Villacher SV,WSG Wattens,0,NYYYYYYYYY,0
+1449,÷FB-Cup,aut-oefb-cup,7/14/2013,LASK Linz,Rapid Wien,1,YYYYYYYYYN,0
+1450,÷FB-Cup,aut-oefb-cup,9/24/2013,Austria Salzburg,SV Mattersburg,0,YYNNYYYNY,0
+1451,÷FB-Cup,aut-oefb-cup,9/25/2013,FAC Team f¸r Wien,FC Admira Wacker,1,NYYYYYYNYYYYNY,0
+1452,÷FB-Cup,aut-oefb-cup,9/25/2013,FC Lankowitz,RB Salzburg,0,YYYYYYYYYYYN,0
+1453,÷FB-Cup,aut-oefb-cup,7/11/2014,SC Kalsdorf,TSV Hartberg,1,YYYNYYNNNYNY,0
+1454,÷FB-Cup,aut-oefb-cup,7/11/2014,SV Wallern,Union St. Florian,1,YYYNYYYYY,0
+1455,÷FB-Cup,aut-oefb-cup,9/23/2014,TSV St. Johann,SKN St. Pˆlten,1,NYYYYNYYYYNNYYYYNY,0
+1456,÷FB-Cup,aut-oefb-cup,9/24/2014,SC Wiener Neustadt,FC Admira Wacker,1,YYYYYNYYY,0
+1457,÷FB-Cup,aut-oefb-cup,10/29/2014,SCR Altach,SV Mattersburg,1,YYYNYYYN,0
+1458,÷FB-Cup,aut-oefb-cup,7/17/2015,FC Blau Weiﬂ Linz,FC Wacker Innsbruck,0,NYYYYNYYYYYN,0
+1459,÷FB-Cup,aut-oefb-cup,7/17/2015,Vˆlkermarkter ST 1868,FC Lendorf,0,YYYNNNNYYYYN,0
+1460,÷FB-Cup,aut-oefb-cup,7/18/2015,SV Leobendorf,Wiener Sportklub,0,YNYYNNNYYYYYYN,0
+1461,÷FB-Cup,aut-oefb-cup,7/18/2015,SV Schwechat,FC Admira Wacker,0,YYYYYNYN,0
+1462,÷FB-Cup,aut-oefb-cup,9/22/2015,TSV St. Johann,LASK Linz,0,YYYNYYNYYYNNYN,0
+1463,÷FB-Cup,aut-oefb-cup,9/22/2015,WSG Wattens,Kapfenberger SV 1919,0,YYYYYYNNYYYYNY,0
+1464,÷FB-Cup,aut-oefb-cup,9/23/2015,SKU Amstetten,Rapid Wien,0,YYYYNNYYYN,0
+1465,÷FB-Cup,aut-oefb-cup,9/23/2015,SV Ried,Wolfsberger AC,1,YYYNYYYYY,0
+1466,÷FB-Cup,aut-oefb-cup,9/23/2015,SV Wallern,FC Admira Wacker,0,NYYYYNYNY,0
+1467,÷FB-Cup,aut-oefb-cup,7/15/2016,FC Gleisdorf 09,TSV Hartberg,0,YYYYYNYYY,0
+1468,÷FB-Cup,aut-oefb-cup,7/16/2016,SV Leobendorf,USV Allerheiligen,0,YYNYNYN,0
+1469,÷FB-Cup,aut-oefb-cup,7/17/2016,SC Mannsdorf,FC Wacker Innsbruck,0,NYYYNNYYYY,0
+1470,÷FB-Cup,aut-oefb-cup,9/20/2016,SKU Amstetten,Austria Lustenau,0,YYNYNNYYN,0
+1471,÷FB-Cup,aut-oefb-cup,9/20/2016,SV Grˆdig,SV Horn,1,NYYYYNYNY,0
+1472,÷FB-Cup,aut-oefb-cup,9/20/2016,TSV Hartberg,WSG Wattens,1,YYYYYYNYYY,0
+1473,÷FB-Cup,aut-oefb-cup,9/21/2016,SV Lafnitz,SV Mattersburg,0,YYYYYYNYN,0
+1474,÷FB-Cup,aut-oefb-cup,10/26/2016,SKN St. Pˆlten,Sturm Graz,0,YYYYNNYYNY,0
+1475,Playoff,eng-playoff,5/8/2007,Oxford United,Exeter City,1,YNYYYYNYNNNY,0
+1476,Playoff,eng-playoff,5/15/2007,Derby County,Southampton FC,0,NYYYYYYYN,0
+1477,Playoff,eng-playoff,5/17/2008,Rochdale AFC,Darlington FC,0,YYYYYYYYNY,0
+1478,Playoff,eng-playoff,5/10/2009,Bury FC,Shrewsbury Town,1,YYYYNYYYN,0
+1479,Playoff,eng-playoff,5/15/2009,Milton Keynes Dons,Scunthorpe United,0,YYYYYYNNYYNNYYYYYN,0
+1480,Playoff,eng-playoff,5/12/2010,Cardiff City,Leicester City,0,YYYYYYNYN,0
+1481,Playoff,eng-playoff,5/17/2010,Charlton Athletic,Swindon Town,1,YYNYYYYYYY,0
+1482,Playoff,eng-playoff,5/18/2011,Huddersfield Town,AFC Bournemouth,0,YYNYNYYY,0
+1483,Playoff,eng-playoff,5/21/2011,Luton Town,AFC Wimbledon,1,NYYYYNYYNY,0
+1484,Playoff,eng-playoff,5/26/2012,Huddersfield Town,Sheffield United,1,NNNYNNYNYYYYYYYYYYYYYN,0
+1485,Playoff,eng-playoff,5/6/2013,Brentford FC,Swindon Town,0,NYYYYYYYYY,0
+1486,Playoff,eng-playoff,5/23/2015,Wycombe Wanderers,Southend United,0,YYNYYYYNYYYYYYYN,0
+1487,Playoff,sco-playoff,5/15/2016,Ayr United,Stranraer FC,0,NYNYNNYY,0
+1488,Playoff,eng-playoff,5/17/2017,Sheffield Wednesday,Huddersfield Town,0,YNYYYYYYNN,0
+1489,Playoff,sco-playoff,5/20/2017,Alloa Athletic,Brechin City FC,1,YYNYYNYYYYNY,0
+1490,Playoff,eng-playoff,5/29/2017,Huddersfield Town,Reading FC,0,YYYNYYNYNY,0
+1491,Poh·r FACR,cze-pohar-facr,5/17/2014,Sparta Praha,Viktoria Plzen,0,NYYNYYYYYYYYYYNNYYNY,0
+1492,Poh·r FACR,cze-pohar-facr,5/27/2015,FK Jablonec,Slovan Liberec,0,YNNYYNYN,0
+1493,Primera A,col-primera-a,5/29/2011,Once Caldas,Millonarios,0,YYYYYYYNNYYN,0
+1494,Primera A,col-primera-a,6/1/2011,AtlÈtico Nacional,Deportivo Cali,1,YNYNYYY,0
+1495,Primera A,col-primera-a,6/19/2011,AtlÈtico Nacional,La Equidad,0,NYNNYYYYN,0
+1496,Primera A,col-primera-a,12/8/2011,Millonarios,Envigado FC,0,NYYYYNYYYYYYYYNY,0
+1497,Primera A,col-primera-a,12/15/2011,AtlÈtico Junior,Millonarios,0,NYYYYYYYYY,0
+1498,Primera A,col-primera-a,12/22/2011,Once Caldas,AtlÈtico Junior,0,YYYNYYYN,0
+1499,Primera A,col-primera-a,5/11/2014,Millonarios,AtlÈtico Junior,0,NYYNYYNNYYYYYN,0
+1500,Primera A,col-primera-a,5/22/2014,AtlÈtico Nacional,AtlÈtico Junior,0,YYNYYYNY,0
+1501,Primera A,col-primera-a,6/1/2015,Deportivo Cali,Millonarios,1,YYYNNYYYYN,0
+1502,Primera A,col-primera-a,12/20/2015,AtlÈtico Nacional,AtlÈtico Junior,0,NNYYYYNYN,0
+1503,Primera A,col-primera-a,6/4/2016,AtlÈtico Nacional,Rionegro ¡guilas,0,NYNNYYYNYYYYNY,0
+1504,Primera A,col-primera-a,6/5/2016,Millonarios,AtlÈtico Junior,0,YYYNNNYYY,0
+1505,Primera A,col-primera-a,6/11/2016,AtlÈtico Nacional,AtlÈtico Junior,0,YNNYYYYNY,0
+1506,Primera A,col-primera-a,6/12/2016,Independiente MedellÌn,Cortulu·,1,YYYNYYNYYYYYYYNNNNYYYN,0
+1507,Primera A,col-primera-a,12/4/2016,Deportes Tolima,Patriotas FC,0,NYNYNY,0
+1508,Primera DivisiÛn,mex-primera-division,6/13/2004,Pumas UNAM,Deportivo Guadalajara,1,YYYYYYYYYN,0
+1509,Primera DivisiÛn,chi-primera-division,5/7/2008,CD Cobresal,CD Cobreloa,0,NNYNYYYYY,0
+1510,Primera DivisiÛn,mex-primera-division,12/14/2008,Deportivo Toluca,Cruz Azul,1,YYYYYYYYYYYYYN,0
+1511,Primera DivisiÛn,chi-primera-division,6/29/2009,UniÛn EspaÒola,Universidad CatÛlica,1,YNYYYYYN,0
+1512,Primera DivisiÛn,mex-primera-division,5/23/2010,Deportivo Toluca,Santos Laguna,1,NYYYNYYNYNYN,0
+1513,Primera DivisiÛn,per-primera-division,12/14/2011,Alianza Lima,Juan Aurich,1,NYYYNYN,0
+1514,Primera DivisiÛn,ven-primera-division,5/31/2012,Zamora FC,Monagas,1,YYYYNYYYYY,0
+1515,Primera DivisiÛn,chi-primera-division,7/2/2012,Universidad de Chile,O'Higgins,0,NYNNNYN,0
+1516,Primera DivisiÛn,chi-primera-division,12/9/2012,CD Huachipato,UniÛn EspaÒola,0,YYNNYNNYNNNY,0
+1517,Primera DivisiÛn,mex-primera-division,5/27/2013,CF AmÈrica,Cruz Azul,0,NYNYYYYY,0
+1518,Primera DivisiÛn,chi-primera-division,12/17/2013,Universidad CatÛlica,Deportes Iquique,1,NYNYYNYNNY,0
+1519,Primera DivisiÛn,per-primera-division,12/18/2013,Real Garcilaso,Universitario de Deportes,0,NYYYYNYYYYNNYN,0
+1520,Primera DivisiÛn,ven-primera-division,5/28/2014,Carabobo FC,Deportivo La Guaira,1,YYNYYYYYN,0
+1521,Primera DivisiÛn,uru-primera-division,6/8/2014,Montevideo Wanderers,Danubio FC,0,YNYNNNNYNYYN,0
+1522,Primera DivisiÛn,ven-primera-division,5/20/2015,Deportivo Lara,Carabobo FC,1,NYNYYNNY,0
+1523,Primera DivisiÛn,per-primera-division,12/3/2015,FBC Melgar,Real Garcilaso,1,YNYYYYYN,0
+1524,Primera DivisiÛn,mex-primera-division,12/14/2015,Pumas UNAM,UANL Tigres,1,NYYYYYNY,0
+1525,Primera DivisiÛn,ven-primera-division,11/30/2016,Deportivo T·chira,Zulia FC,0,YYYYYYYNNYYYYYYN,0
+1526,Primera DivisiÛn,per-primera-division,12/4/2016,Sporting Cristal,Deportivo Municipal,1,NYNNYYYNYN,0
+1527,Primera DivisiÛn,chi-primera-division,12/17/2016,UniÛn EspaÒola,O'Higgins,1,YNYYNYYNY,0
+1528,Primera DivisiÛn,mex-primera-division,12/26/2016,UANL Tigres,CF AmÈrica,1,YNYNYN,0
+1529,Primera DivisiÛn,per-primera-division,5/31/2017,Universidad TÈcnica,FBC Melgar,1,YNNYYYYYNY,0
+1530,Puchar Polski,pol-puchar-polski,5/3/2011,Lech Poznan,Legia Warszawa,1,NYYYYYYYYY,0
+1531,Puchar Polski,pol-puchar-polski,3/5/2015,Legia Warszawa,Slask Wroclaw,0,YYNYNNNY,0
+1532,Puchar Polski,pol-puchar-polski,8/12/2015,Stal Stalowa Wola,Piast Gliwice,1,YNYNYN,0
+1533,Puchar Polski,pol-puchar-polski,8/9/2016,Puszcza Niepolomice,Korona Kielce,0,NYNNYNNYYY,0
+1534,Puchar Polski,pol-puchar-polski,8/11/2016,OKS Stomil Olsztyn,Ruch ChorzÛw,0,YYYYNNYYYYYYYYYN,0
+1535,Puchar Polski,pol-puchar-polski,8/24/2016,Piast Gliwice,Lechia Gdansk,0,YYYYYNYYY,0
+1536,Puchar Polski,pol-puchar-polski,9/21/2016,Puszcza Niepolomice,Lechia Gdansk,1,YYNNYYYNY,0
+1537,Relegation,chi-relegation,12/6/2009,CD Palestino,San Marcos de Arica,1,YNYYYYYN,0
+1538,Slovensky Pohar,svk-slovensky-pohar,5/1/2015,FK AS TrencÌn,FK Senica,0,NNYYYYNYN,0
+1539,State Cup,isr-state-cup,5/25/2017,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,0,YNYYYYNNNYNY,0
+1540,Steypakappingin,fro-steypakappingin,5/17/2007,KÕ KlaksvÌk,Sk·la ÕF,0,YYYYYYYYYYYN,0
+1541,Steypakappingin,fro-steypakappingin,4/2/2008,07 Vestur,B36 TÛrshavn,0,YYYYYYYNY,0
+1542,Steypakappingin,fro-steypakappingin,4/29/2009,TB Tv¯royri,AB Argir,1,NYYNNYYYYY,0
+1543,Steypakappingin,fro-steypakappingin,4/25/2010,VÌkingur,AB Argir,1,YNYYYYYYNN,0
+1544,Steypakappingin,fro-steypakappingin,5/4/2011,VÌkingur,B68 Toftir,1,YYNYYYNY,0
+1545,Steypakappingin,fro-steypakappingin,8/25/2012,EB/Streymur,VÌkingur,0,YYNYYYYNYYNNYN,0
+1546,Steypakappingin,fro-steypakappingin,5/5/2013,HB TÛrshavn,EB/Streymur,0,YYYYYYYNY,0
+1547,Steypakappingin,fro-steypakappingin,4/22/2015,ÕF Fuglafj¯rur,VÌkingur,0,YYYYYYYYYYNNYYYYYYYN,0
+1548,Steypakappingin,fro-steypakappingin,4/22/2015,NSÕ RunavÌk,AB Argir,0,YYYYYYNYYY,0
+1549,Steypakappingin,fro-steypakappingin,5/8/2016,VÌkingur,HB TÛrshavn,1,YYYYYNYYNN,0
+1550,Steypakappingin,fro-steypakappingin,8/27/2016,KÕ KlaksvÌk,VÌkingur,1,YYYYYNYYY,0
+1551,Suomen Cup,fin-suomen-cup,11/1/2014,HJK Helsinki,Inter Turku,1,YYYYYNYYY,0
+1552,Suomen Cup,fin-suomen-cup,9/24/2016,HJK Helsinki,SJK Sein‰joki,1,YYYYYYYNNYYYYYNY,0
+1553,Supercup,aut-supercup,4/29/1990,FC Tirol,Admira/Wacker,0,YNYNYN,0
+1554,Supercup,aut-supercup,7/22/1992,Austria Wien,Admira/Wacker,0,NYYYYYYYYY,0
+1555,Supercup,aut-supercup,7/28/1993,Austria Wien,FC Tirol Innsbruck,1,YNYNYYNN,0
+1556,Supercup,supercup,8/1/1993,Bayer Leverkusen,Werder Bremen,0,YYYYYYYYYYYYYN,0
+1557,Supercup,supercup,8/3/1996,1. FC Kaiserslautern,Borussia Dortmund,1,YNYNYYNYNYNY,0
+1558,Supercup,aut-supercup,7/7/2001,FC Tirol Innsbruck,FC K‰rnten,0,YYYYYYYYYYYYYYYYYYYN,0
+1559,Supercup,aut-supercup,7/9/2004,Grazer AK,Austria Wien,1,YYYYNYNY,0
+1560,Supercup,supercup,7/23/2011,FC Schalke 04,Borussia Dortmund,0,YYYYNYYYN,0
+1561,Supercup,supercup,8/1/2015,VfL Wolfsburg,Bayern M¸nchen,0,YYNYYYYYYY,0
+1562,Supercup,isl-supercup,4/25/2016,Valur ReykjavÌk,FH Hafnarfjˆrur,1,YNYNYYY,0
+1563,Superkubok,blr-superkubok,3/14/2015,BATE Borisov,Shakhter Soligorsk,1,YNYNYN,0
+1564,Superkubok,rus-superkubok,7/12/2015,Zenit St. Petersburg,Lokomotiv Moskva,1,YNYYYYNNY,0
+1565,Superkubok,kaz-superkubok,3/8/2016,FK Astana,FK Kairat,1,YYYYNYNNYNYYNY,0
+1566,Superkubok,ukr-superkubok,7/16/2016,Shakhtar Donetsk,Dinamo Kiev,1,YYNYYNYYNY,0
+1567,Svenska Cupen,swe-svenska-cupen,8/20/2015,IS Halmia,Kalmar FF,0,YNNYYYYNY,0
+1568,Svenska Cupen,swe-svenska-cupen,3/13/2016,Kalmar FF,Helsingborgs IF,0,YYNYYYYYYY,0
+1569,Svenska Cupen,swe-svenska-cupen,5/5/2016,Malmˆ FF,BK H‰cken,1,YYYNYYYYNYYYNY,0
+1570,TaÁa,por-taca,11/10/2013,AcadÈmica de Coimbra,AcadÈmico Viseu,0,NNYYNYYYYY,0
+1571,TaÁa,por-taca,12/17/2014,CS MarÌtimo,Oriental,0,YYYYYNYYNYYYYYYYYYNNNY,0
+1572,TaÁa,por-taca,1/8/2015,CS MarÌtimo,CD Nacional,0,YYYYNNYYYYNNYYYN,0
+1573,TaÁa,por-taca,5/31/2015,Sporting CP,Sporting Braga,0,YYNYNYN,0
+1574,TaÁa,por-taca,11/21/2015,FC Arouca,GD Chaves,0,YYYNYYNYYYYYNY,0
+1575,TaÁa,por-taca,11/22/2015,CD Aves,Uni„o da Madeira,1,YYYYYNYYNYNNYN,0
+1576,TaÁa,por-taca,12/15/2015,VitÛria Set˙bal,Rio Ave FC,0,YNNYNNYNY,0
+1577,TaÁa,por-taca,5/22/2016,Sporting Braga,FC Porto,0,YYNYYYNY,0
+1578,TaÁa,por-taca,11/18/2016,GD Chaves,FC Porto,0,YNNYYYNNNY,0
+1579,TaÁa,por-taca,11/19/2016,CD Feirense,AcadÈmica de Coimbra,1,YYYYYYNYYY,0
+1580,TaÁa da Liga,por-taca-da-liga,4/27/2014,FC Porto,SL Benfica,0,YYNNYYNNYYYN,0
+1581,TaÁa da Liga,por-taca-da-liga,9/23/2015,Leixıes SC,AcadÈmico Viseu,1,YNNYYYYYYYYN,0
+1582,TaÁa da Liga,por-taca-da-liga,10/10/2015,CD Tondela,CD Nacional,1,YYYYNYYYYNYYYYNY,0
+1583,TaÁa da Liga,por-taca-da-liga,10/12/2015,CD Feirense,Boavista,1,YYYYYNYYNN,0
+1584,TaÁa da Liga,por-taca-da-liga,10/26/2016,FC Penafiel,Sporting Covilh„,1,NYYYNYYY,0
+1585,T¸rkiye Kupasi,tur-tuerkiye-kupasi,5/11/2011,Istanbul BBSK,Besiktas,1,NYYYYYYNNY,0
+1586,T¸rkiye Kupasi,tur-tuerkiye-kupasi,2/11/2015,Bursaspor,Istanbul Basaksehir F.K.,1,NNYYNYYNYN,0
+1587,T¸rkiye Kupasi,tur-tuerkiye-kupasi,4/16/2015,Sivasspor,Kayserispor,1,NNYNYYNNY,0
+1588,T¸rkiye Kupasi,tur-tuerkiye-kupasi,5/17/2017,FenerbahÁe,Medipol Basaksehir F.K,0,YYNYYYYNYYYYYYNNYYNNYYYYYN,0
+1589,T¸rkiye Kupasi,tur-tuerkiye-kupasi,5/31/2017,Medipol Basaksehir F.K,Atiker Konyaspor,0,YYYNYNY,0
+1590,UI-Cup,ui-cup,8/2/1995,FC Tirol Innsbruck,Bayer Leverkusen,1,YNYYYYYYY,0
+1591,UI-Cup,ui-cup,7/27/2002,Villarreal CF,Torino FC,0,NNYYYYNYYY,0
+1592,UI-Cup,ui-cup,6/28/2003,KA Akureyri,Sloboda Tuzla,1,NYYNNYYNNY,0
+1593,UI-Cup,ui-cup,7/9/2005,Athletic Bilbao,CFR Cluj,0,YNYYYYYYY,0
+1594,UI-Cup,ui-cup,6/30/2007,Dacia Chisinau,FK Baku,1,YNNYNNYNY,0
+1595,UI-Cup,ui-cup,7/14/2007,FC St. Gallen,Dacia Chisinau,0,YNYNYN,0
+1596,UI-Cup,ui-cup,7/14/2007,Gloria Bistrita,Maccabi Haifa,0,NNYYNYYYN,0
+1597,UI-Cup,ui-cup,7/26/2008,Tavriya Simferopol,Stade Rennes,0,YYYYNNNYYNYYYYYYYYYYYYYN,0
+1598,World Cup,wm,7/8/1982,Germany,France,0,YYYYYNNYYYNY,1
+1599,World Cup,wm,6/21/1986,Brazil,France,1,NYYYYYYNNY,1
+1600,World Cup,wm,6/21/1986,Germany,Mexico,1,YYYNYNY,1
+1601,World Cup,wm,6/22/1986,Spain,Belgium,1,YYNYYYYYYY,1
+1602,World Cup,wm,6/25/1990,Ireland,Romania,0,YYYYYYYYNY,1
+1603,World Cup,wm,6/30/1990,Yugoslavia,Argentina,0,YNYYNYNNYN,1
+1604,World Cup,wm,7/3/1990,Italy,Argentina,1,YYYYYYNYN,1
+1605,World Cup,wm,7/4/1990,Germany,England,0,YYYYYYNYN,1
+1606,World Cup,wm,7/5/1994,Mexico,Bulgaria,1,NNNYNYYY,1
+1607,World Cup,wm,7/10/1994,Romania,Sweden,0,NYYYYYYNYYYN,1
+1608,World Cup,wm,7/17/1994,Brazil,Italy,0,NNYYYYNYN,1
+1609,World Cup,wm,6/30/1998,Argentina,England,1,YYNNYYYYYN,1
+1610,World Cup,wm,7/3/1998,Italy,France,0,YYNNYYYYYN,1
+1611,World Cup,wm,7/7/1998,Brazil,Netherlands,1,YYYYYNYN,1
+1612,World Cup,wm,6/16/2002,Spain,Ireland,0,YYNYNNNNYY,1
+1613,World Cup,wm,6/22/2002,Spain,South Korea,0,YYYYYYYNY,1
+1614,World Cup,wm,6/26/2006,Switzerland,Ukraine,0,NNYNYNY,1
+1615,World Cup,wm,6/30/2006,Germany,Argentina,1,YYYNYYYN,1
+1616,World Cup,wm,7/1/2006,England,Portugal,0,YNNYNNYNY,1
+1617,World Cup,wm,7/9/2006,Italy,France,1,YYYNYYYYY,1
+1618,World Cup,wm,6/29/2010,Paraguay,Japan,1,YYYYYNYYY,1
+1619,World Cup,wm,7/2/2010,Uruguay,Ghana,1,YYYYYNNNY,1
+1620,World Cup,wm,6/28/2014,Brazil,Chile,1,YNNNYYNYYN,1
+1621,World Cup,wm,6/29/2014,Costa Rica,Greece,1,YYYYYYYNY,1
+1622,World Cup,wm,7/5/2014,Netherlands,Costa Rica,0,YYNYYYYYN,1
+1623,World Cup,wm,7/9/2014,Netherlands,Argentina,1,NYYYNYYY,1
